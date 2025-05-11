@@ -24,9 +24,8 @@ def show_guesses(guesses, year=None, team=None):
     for item in guesses:
         print(f"{item}: {guesses[item]}")
 
-true_lineup = []
 df = pd.read_csv('SampleData.csv')
-year = 2024
+year = 2008
 team = 'Philadelphia Phillies'
 true_lineup = df[(df['Year'] == year) & (df['Team'] == team)].to_dict('records')
 
