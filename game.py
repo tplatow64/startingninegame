@@ -1,5 +1,5 @@
-import csv
 import random
+import pandas as pd
 
 def check_guesses(true_lineup, guesses):
     total = len(guesses)
@@ -24,34 +24,29 @@ def show_guesses(guesses, year=None, team=None):
     for item in guesses:
         print(f"{item}: {guesses[item]}")
 
-with open('SampleData.csv') as file:
-    reader = csv.DictReader(file)
-    year = str(2008)
-    team = 'Philadelphia Phillies'
-    true_lineup = []
-    for row in reader:
-        if(row['Year'] == year and row['Team'] == team):
-            true_lineup.append(row)
-    guessed_lineup = {}
-    for player in true_lineup:
-        guessed_lineup[player['Pos']] = "_____"
+true_lineup = []
+df = pd.read_csv('SampleData.csv')
+year = 2024
+team = 'Philadelphia Phillies'
+true_lineup = df[(df['Year'] == year) & (df['Team'] == team)].to_dict('records')
 
-    pos_response = ""
-    player_response = ""
-    while not pos_response.lower() == 'submit':
-        show_guesses(guessed_lineup, year, team)
-        pos_response = input("Enter position, or submit: ").upper()
-        if(pos_response in guessed_lineup):
-            player_response = input(f"Enter guess at {pos_response}: ")
-            guessed_lineup[pos_response] = player_response
-        elif(pos_response.lower() == "submit"):
-            break
-        else:
-            print("Invalid position.")
+guessed_lineup = {}
+for player in true_lineup:
+    guessed_lineup[player['Pos']] = "_____"
 
-    #guessed_lineup = {'2B': 'chase utley', '1B': 'Ryan Howard', 'LF': 'Pat burrell', 'CF': '_____', 'SS': '_____', 'RF': 'Jayson Werth', '3B': '_____', 'C': '_____'}
+pos_response = ""
+player_response = ""
+while not pos_response.lower() == 'submit':
+    show_guesses(guessed_lineup, year, team)
+    pos_response = input("Enter position, or submit: ").upper()
+    if(pos_response in guessed_lineup):
+        player_response = input(f"Enter guess at {pos_response}: ")
+        guessed_lineup[pos_response] = player_response
+    elif(pos_response.lower() == "submit"):
+        break
+    else:
+        print("Invalid position.")
 
-    check_guesses(true_lineup, guessed_lineup)
+#guessed_lineup = {'2B': 'chase utley', '1B': 'Ryan Howard', 'LF': 'Pat burrell', 'CF': '_____', 'SS': '_____', 'RF': 'Jayson Werth', '3B': '_____', 'C': '_____'}
 
-
-
+check_guesses(true_lineup, guessed_lineup)
