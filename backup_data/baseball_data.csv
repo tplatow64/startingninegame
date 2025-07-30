@@ -1,405 +1,4 @@
-"year","team","position","player_name","games_played"
-2005,Los Angeles Angels of Anaheim,C,Bengie Molina,119
-2005,Los Angeles Angels of Anaheim,"1B",Darin Erstad,153
-2005,Los Angeles Angels of Anaheim,"2B",Adam Kennedy,129
-2005,Los Angeles Angels of Anaheim,SS,Orlando Cabrera,141
-2005,Los Angeles Angels of Anaheim,"3B",Dallas McPherson,61
-2005,Los Angeles Angels of Anaheim,LF,Garret Anderson,142
-2005,Los Angeles Angels of Anaheim,CF,Steve Finley,112
-2005,Los Angeles Angels of Anaheim,RF,Vladimir Guerrero,141
-2005,Los Angeles Angels of Anaheim,DH,Jeff DaVanon,108
-2005,Los Angeles Angels of Anaheim,UT,Chone Figgins,158
-2005,Los Angeles Angels of Anaheim,OF,Juan Rivera,106
-2005,Los Angeles Angels of Anaheim,IF,Maicer Izturis,77
-2005,Los Angeles Angels of Anaheim,C,Jose Molina,75
-2005,Los Angeles Angels of Anaheim,"3B",Robb Quinlan,54
-2005,Los Angeles Angels of Anaheim,DH,Casey Kotchman,47
-2005,Los Angeles Angels of Anaheim,C,Josh Paul,34
-2005,Los Angeles Angels of Anaheim,IF,Zach Sorensen,12
-2005,Los Angeles Angels of Anaheim,DH,Curtis Pride,11
-2005,Los Angeles Angels of Anaheim,CI,Lou Merloni,5
-2005,Los Angeles Angels of Anaheim,CF,Chris Prieto,2
-2005,Los Angeles Angels of Anaheim,DH,Jeff Mathis,5
-2005,Los Angeles Angels of Anaheim,"2B",Dave Matranga,1
-2005,Los Angeles Angels of Anaheim,P,John Lackey,3
-2005,Los Angeles Angels of Anaheim,P,Jarrod Washburn,2
-2005,Los Angeles Angels of Anaheim,P,Paul Byrd,2
-2005,Los Angeles Angels of Anaheim,P,Bartolo Colon,2
-2005,Los Angeles Angels of Anaheim,P,Kelvim Escobar,1
-2005,Los Angeles Angels of Anaheim,P,Scot Shields,5
-2005,Los Angeles Angels of Anaheim,P,Brendan Donnelly,5
-2005,Los Angeles Angels of Anaheim,P,Joel Peralta,3
-2005,Los Angeles Angels of Anaheim,P,Greg Jones,1
-2005,Los Angeles Angels of Anaheim,P,Kevin Gregg,2
-2005,Los Angeles Angels of Anaheim,P,Francisco Rodriguez,4
-2005,Los Angeles Angels of Anaheim,P,Jake Woods,4
-2005,Los Angeles Angels of Anaheim,P,Esteban Yan,3
-2006,Los Angeles Angels of Anaheim,C,Mike Napoli,99
-2006,Los Angeles Angels of Anaheim,"1B",Kendrys Morales,57
-2006,Los Angeles Angels of Anaheim,"2B",Adam Kennedy,139
-2006,Los Angeles Angels of Anaheim,SS,Orlando Cabrera,153
-2006,Los Angeles Angels of Anaheim,"3B",Maicer Izturis,104
-2006,Los Angeles Angels of Anaheim,LF,Garret Anderson,141
-2006,Los Angeles Angels of Anaheim,CF,Chone Figgins,155
-2006,Los Angeles Angels of Anaheim,RF,Vladimir Guerrero,156
-2006,Los Angeles Angels of Anaheim,DH,Tim Salmon,76
-2006,Los Angeles Angels of Anaheim,OF,Juan Rivera,124
-2006,Los Angeles Angels of Anaheim,IF,Howie Kendrick,72
-2006,Los Angeles Angels of Anaheim,C,Jose Molina,78
-2006,Los Angeles Angels of Anaheim,"1B",Robb Quinlan,86
-2006,Los Angeles Angels of Anaheim,"3B",Dallas McPherson,40
-2006,Los Angeles Angels of Anaheim,CF,Darin Erstad,40
-2006,Los Angeles Angels of Anaheim,"1B",Casey Kotchman,29
-2006,Los Angeles Angels of Anaheim,CF,Tommy Murphy,48
-2006,Los Angeles Angels of Anaheim,C,Jeff Mathis,23
-2006,Los Angeles Angels of Anaheim,CF,Reggie Willits,28
-2006,Los Angeles Angels of Anaheim,"3B",Edgardo Alfonzo,18
-2006,Los Angeles Angels of Anaheim,MI,Erick Aybar,34
-2006,Los Angeles Angels of Anaheim,OF,Curtis Pride,22
-2006,Los Angeles Angels of Anaheim,P,Jeff Weaver,2
-2006,Los Angeles Angels of Anaheim,P,Ervin Santana,2
-2006,Los Angeles Angels of Anaheim,P,Kelvim Escobar,2
-2006,Los Angeles Angels of Anaheim,P,John Lackey,2
-2006,Los Angeles Angels of Anaheim,P,Kevin Gregg,3
-2006,Los Angeles Angels of Anaheim,P,Bartolo Colon,1
-2006,Los Angeles Angels of Anaheim,P,Scot Shields,4
-2006,Los Angeles Angels of Anaheim,P,Francisco Rodriguez,4
-2006,Los Angeles Angels of Anaheim,P,J.C. Romero,6
-2006,Los Angeles Angels of Anaheim,P,Brendan Donnelly,5
-2006,Los Angeles Angels of Anaheim,P,Hector Carrasco,4
-2006,Los Angeles Angels of Anaheim,P,Jason Bulger,2
-2006,Los Angeles Angels of Anaheim,P,Esteban Yan,2
-2007,Los Angeles Angels of Anaheim,C,Mike Napoli,75
-2007,Los Angeles Angels of Anaheim,"1B",Casey Kotchman,137
-2007,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,88
-2007,Los Angeles Angels of Anaheim,SS,Orlando Cabrera,155
-2007,Los Angeles Angels of Anaheim,"3B",Chone Figgins,115
-2007,Los Angeles Angels of Anaheim,LF,Garret Anderson,108
-2007,Los Angeles Angels of Anaheim,CF,Gary Matthews,140
-2007,Los Angeles Angels of Anaheim,RF,Vladimir Guerrero,150
-2007,Los Angeles Angels of Anaheim,DH,Shea Hillenbrand,53
-2007,Los Angeles Angels of Anaheim,OF,Reggie Willits,136
-2007,Los Angeles Angels of Anaheim,IF,Maicer Izturis,102
-2007,Los Angeles Angels of Anaheim,"2B",Erick Aybar,79
-2007,Los Angeles Angels of Anaheim,C,Jeff Mathis,59
-2007,Los Angeles Angels of Anaheim,"1B",Robb Quinlan,79
-2007,Los Angeles Angels of Anaheim,C,Jose Molina,40
-2007,Los Angeles Angels of Anaheim,DH,Kendrys Morales,43
-2007,Los Angeles Angels of Anaheim,OF,Nathan Haynes,40
-2007,Los Angeles Angels of Anaheim,OF,Juan Rivera,14
-2007,Los Angeles Angels of Anaheim,OF,Tommy Murphy,20
-2007,Los Angeles Angels of Anaheim,IF,Brandon Wood,13
-2007,Los Angeles Angels of Anaheim,C,Ryan Budde,12
-2007,Los Angeles Angels of Anaheim,OF,Terry Evans,8
-2007,Los Angeles Angels of Anaheim,"3B",Matthew Brown,4
-2007,Los Angeles Angels of Anaheim,LF,Nick Gorneault,2
-2007,Los Angeles Angels of Anaheim,P,Kelvim Escobar,2
-2007,Los Angeles Angels of Anaheim,P,Ervin Santana,2
-2007,Los Angeles Angels of Anaheim,P,Jered Weaver,2
-2007,Los Angeles Angels of Anaheim,P,Bartolo Colon,2
-2007,Los Angeles Angels of Anaheim,P,John Lackey,1
-2007,Los Angeles Angels of Anaheim,P,Dustin Moseley,5
-2007,Los Angeles Angels of Anaheim,P,Hector Carrasco,5
-2007,Los Angeles Angels of Anaheim,P,Darren Oliver,5
-2007,Los Angeles Angels of Anaheim,P,Francisco Rodriguez,4
-2007,Los Angeles Angels of Anaheim,P,Scot Shields,5
-2007,Los Angeles Angels of Anaheim,P,Chris Bootcheck,2
-2008,Los Angeles Angels of Anaheim,C,Jeff Mathis,94
-2008,Los Angeles Angels of Anaheim,"1B",Casey Kotchman,100
-2008,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,92
-2008,Los Angeles Angels of Anaheim,SS,Erick Aybar,98
-2008,Los Angeles Angels of Anaheim,"3B",Chone Figgins,116
-2008,Los Angeles Angels of Anaheim,LF,Garret Anderson,145
-2008,Los Angeles Angels of Anaheim,CF,Torii Hunter,146
-2008,Los Angeles Angels of Anaheim,RF,Vladimir Guerrero,143
-2008,Los Angeles Angels of Anaheim,DH,Juan Rivera,89
-2008,Los Angeles Angels of Anaheim,OF,Gary Matthews,127
-2008,Los Angeles Angels of Anaheim,MI,Maicer Izturis,79
-2008,Los Angeles Angels of Anaheim,C,Mike Napoli,78
-2008,Los Angeles Angels of Anaheim,"1B",Mark Teixeira,54
-2008,Los Angeles Angels of Anaheim,"2B",Sean Rodriguez,59
-2008,Los Angeles Angels of Anaheim,"3B",Robb Quinlan,68
-2008,Los Angeles Angels of Anaheim,IF,Brandon Wood,55
-2008,Los Angeles Angels of Anaheim,OF,Reggie Willits,82
-2008,Los Angeles Angels of Anaheim,UT,Kendrys Morales,27
-2008,Los Angeles Angels of Anaheim,"3B",Matthew Brown,11
-2008,Los Angeles Angels of Anaheim,C,Bobby Wilson,7
-2008,Los Angeles Angels of Anaheim,DH,Freddy Sandoval,6
-2008,Los Angeles Angels of Anaheim,C,Ryan Budde,8
-2008,Los Angeles Angels of Anaheim,P,John Lackey,2
-2008,Los Angeles Angels of Anaheim,P,Ervin Santana,2
-2008,Los Angeles Angels of Anaheim,P,Jered Weaver,2
-2008,Los Angeles Angels of Anaheim,P,Jon Garland,1
-2008,Los Angeles Angels of Anaheim,P,Joe Saunders,2
-2008,Los Angeles Angels of Anaheim,P,Jose Arredondo,4
-2008,Los Angeles Angels of Anaheim,P,Justin Speier,3
-2008,Los Angeles Angels of Anaheim,P,Scot Shields,3
-2008,Los Angeles Angels of Anaheim,P,Francisco Rodriguez,4
-2008,Los Angeles Angels of Anaheim,P,Darren Oliver,1
-2008,Los Angeles Angels of Anaheim,P,Darren O'Day,1
-2009,Los Angeles Angels of Anaheim,C,Mike Napoli,114
-2009,Los Angeles Angels of Anaheim,"1B",Kendrys Morales,152
-2009,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,105
-2009,Los Angeles Angels of Anaheim,SS,Erick Aybar,137
-2009,Los Angeles Angels of Anaheim,"3B",Chone Figgins,158
-2009,Los Angeles Angels of Anaheim,LF,Juan Rivera,138
-2009,Los Angeles Angels of Anaheim,CF,Torii Hunter,119
-2009,Los Angeles Angels of Anaheim,RF,Bobby Abreu,152
-2009,Los Angeles Angels of Anaheim,DH,Vladimir Guerrero,100
-2009,Los Angeles Angels of Anaheim,MI,Maicer Izturis,114
-2009,Los Angeles Angels of Anaheim,OF,Gary Matthews,103
-2009,Los Angeles Angels of Anaheim,C,Jeff Mathis,84
-2009,Los Angeles Angels of Anaheim,UT,Robb Quinlan,54
-2009,Los Angeles Angels of Anaheim,LF,Reggie Willits,49
-2009,Los Angeles Angels of Anaheim,IF,Brandon Wood,18
-2009,Los Angeles Angels of Anaheim,UT,Sean Rodriguez,12
-2009,Los Angeles Angels of Anaheim,IF,Freddy Sandoval,5
-2009,Los Angeles Angels of Anaheim,OF,Chris Pettit,10
-2009,Los Angeles Angels of Anaheim,OF,Terry Evans,11
-2009,Los Angeles Angels of Anaheim,UT,Bobby Wilson,12
-2009,Los Angeles Angels of Anaheim,DH,Ryan Budde,3
-2009,Los Angeles Angels of Anaheim,P,John Lackey,3
-2009,Los Angeles Angels of Anaheim,P,Matt Palmer,3
-2009,Los Angeles Angels of Anaheim,P,Jered Weaver,2
-2009,Los Angeles Angels of Anaheim,P,Sean O'Sullivan,1
-2009,Los Angeles Angels of Anaheim,P,Jason Bulger,5
-2009,Los Angeles Angels of Anaheim,P,Jose Arredondo,2
-2009,Los Angeles Angels of Anaheim,P,Justin Speier,6
-2009,Los Angeles Angels of Anaheim,P,Scot Shields,1
-2009,Los Angeles Angels of Anaheim,P,Darren Oliver,5
-2009,Los Angeles Angels of Anaheim,P,Brian Fuentes,7
-2009,Los Angeles Angels of Anaheim,P,Kevin Jepsen,3
-2010,Los Angeles Angels of Anaheim,C,Jeff Mathis,68
-2010,Los Angeles Angels of Anaheim,"1B",Mike Napoli,140
-2010,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,158
-2010,Los Angeles Angels of Anaheim,SS,Erick Aybar,138
-2010,Los Angeles Angels of Anaheim,"3B",Alberto Callaspo,58
-2010,Los Angeles Angels of Anaheim,LF,Juan Rivera,124
-2010,Los Angeles Angels of Anaheim,CF,Torii Hunter,152
-2010,Los Angeles Angels of Anaheim,RF,Bobby Abreu,154
-2010,Los Angeles Angels of Anaheim,DH,Hideki Matsui,145
-2010,Los Angeles Angels of Anaheim,IF,Brandon Wood,81
-2010,Los Angeles Angels of Anaheim,IF,Maicer Izturis,61
-2010,Los Angeles Angels of Anaheim,"1B",Kendrys Morales,51
-2010,Los Angeles Angels of Anaheim,CF,Peter Bourjos,51
-2010,Los Angeles Angels of Anaheim,OF,Reggie Willits,97
-2010,Los Angeles Angels of Anaheim,"3B",Kevin Frandsen,54
-2010,Los Angeles Angels of Anaheim,C,Bobby Wilson,40
-2010,Los Angeles Angels of Anaheim,UT,Mike Ryan,22
-2010,Los Angeles Angels of Anaheim,UT,Robb Quinlan,23
-2010,Los Angeles Angels of Anaheim,C,Hank Conger,13
-2010,Los Angeles Angels of Anaheim,"1B",Paul McAnulty,9
-2010,Los Angeles Angels of Anaheim,UT,Mark Trumbo,8
-2010,Los Angeles Angels of Anaheim,OF,Cory Aldridge,5
-2010,Los Angeles Angels of Anaheim,SS,Andrew Romine,5
-2010,Los Angeles Angels of Anaheim,C,Ryan Budde,6
-2010,Los Angeles Angels of Anaheim,CF,Terry Evans,1
-2010,Los Angeles Angels of Anaheim,P,Jered Weaver,3
-2010,Los Angeles Angels of Anaheim,P,Scott Kazmir,3
-2010,Los Angeles Angels of Anaheim,P,Joel Pineiro,2
-2010,Los Angeles Angels of Anaheim,P,Sean O'Sullivan,1
-2010,Los Angeles Angels of Anaheim,P,Trevor Bell,3
-2010,Los Angeles Angels of Anaheim,P,Joe Saunders,1
-2010,Los Angeles Angels of Anaheim,P,Scot Shields,3
-2010,Los Angeles Angels of Anaheim,P,Jason Bulger,2
-2010,Los Angeles Angels of Anaheim,P,Fernando Rodney,5
-2010,Los Angeles Angels of Anaheim,P,Francisco Rodriguez,3
-2010,Los Angeles Angels of Anaheim,P,Kevin Jepsen,4
-2010,Los Angeles Angels of Anaheim,P,Brian Fuentes,3
-2010,Los Angeles Angels of Anaheim,P,Bobby Cassevah,1
-2011,Los Angeles Angels of Anaheim,C,Jeff Mathis,93
-2011,Los Angeles Angels of Anaheim,"1B",Mark Trumbo,149
-2011,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,140
-2011,Los Angeles Angels of Anaheim,SS,Erick Aybar,143
-2011,Los Angeles Angels of Anaheim,"3B",Alberto Callaspo,141
-2011,Los Angeles Angels of Anaheim,LF,Vernon Wells,131
-2011,Los Angeles Angels of Anaheim,CF,Peter Bourjos,147
-2011,Los Angeles Angels of Anaheim,RF,Torii Hunter,156
-2011,Los Angeles Angels of Anaheim,DH,Bobby Abreu,142
-2011,Los Angeles Angels of Anaheim,IF,Maicer Izturis,122
-2011,Los Angeles Angels of Anaheim,C,Hank Conger,59
-2011,Los Angeles Angels of Anaheim,OF,Mike Trout,40
-2011,Los Angeles Angels of Anaheim,C,Bobby Wilson,57
-2011,Los Angeles Angels of Anaheim,DH,Russell Branyan,37
-2011,Los Angeles Angels of Anaheim,UT,Alexi Amarista,23
-2011,Los Angeles Angels of Anaheim,LF,Reggie Willits,22
-2011,Los Angeles Angels of Anaheim,IF,Andrew Romine,10
-2011,Los Angeles Angels of Anaheim,IF,Brandon Wood,6
-2011,Los Angeles Angels of Anaheim,"1B",Efren Navarro,8
-2011,Los Angeles Angels of Anaheim,OF,Jeremy Moore,8
-2011,Los Angeles Angels of Anaheim,IF,Gil Velazquez,4
-2011,Los Angeles Angels of Anaheim,"",Chris Pettit,1
-2011,Los Angeles Angels of Anaheim,P,Joel Pineiro,2
-2011,Los Angeles Angels of Anaheim,P,Tyler Chatwood,2
-2011,Los Angeles Angels of Anaheim,P,Dan Haren,2
-2011,Los Angeles Angels of Anaheim,P,Jered Weaver,2
-2011,Los Angeles Angels of Anaheim,P,Ervin Santana,1
-2011,Los Angeles Angels of Anaheim,P,Hisanori Takahashi,4
-2011,Los Angeles Angels of Anaheim,P,Rich Thompson,1
-2011,Los Angeles Angels of Anaheim,P,Michael Kohn,3
-2011,Los Angeles Angels of Anaheim,P,Jordan Walden,4
-2011,Los Angeles Angels of Anaheim,P,Scott Downs,6
-2011,Los Angeles Angels of Anaheim,P,Bobby Cassevah,3
-2011,Los Angeles Angels of Anaheim,P,Trevor Bell,3
-2012,Los Angeles Angels of Anaheim,C,Chris Iannetta,79
-2012,Los Angeles Angels of Anaheim,"1B",Albert Pujols,154
-2012,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,147
-2012,Los Angeles Angels of Anaheim,SS,Erick Aybar,141
-2012,Los Angeles Angels of Anaheim,"3B",Alberto Callaspo,138
-2012,Los Angeles Angels of Anaheim,LF,Vernon Wells,77
-2012,Los Angeles Angels of Anaheim,CF,Mike Trout,139
-2012,Los Angeles Angels of Anaheim,RF,Torii Hunter,140
-2012,Los Angeles Angels of Anaheim,DH,Kendrys Morales,134
-2012,Los Angeles Angels of Anaheim,UT,Mark Trumbo,144
-2012,Los Angeles Angels of Anaheim,IF,Maicer Izturis,100
-2012,Los Angeles Angels of Anaheim,C,Bobby Wilson,75
-2012,Los Angeles Angels of Anaheim,CF,Peter Bourjos,101
-2012,Los Angeles Angels of Anaheim,C,John Hester,39
-2012,Los Angeles Angels of Anaheim,OF,Bobby Abreu,8
-2012,Los Angeles Angels of Anaheim,OF,Kole Calhoun,21
-2012,Los Angeles Angels of Anaheim,C,Hank Conger,7
-2012,Los Angeles Angels of Anaheim,SS,Andrew Romine,12
-2012,Los Angeles Angels of Anaheim,SS,Jean Segura,1
-2012,Los Angeles Angels of Anaheim,LF,Ryan Langerhans,2
-2012,Los Angeles Angels of Anaheim,DH,Alexi Amarista,1
-2012,Los Angeles Angels of Anaheim,P,Dan Haren,3
-2012,Los Angeles Angels of Anaheim,P,C.J. Wilson,2
-2012,Los Angeles Angels of Anaheim,P,Ervin Santana,2
-2012,Los Angeles Angels of Anaheim,P,Jerome Williams,1
-2012,Los Angeles Angels of Anaheim,P,Jered Weaver,1
-2012,Los Angeles Angels of Anaheim,P,Garrett Richards,1
-2012,Los Angeles Angels of Anaheim,P,Hisanori Takahashi,4
-2012,Los Angeles Angels of Anaheim,P,LaTroy Hawkins,4
-2012,Los Angeles Angels of Anaheim,P,Jordan Walden,5
-2012,Los Angeles Angels of Anaheim,P,Jason Isringhausen,4
-2012,Los Angeles Angels of Anaheim,P,Ernesto Frieri,6
-2012,Los Angeles Angels of Anaheim,P,David Carpenter,1
-2012,Los Angeles Angels of Anaheim,P,David Pauley,1
-2012,Los Angeles Angels of Anaheim,P,Scott Downs,3
-2013,Los Angeles Angels of Anaheim,C,Chris Iannetta,115
-2013,Los Angeles Angels of Anaheim,"1B",Mark Trumbo,159
-2013,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,122
-2013,Los Angeles Angels of Anaheim,SS,Erick Aybar,138
-2013,Los Angeles Angels of Anaheim,"3B",Alberto Callaspo,86
-2013,Los Angeles Angels of Anaheim,LF,JB Shuck,129
-2013,Los Angeles Angels of Anaheim,CF,Mike Trout,157
-2013,Los Angeles Angels of Anaheim,RF,Josh Hamilton,151
-2013,Los Angeles Angels of Anaheim,DH,Albert Pujols,99
-2013,Los Angeles Angels of Anaheim,C,Hank Conger,92
-2013,Los Angeles Angels of Anaheim,RF,Kole Calhoun,58
-2013,Los Angeles Angels of Anaheim,CF,Peter Bourjos,55
-2013,Los Angeles Angels of Anaheim,"2B",Grant Green,40
-2013,Los Angeles Angels of Anaheim,"3B",Andrew Romine,47
-2013,Los Angeles Angels of Anaheim,"3B",Chris Nelson,33
-2013,Los Angeles Angels of Anaheim,SS,Brendan Harris,44
-2013,Los Angeles Angels of Anaheim,"3B",Luis Jimenez,34
-2013,Los Angeles Angels of Anaheim,OF,Collin Cowgill,50
-2013,Los Angeles Angels of Anaheim,UT,Brad Hawpe,17
-2013,Los Angeles Angels of Anaheim,IF,Thomas Field,15
-2013,Los Angeles Angels of Anaheim,"1B",Efren Navarro,4
-2013,Los Angeles Angels of Anaheim,OF,Scott Cousins,7
-2013,Los Angeles Angels of Anaheim,DH,John Hester,1
-2013,Los Angeles Angels of Anaheim,P,C.J. Wilson,4
-2013,Los Angeles Angels of Anaheim,P,Joe Blanton,3
-2013,Los Angeles Angels of Anaheim,P,Jered Weaver,2
-2013,Los Angeles Angels of Anaheim,P,Jerome Williams,1
-2013,Los Angeles Angels of Anaheim,P,Buddy Boshers,1
-2013,Los Angeles Angels of Anaheim,P,Kevin Jepsen,2
-2013,Los Angeles Angels of Anaheim,P,Billy Buckner,1
-2013,Los Angeles Angels of Anaheim,P,Sean Burnett,3
-2013,Los Angeles Angels of Anaheim,P,Robert Coello,2
-2013,Los Angeles Angels of Anaheim,P,Michael Roth,1
-2013,Los Angeles Angels of Anaheim,P,Garrett Richards,4
-2013,Los Angeles Angels of Anaheim,P,Cory Rasmus,2
-2013,Los Angeles Angels of Anaheim,P,Dane De La Rosa,5
-2013,Los Angeles Angels of Anaheim,P,Scott Downs,2
-2013,Los Angeles Angels of Anaheim,P,Ernesto Frieri,5
-2013,Los Angeles Angels of Anaheim,P,Mark Lowe,2
-2013,Los Angeles Angels of Anaheim,P,Michael Kohn,4
-2014,Los Angeles Angels of Anaheim,C,Chris Iannetta,108
-2014,Los Angeles Angels of Anaheim,"1B",Albert Pujols,159
-2014,Los Angeles Angels of Anaheim,"2B",Howie Kendrick,157
-2014,Los Angeles Angels of Anaheim,SS,Erick Aybar,156
-2014,Los Angeles Angels of Anaheim,"3B",David Freese,134
-2014,Los Angeles Angels of Anaheim,LF,Josh Hamilton,89
-2014,Los Angeles Angels of Anaheim,CF,Mike Trout,157
-2014,Los Angeles Angels of Anaheim,RF,Kole Calhoun,127
-2014,Los Angeles Angels of Anaheim,DH,C.J. Cron,79
-2014,Los Angeles Angels of Anaheim,OF,Collin Cowgill,106
-2014,Los Angeles Angels of Anaheim,C,Hank Conger,80
-2014,Los Angeles Angels of Anaheim,DH,Raul Ibanez,57
-2014,Los Angeles Angels of Anaheim,UT,Efren Navarro,64
-2014,Los Angeles Angels of Anaheim,UT,Grant Green,43
-2014,Los Angeles Angels of Anaheim,"3B",John McDonald,95
-2014,Los Angeles Angels of Anaheim,LF,JB Shuck,22
-2014,Los Angeles Angels of Anaheim,DH,Brennan Boesch,27
-2014,Los Angeles Angels of Anaheim,"3B",Ian Stewart,24
-2014,Los Angeles Angels of Anaheim,IF,Gordon Beckham,26
-2014,Los Angeles Angels of Anaheim,"3B",Luis Jimenez,18
-2014,Los Angeles Angels of Anaheim,UT,Shawn O'Malley,11
-2014,Los Angeles Angels of Anaheim,OF,Tony Campana,18
-2014,Los Angeles Angels of Anaheim,C,John Buck,5
-2014,Los Angeles Angels of Anaheim,P,Garrett Richards,4
-2014,Los Angeles Angels of Anaheim,P,Hector Santiago,2
-2014,Los Angeles Angels of Anaheim,P,C.J. Wilson,2
-2014,Los Angeles Angels of Anaheim,P,Tyler Skaggs,1
-2014,Los Angeles Angels of Anaheim,P,Jered Weaver,1
-2014,Los Angeles Angels of Anaheim,P,Matt Shoemaker,1
-2014,Los Angeles Angels of Anaheim,P,Drew Rucinski,1
-2014,Los Angeles Angels of Anaheim,P,Cam Bedrosian,2
-2014,Los Angeles Angels of Anaheim,P,Joe Smith,6
-2014,Los Angeles Angels of Anaheim,P,Fernando Salas,5
-2014,Los Angeles Angels of Anaheim,P,Cory Rasmus,3
-2014,Los Angeles Angels of Anaheim,P,Dane De La Rosa,1
-2014,Los Angeles Angels of Anaheim,P,Ernesto Frieri,5
-2014,Los Angeles Angels of Anaheim,P,Mike Morin,3
-2014,Los Angeles Angels of Anaheim,P,Jason Grilli,1
-2014,Los Angeles Angels of Anaheim,P,Wade LeBlanc,1
-2014,Los Angeles Angels of Anaheim,P,Michael Kohn,3
-2014,Los Angeles Angels of Anaheim,P,Kevin Jepsen,6
-2015,Los Angeles Angels of Anaheim,C,Chris Iannetta,92
-2015,Los Angeles Angels of Anaheim,"1B",Albert Pujols,157
-2015,Los Angeles Angels of Anaheim,"2B",Johnny Giavotella,129
-2015,Los Angeles Angels of Anaheim,SS,Erick Aybar,156
-2015,Los Angeles Angels of Anaheim,"3B",David Freese,121
-2015,Los Angeles Angels of Anaheim,LF,Matt Joyce,93
-2015,Los Angeles Angels of Anaheim,CF,Mike Trout,159
-2015,Los Angeles Angels of Anaheim,RF,Kole Calhoun,159
-2015,Los Angeles Angels of Anaheim,DH,C.J. Cron,113
-2015,Los Angeles Angels of Anaheim,C,Carlos Perez,86
-2015,Los Angeles Angels of Anaheim,IF,Taylor Featherston,101
-2015,Los Angeles Angels of Anaheim,LF,David Murphy,48
-2015,Los Angeles Angels of Anaheim,LF,Shane Victorino,38
-2015,Los Angeles Angels of Anaheim,UT,Efren Navarro,54
-2015,Los Angeles Angels of Anaheim,LF,Daniel Robertson,37
-2015,Los Angeles Angels of Anaheim,LF,Collin Cowgill,55
-2015,Los Angeles Angels of Anaheim,"3B",Conor Gillaspie,17
-2015,Los Angeles Angels of Anaheim,OF,David DeJesus,30
-2015,Los Angeles Angels of Anaheim,"3B",Kaleb Cowart,34
-2015,Los Angeles Angels of Anaheim,IF,Grant Green,21
-2015,Los Angeles Angels of Anaheim,UT,Kyle Kubitza,19
-2015,Los Angeles Angels of Anaheim,DH,Marc Krauss,11
-2015,Los Angeles Angels of Anaheim,OF,Kirk Nieuwenhuis,10
-2015,Los Angeles Angels of Anaheim,UT,Drew Butera,10
-2015,Los Angeles Angels of Anaheim,IF,Ryan Jackson,22
-2015,Los Angeles Angels of Anaheim,OF,Alfredo Marte,5
-2015,Los Angeles Angels of Anaheim,C,Jett Bandy,2
-2015,Los Angeles Angels of Anaheim,P,Andrew Heaney,2
-2015,Los Angeles Angels of Anaheim,P,C.J. Wilson,2
-2015,Los Angeles Angels of Anaheim,P,Hector Santiago,3
-2015,Los Angeles Angels of Anaheim,P,Matt Shoemaker,1
-2015,Los Angeles Angels of Anaheim,P,Jered Weaver,1
-2015,Los Angeles Angels of Anaheim,P,Cory Rasmus,2
-2015,Los Angeles Angels of Anaheim,P,Vinnie Pestano,1
-2015,Los Angeles Angels of Anaheim,P,Trevor Gott,6
-2015,Los Angeles Angels of Anaheim,P,Cesar Ramos,6
-2015,Los Angeles Angels of Anaheim,P,Jose Alvarez,3
-2015,Los Angeles Angels of Anaheim,P,Drew Rucinski,1
-2015,Los Angeles Angels of Anaheim,P,Fernando Salas,5
-2015,Los Angeles Angels of Anaheim,P,Joe Smith,4
-2015,Los Angeles Angels of Anaheim,P,Huston Street,4
-2015,Los Angeles Angels of Anaheim,P,Cam Bedrosian,1
-2015,Los Angeles Angels of Anaheim,P,Mike Morin,2
+year,team,position,player_name,games_played
 2000,Anaheim Angels,C,Bengie Molina,130
 2000,Anaheim Angels,"1B",Mo Vaughn,161
 2000,Anaheim Angels,"2B",Adam Kennedy,156
@@ -7758,6 +7357,836 @@
 2024,Cincinnati Reds,P,Fernando Cruz,1
 2024,Cincinnati Reds,P,Justin Wilson,1
 2024,Cincinnati Reds,P,Alex Young,1
+2000,Cleveland Guardians,C,Sandy Alomar,97
+2000,Cleveland Guardians,"1B",Jim Thome,158
+2000,Cleveland Guardians,"2B",Roberto Alomar,155
+2000,Cleveland Guardians,SS,Omar Vizquel,156
+2000,Cleveland Guardians,"3B",Travis Fryman,155
+2000,Cleveland Guardians,LF,Richie Sexson,91
+2000,Cleveland Guardians,CF,Kenny Lofton,137
+2000,Cleveland Guardians,RF,Manny Ramirez,118
+2000,Cleveland Guardians,DH,Russell Branyan,67
+2000,Cleveland Guardians,OF,David Justice,68
+2000,Cleveland Guardians,C,Einar Diaz,75
+2000,Cleveland Guardians,"1B",David Segui,57
+2000,Cleveland Guardians,CF,Jolbert Cabrera,100
+2000,Cleveland Guardians,LF,Wil Cordero,38
+2000,Cleveland Guardians,IF,Enrique Wilson,40
+2000,Cleveland Guardians,OF,Alex Ramirez,41
+2000,Cleveland Guardians,OF,Ricky Ledee,17
+2000,Cleveland Guardians,UT,Bill Selby,30
+2000,Cleveland Guardians,OF,Jacob Cruz,11
+2000,Cleveland Guardians,OF,Chan Perry,13
+2000,Cleveland Guardians,OF,Dave Roberts,19
+2000,Cleveland Guardians,CF,Mark Whiten,6
+2000,Cleveland Guardians,MI,John McDonald,9
+2000,Cleveland Guardians,P,Chuck Finley,2
+2000,Cleveland Guardians,P,Bartolo Colon,2
+2000,Cleveland Guardians,P,Dave Burba,1
+2000,Cleveland Guardians,P,Jim Brower,2
+2000,Cleveland Guardians,P,Jaret Wright,1
+2000,Cleveland Guardians,P,Justin Speier,3
+2000,Cleveland Guardians,P,Jamie Brewington,3
+2000,Cleveland Guardians,P,Steve Karsay,3
+2000,Cleveland Guardians,P,Kane Davis,1
+2000,Cleveland Guardians,P,Paul Rigdon,1
+2000,Cleveland Guardians,P,Steve Reed,3
+2000,Cleveland Guardians,P,Paul Shuey,2
+2000,Cleveland Guardians,P,Tom Martin,3
+2000,Cleveland Guardians,P,Andrew Lorraine,2
+2000,Cleveland Guardians,P,Mark Watson,2
+2000,Cleveland Guardians,P,Scott Kamieniecki,2
+2001,Cleveland Guardians,C,Einar Diaz,134
+2001,Cleveland Guardians,"1B",Jim Thome,156
+2001,Cleveland Guardians,"2B",Roberto Alomar,157
+2001,Cleveland Guardians,SS,Omar Vizquel,155
+2001,Cleveland Guardians,"3B",Travis Fryman,98
+2001,Cleveland Guardians,LF,Marty Cordova,122
+2001,Cleveland Guardians,CF,Kenny Lofton,133
+2001,Cleveland Guardians,RF,Juan Gonzalez,140
+2001,Cleveland Guardians,DH,Ellis Burks,124
+2001,Cleveland Guardians,UT,Russell Branyan,113
+2001,Cleveland Guardians,CF,Jolbert Cabrera,141
+2001,Cleveland Guardians,UT,Wil Cordero,89
+2001,Cleveland Guardians,C,Ed Taubensee,52
+2001,Cleveland Guardians,OF,Jacob Cruz,28
+2001,Cleveland Guardians,OF,Karim Garcia,20
+2001,Cleveland Guardians,C,Tim Laker,16
+2001,Cleveland Guardians,IF,John McDonald,17
+2001,Cleveland Guardians,CF,Milton Bradley,10
+2001,Cleveland Guardians,IF,Mark Lewis,6
+2001,Cleveland Guardians,OF,Dave Roberts,15
+2001,Cleveland Guardians,DH,Dave Hollins,2
+2001,Cleveland Guardians,P,Bartolo Colon,2
+2001,Cleveland Guardians,P,CC Sabathia,2
+2001,Cleveland Guardians,P,Dave Burba,3
+2001,Cleveland Guardians,P,Jake Westbrook,3
+2001,Cleveland Guardians,P,Jaret Wright,1
+2001,Cleveland Guardians,P,Charles Nagy,1
+2001,Cleveland Guardians,P,Steve Woodard,3
+2001,Cleveland Guardians,P,Rich Rodriguez,2
+2001,Cleveland Guardians,P,John Rocker,2
+2001,Cleveland Guardians,P,Paul Shuey,3
+2001,Cleveland Guardians,P,Ricardo Rincon,3
+2001,Cleveland Guardians,P,Steve Reed,1
+2001,Cleveland Guardians,P,Steve Karsay,2
+2001,Cleveland Guardians,P,Bob Wickman,3
+2001,Cleveland Guardians,P,Danys Baez,4
+2002,Cleveland Guardians,C,Einar Diaz,102
+2002,Cleveland Guardians,"1B",Jim Thome,147
+2002,Cleveland Guardians,"2B",Ricky Gutierrez,94
+2002,Cleveland Guardians,SS,Omar Vizquel,151
+2002,Cleveland Guardians,"3B",Travis Fryman,118
+2002,Cleveland Guardians,LF,Russell Branyan,50
+2002,Cleveland Guardians,CF,Milton Bradley,98
+2002,Cleveland Guardians,RF,Matt Lawton,114
+2002,Cleveland Guardians,DH,Ellis Burks,138
+2002,Cleveland Guardians,"2B",John McDonald,93
+2002,Cleveland Guardians,OF,Chris Magruder,87
+2002,Cleveland Guardians,RF,Karim Garcia,51
+2002,Cleveland Guardians,"3B",Bill Selby,65
+2002,Cleveland Guardians,"1B",Lee Stevens,53
+2002,Cleveland Guardians,CF,Coco Crisp,32
+2002,Cleveland Guardians,C,Eddie Perez,42
+2002,Cleveland Guardians,LF,Ben Broussard,39
+2002,Cleveland Guardians,OF,Brady Anderson,34
+2002,Cleveland Guardians,C,Josh Bard,24
+2002,Cleveland Guardians,CF,Jolbert Cabrera,38
+2002,Cleveland Guardians,CI,Earl Snyder,18
+2002,Cleveland Guardians,"3B",Greg LaRocca,21
+2002,Cleveland Guardians,C,Victor Martinez,12
+2002,Cleveland Guardians,"2B",Brandon Phillips,11
+2002,Cleveland Guardians,OF,Bruce Aven,7
+2002,Cleveland Guardians,UT,Wil Cordero,6
+2002,Cleveland Guardians,OF,Chad Allen,5
+2002,Cleveland Guardians,OF,Todd Dunwoody,2
+2002,Cleveland Guardians,P,Bartolo Colon,2
+2002,Cleveland Guardians,P,CC Sabathia,2
+2002,Cleveland Guardians,P,Ryan Drese,2
+2002,Cleveland Guardians,P,Chuck Finley,2
+2002,Cleveland Guardians,P,Danys Baez,1
+2002,Cleveland Guardians,P,Ricardo Rincon,3
+2002,Cleveland Guardians,P,David Riske,3
+2002,Cleveland Guardians,P,Jerrod Riggan,5
+2002,Cleveland Guardians,P,Chad Paronto,3
+2002,Cleveland Guardians,P,Charles Nagy,1
+2002,Cleveland Guardians,P,Heath Murray,1
+2002,Cleveland Guardians,P,Bob Wickman,3
+2002,Cleveland Guardians,P,Mark Wohlers,3
+2003,Cleveland Guardians,C,Josh Bard,91
+2003,Cleveland Guardians,"1B",Ben Broussard,116
+2003,Cleveland Guardians,"2B",Brandon Phillips,112
+2003,Cleveland Guardians,SS,Jhonny Peralta,77
+2003,Cleveland Guardians,"3B",Casey Blake,152
+2003,Cleveland Guardians,LF,Matt Lawton,99
+2003,Cleveland Guardians,CF,Milton Bradley,101
+2003,Cleveland Guardians,RF,Jody Gerut,127
+2003,Cleveland Guardians,DH,Ellis Burks,55
+2003,Cleveland Guardians,OF,Coco Crisp,99
+2003,Cleveland Guardians,DH,Travis Hafner,91
+2003,Cleveland Guardians,SS,Omar Vizquel,64
+2003,Cleveland Guardians,MI,John McDonald,82
+2003,Cleveland Guardians,RF,Shane Spencer,64
+2003,Cleveland Guardians,C,Tim Laker,52
+2003,Cleveland Guardians,C,Victor Martinez,49
+2003,Cleveland Guardians,OF,Ryan Ludwick,39
+2003,Cleveland Guardians,RF,Alex Escobar,28
+2003,Cleveland Guardians,RF,Karim Garcia,24
+2003,Cleveland Guardians,"2B",Angel Santos,32
+2003,Cleveland Guardians,IF,Ricky Gutierrez,16
+2003,Cleveland Guardians,MI,Zach Sorensen,36
+2003,Cleveland Guardians,CI,Bill Selby,27
+2003,Cleveland Guardians,OF,Chris Magruder,9
+2003,Cleveland Guardians,"3B",Greg LaRocca,5
+2003,Cleveland Guardians,P,CC Sabathia,3
+2003,Cleveland Guardians,P,Billy Traber,2
+2003,Cleveland Guardians,P,Jason Davis,2
+2003,Cleveland Guardians,P,Ricardo Rodriguez,2
+2003,Cleveland Guardians,P,Brian Tallet,3
+2003,Cleveland Guardians,P,Brian Anderson,3
+2003,Cleveland Guardians,P,Jake Westbrook,4
+2003,Cleveland Guardians,P,Terry Mulholland,5
+2003,Cleveland Guardians,P,Danys Baez,5
+2003,Cleveland Guardians,P,Jose Santiago,1
+2003,Cleveland Guardians,P,David Riske,4
+2003,Cleveland Guardians,P,Dan Miceli,6
+2003,Cleveland Guardians,P,Jason Boyd,5
+2003,Cleveland Guardians,P,Rafael Betancourt,1
+2004,Cleveland Guardians,C,Victor Martinez,141
+2004,Cleveland Guardians,"1B",Ben Broussard,139
+2004,Cleveland Guardians,"2B",Ronnie Belliard,152
+2004,Cleveland Guardians,SS,Omar Vizquel,148
+2004,Cleveland Guardians,"3B",Casey Blake,152
+2004,Cleveland Guardians,LF,Matt Lawton,150
+2004,Cleveland Guardians,CF,Coco Crisp,139
+2004,Cleveland Guardians,RF,Jody Gerut,134
+2004,Cleveland Guardians,DH,Travis Hafner,140
+2004,Cleveland Guardians,"1B",Lou Merloni,71
+2004,Cleveland Guardians,OF,Alex Escobar,46
+2004,Cleveland Guardians,CF,Grady Sizemore,43
+2004,Cleveland Guardians,C,Tim Laker,43
+2004,Cleveland Guardians,SS,John McDonald,66
+2004,Cleveland Guardians,DH,Josh Phelps,24
+2004,Cleveland Guardians,RF,Ryan Ludwick,15
+2004,Cleveland Guardians,IF,Jhonny Peralta,8
+2004,Cleveland Guardians,"2B",Brandon Phillips,6
+2004,Cleveland Guardians,C,Josh Bard,7
+2004,Cleveland Guardians,OF,Mark Little,11
+2004,Cleveland Guardians,OF,Raul Gonzalez,7
+2004,Cleveland Guardians,DH,Ernie Young,3
+2004,Cleveland Guardians,C,Sandy Martinez,1
+2004,Cleveland Guardians,P,Jason Davis,2
+2004,Cleveland Guardians,P,CC Sabathia,1
+2004,Cleveland Guardians,P,Jake Westbrook,2
+2004,Cleveland Guardians,P,Cliff Lee,1
+2004,Cleveland Guardians,P,Scott Elarton,2
+2004,Cleveland Guardians,P,Kazuhito Tadano,2
+2004,Cleveland Guardians,P,Matt Miller,3
+2004,Cleveland Guardians,P,Jose Jimenez,2
+2004,Cleveland Guardians,P,Bob Howry,1
+2004,Cleveland Guardians,P,David Riske,4
+2004,Cleveland Guardians,P,Jeriome Robertson,2
+2004,Cleveland Guardians,P,Rafael Betancourt,3
+2004,Cleveland Guardians,P,Rick White,6
+2004,Cleveland Guardians,P,Cliff Bartosh,2
+2005,Cleveland Guardians,C,Victor Martinez,147
+2005,Cleveland Guardians,"1B",Ben Broussard,142
+2005,Cleveland Guardians,"2B",Ronnie Belliard,145
+2005,Cleveland Guardians,SS,Jhonny Peralta,141
+2005,Cleveland Guardians,"3B",Aaron Boone,143
+2005,Cleveland Guardians,LF,Coco Crisp,145
+2005,Cleveland Guardians,CF,Grady Sizemore,158
+2005,Cleveland Guardians,RF,Casey Blake,147
+2005,Cleveland Guardians,DH,Travis Hafner,137
+2005,Cleveland Guardians,CI,Jose Hernandez,84
+2005,Cleveland Guardians,OF,Jody Gerut,44
+2005,Cleveland Guardians,MI,Alex Cora,49
+2005,Cleveland Guardians,C,Josh Bard,34
+2005,Cleveland Guardians,UT,Jeff Liefer,19
+2005,Cleveland Guardians,OF,Jason Dubois,14
+2005,Cleveland Guardians,OF,Ryan Ludwick,19
+2005,Cleveland Guardians,MI,Ramon Vazquez,12
+2005,Cleveland Guardians,MI,Brandon Phillips,6
+2005,Cleveland Guardians,DH,Franklin Gutierrez,7
+2005,Cleveland Guardians,"",Juan Gonzalez,1
+2005,Cleveland Guardians,DH,Ryan Garko,1
+2005,Cleveland Guardians,P,Cliff Lee,3
+2005,Cleveland Guardians,P,CC Sabathia,2
+2005,Cleveland Guardians,P,Jason Davis,1
+2005,Cleveland Guardians,P,Kevin Millwood,1
+2005,Cleveland Guardians,P,Jake Westbrook,1
+2005,Cleveland Guardians,P,Scott Elarton,1
+2005,Cleveland Guardians,P,Bob Howry,6
+2005,Cleveland Guardians,P,Arthur Rhodes,2
+2005,Cleveland Guardians,P,David Riske,3
+2005,Cleveland Guardians,P,Matt Miller,2
+2005,Cleveland Guardians,P,Scott Sauerbeck,4
+2005,Cleveland Guardians,P,Rafael Betancourt,2
+2005,Cleveland Guardians,P,Bob Wickman,4
+2006,Cleveland Guardians,C,Victor Martinez,153
+2006,Cleveland Guardians,"1B",Ben Broussard,88
+2006,Cleveland Guardians,"2B",Ronnie Belliard,93
+2006,Cleveland Guardians,SS,Jhonny Peralta,149
+2006,Cleveland Guardians,"3B",Aaron Boone,104
+2006,Cleveland Guardians,LF,Jason Michaels,123
+2006,Cleveland Guardians,CF,Grady Sizemore,162
+2006,Cleveland Guardians,RF,Casey Blake,109
+2006,Cleveland Guardians,DH,Travis Hafner,129
+2006,Cleveland Guardians,"2B",Joe Inglett,64
+2006,Cleveland Guardians,"1B",Ryan Garko,50
+2006,Cleveland Guardians,"3B",Andy Marte,50
+2006,Cleveland Guardians,RF,Shin-Soo Choo,45
+2006,Cleveland Guardians,LF,Todd Hollandsworth,56
+2006,Cleveland Guardians,RF,Franklin Gutierrez,43
+2006,Cleveland Guardians,MI,Hector Luna,37
+2006,Cleveland Guardians,C,Kelly Shoppach,41
+2006,Cleveland Guardians,"1B",Eduardo Perez,37
+2006,Cleveland Guardians,IF,Ramon Vazquez,34
+2006,Cleveland Guardians,DH,Kevin Kouzmanoff,16
+2006,Cleveland Guardians,IF,Lou Merloni,9
+2006,Cleveland Guardians,C,Tim Laker,4
+2006,Cleveland Guardians,P,CC Sabathia,3
+2006,Cleveland Guardians,P,Cliff Lee,2
+2006,Cleveland Guardians,P,Paul Byrd,2
+2006,Cleveland Guardians,P,Jake Westbrook,2
+2006,Cleveland Guardians,P,Bob Wickman,5
+2006,Cleveland Guardians,P,Rafael Perez,3
+2006,Cleveland Guardians,P,Guillermo Mota,2
+2006,Cleveland Guardians,P,Tom Mastny,1
+2006,Cleveland Guardians,P,Roberto Hernandez,5
+2006,Cleveland Guardians,P,Fernando Cabrera,3
+2006,Cleveland Guardians,P,Rafael Betancourt,3
+2007,Cleveland Guardians,C,Victor Martinez,147
+2007,Cleveland Guardians,"1B",Ryan Garko,138
+2007,Cleveland Guardians,"2B",Josh Barfield,130
+2007,Cleveland Guardians,SS,Jhonny Peralta,152
+2007,Cleveland Guardians,"3B",Casey Blake,156
+2007,Cleveland Guardians,LF,Jason Michaels,105
+2007,Cleveland Guardians,CF,Grady Sizemore,162
+2007,Cleveland Guardians,RF,Trot Nixon,99
+2007,Cleveland Guardians,DH,Travis Hafner,152
+2007,Cleveland Guardians,RF,Franklin Gutierrez,100
+2007,Cleveland Guardians,LF,David Dellucci,56
+2007,Cleveland Guardians,LF,Kenny Lofton,52
+2007,Cleveland Guardians,"2B",Asdrubal Cabrera,45
+2007,Cleveland Guardians,C,Kelly Shoppach,59
+2007,Cleveland Guardians,IF,Mike Rouse,41
+2007,Cleveland Guardians,OF,Ben Francisco,25
+2007,Cleveland Guardians,"3B",Andy Marte,20
+2007,Cleveland Guardians,IF,Chris Gomez,19
+2007,Cleveland Guardians,OF,Shin-Soo Choo,6
+2007,Cleveland Guardians,MI,Luis Rivas,4
+2007,Cleveland Guardians,P,Roberto Hernandez,2
+2007,Cleveland Guardians,P,Cliff Lee,2
+2007,Cleveland Guardians,P,CC Sabathia,1
+2007,Cleveland Guardians,P,Jason Stanford,1
+2007,Cleveland Guardians,P,Jeremy Sowers,1
+2007,Cleveland Guardians,P,Jake Westbrook,1
+2007,Cleveland Guardians,P,Paul Byrd,1
+2007,Cleveland Guardians,P,Rafael Betancourt,4
+2007,Cleveland Guardians,P,Rafael Perez,2
+2007,Cleveland Guardians,P,Matt Miller,2
+2007,Cleveland Guardians,P,Tom Mastny,5
+2007,Cleveland Guardians,P,Roberto Hernandez,2
+2007,Cleveland Guardians,P,Aaron Fultz,2
+2007,Cleveland Guardians,P,Fernando Cabrera,1
+2007,Cleveland Guardians,P,Joe Borowski,5
+2008,Cleveland Guardians,C,Kelly Shoppach,112
+2008,Cleveland Guardians,"1B",Ryan Garko,141
+2008,Cleveland Guardians,"2B",Asdrubal Cabrera,114
+2008,Cleveland Guardians,SS,Jhonny Peralta,154
+2008,Cleveland Guardians,"3B",Casey Blake,94
+2008,Cleveland Guardians,LF,Ben Francisco,121
+2008,Cleveland Guardians,CF,Grady Sizemore,157
+2008,Cleveland Guardians,RF,Franklin Gutierrez,134
+2008,Cleveland Guardians,DH,Travis Hafner,57
+2008,Cleveland Guardians,IF,Jamey Carroll,113
+2008,Cleveland Guardians,DH,David Dellucci,113
+2008,Cleveland Guardians,OF,Shin-Soo Choo,94
+2008,Cleveland Guardians,C,Victor Martinez,73
+2008,Cleveland Guardians,"3B",Andy Marte,80
+2008,Cleveland Guardians,OF,Jason Michaels,21
+2008,Cleveland Guardians,C,Sal Fasano,15
+2008,Cleveland Guardians,"1B",Michael Aubrey,15
+2008,Cleveland Guardians,"2B",Josh Barfield,12
+2008,Cleveland Guardians,CI,Andy Gonzalez,10
+2008,Cleveland Guardians,MI,Jorge Velandia,7
+2008,Cleveland Guardians,LF,Jason Tyner,1
+2008,Cleveland Guardians,P,Paul Byrd,2
+2008,Cleveland Guardians,P,Cliff Lee,2
+2008,Cleveland Guardians,P,Roberto Hernandez,1
+2008,Cleveland Guardians,P,CC Sabathia,1
+2008,Cleveland Guardians,P,Jeremy Sowers,2
+2008,Cleveland Guardians,P,Aaron Laffey,1
+2008,Cleveland Guardians,P,Jensen Lewis,2
+2008,Cleveland Guardians,P,Scott Elarton,2
+2008,Cleveland Guardians,P,Masahide Kobayashi,4
+2008,Cleveland Guardians,P,Joe Borowski,2
+2008,Cleveland Guardians,P,Rafael Perez,6
+2008,Cleveland Guardians,P,Rafael Betancourt,3
+2008,Cleveland Guardians,P,Rick Bauer,1
+2008,Cleveland Guardians,P,Jorge Julio,2
+2009,Cleveland Guardians,C,Kelly Shoppach,89
+2009,Cleveland Guardians,"1B",Ryan Garko,78
+2009,Cleveland Guardians,"2B",Luis Valbuena,103
+2009,Cleveland Guardians,SS,Asdrubal Cabrera,131
+2009,Cleveland Guardians,"3B",Jhonny Peralta,151
+2009,Cleveland Guardians,LF,Ben Francisco,89
+2009,Cleveland Guardians,CF,Grady Sizemore,106
+2009,Cleveland Guardians,RF,Shin-Soo Choo,156
+2009,Cleveland Guardians,DH,Travis Hafner,94
+2009,Cleveland Guardians,UT,Victor Martinez,99
+2009,Cleveland Guardians,IF,Jamey Carroll,93
+2009,Cleveland Guardians,"3B",Mark DeRosa,71
+2009,Cleveland Guardians,OF,Trevor Crowe,68
+2009,Cleveland Guardians,LF,Matt LaPorta,52
+2009,Cleveland Guardians,"1B",Andy Marte,47
+2009,Cleveland Guardians,UT,Chris Gimenez,45
+2009,Cleveland Guardians,CF,Michael Brantley,28
+2009,Cleveland Guardians,C,Wyatt Toregas,19
+2009,Cleveland Guardians,C,Lou Marson,14
+2009,Cleveland Guardians,DH,David Dellucci,14
+2009,Cleveland Guardians,IF,Tony Graffanino,7
+2009,Cleveland Guardians,UT,Josh Barfield,17
+2009,Cleveland Guardians,IF,Niuman Romero,10
+2009,Cleveland Guardians,P,Cliff Lee,3
+2009,Cleveland Guardians,P,David Huff,2
+2009,Cleveland Guardians,P,Tomo Ohka,1
+2009,Cleveland Guardians,P,Carl Pavano,1
+2009,Cleveland Guardians,P,Jeremy Sowers,1
+2009,Cleveland Guardians,P,Jensen Lewis,4
+2009,Cleveland Guardians,P,Rafael Perez,4
+2009,Cleveland Guardians,P,Anthony Reyes,1
+2009,Cleveland Guardians,P,Greg Aquino,2
+2009,Cleveland Guardians,P,Aaron Laffey,1
+2009,Cleveland Guardians,P,Tony Sipp,1
+2009,Cleveland Guardians,P,Matt Herges,5
+2009,Cleveland Guardians,P,Joe Smith,4
+2009,Cleveland Guardians,P,Mike Gosling,1
+2009,Cleveland Guardians,P,Rafael Betancourt,2
+2009,Cleveland Guardians,P,Luis Vizcaino,3
+2009,Cleveland Guardians,P,Kerry Wood,4
+2010,Cleveland Guardians,C,Lou Marson,87
+2010,Cleveland Guardians,"1B",Matt LaPorta,110
+2010,Cleveland Guardians,"2B",Luis Valbuena,91
+2010,Cleveland Guardians,SS,Asdrubal Cabrera,97
+2010,Cleveland Guardians,"3B",Jhonny Peralta,91
+2010,Cleveland Guardians,LF,Austin Kearns,84
+2010,Cleveland Guardians,CF,Trevor Crowe,122
+2010,Cleveland Guardians,RF,Shin-Soo Choo,144
+2010,Cleveland Guardians,DH,Travis Hafner,118
+2010,Cleveland Guardians,CF,Michael Brantley,72
+2010,Cleveland Guardians,MI,Jason Donald,88
+2010,Cleveland Guardians,IF,Jayson Nix,78
+2010,Cleveland Guardians,LF,Shelley Duncan,85
+2010,Cleveland Guardians,C,Carlos Santana,46
+2010,Cleveland Guardians,"1B",Russell Branyan,52
+2010,Cleveland Guardians,CI,Andy Marte,80
+2010,Cleveland Guardians,CF,Grady Sizemore,33
+2010,Cleveland Guardians,"2B",Mark Grudzielanek,30
+2010,Cleveland Guardians,UT,Jordan Brown,26
+2010,Cleveland Guardians,C,Mike Redmond,22
+2010,Cleveland Guardians,C,Chris Gimenez,28
+2010,Cleveland Guardians,SS,Anderson Hernandez,22
+2010,Cleveland Guardians,MI,Drew Sutton,11
+2010,Cleveland Guardians,C,Luke Carlin,6
+2010,Cleveland Guardians,P,Justin Masterson,2
+2010,Cleveland Guardians,P,Mitch Talbot,2
+2010,Cleveland Guardians,P,Roberto Hernandez,2
+2010,Cleveland Guardians,P,David Huff,1
+2010,Cleveland Guardians,P,Jake Westbrook,1
+2010,Cleveland Guardians,P,Aaron Laffey,1
+2010,Cleveland Guardians,P,Chris Perez,4
+2010,Cleveland Guardians,P,Rafael Perez,5
+2010,Cleveland Guardians,P,Hector Ambriz,1
+2010,Cleveland Guardians,P,Tony Sipp,4
+2010,Cleveland Guardians,P,Jensen Lewis,3
+2010,Cleveland Guardians,P,Joe Smith,3
+2010,Cleveland Guardians,P,Frank Herrmann,5
+2010,Cleveland Guardians,P,Kerry Wood,4
+2011,Cleveland Guardians,C,Carlos Santana,155
+2011,Cleveland Guardians,"1B",Matt LaPorta,107
+2011,Cleveland Guardians,"2B",Orlando Cabrera,91
+2011,Cleveland Guardians,SS,Asdrubal Cabrera,151
+2011,Cleveland Guardians,"3B",Jack Hannahan,110
+2011,Cleveland Guardians,LF,Michael Brantley,114
+2011,Cleveland Guardians,CF,Grady Sizemore,71
+2011,Cleveland Guardians,RF,Shin-Soo Choo,85
+2011,Cleveland Guardians,DH,Travis Hafner,94
+2011,Cleveland Guardians,C,Lou Marson,79
+2011,Cleveland Guardians,RF,Kosuke Fukudome,59
+2011,Cleveland Guardians,LF,Shelley Duncan,76
+2011,Cleveland Guardians,CF,Ezequiel Carrera,68
+2011,Cleveland Guardians,"3B",Lonnie Chisenhall,66
+2011,Cleveland Guardians,OF,Austin Kearns,57
+2011,Cleveland Guardians,LF,Travis Buck,50
+2011,Cleveland Guardians,"2B",Jason Kipnis,36
+2011,Cleveland Guardians,MI,Jason Donald,39
+2011,Cleveland Guardians,DH,Jim Thome,22
+2011,Cleveland Guardians,"2B",Cord Phelps,35
+2011,Cleveland Guardians,IF,Adam Everett,34
+2011,Cleveland Guardians,UT,Luis Valbuena,17
+2011,Cleveland Guardians,OF,Trevor Crowe,15
+2011,Cleveland Guardians,LF,Jerad Head,10
+2011,Cleveland Guardians,P,Carlos Carrasco,2
+2011,Cleveland Guardians,P,Justin Masterson,2
+2011,Cleveland Guardians,P,Mitch Talbot,2
+2011,Cleveland Guardians,P,Roberto Hernandez,2
+2011,Cleveland Guardians,P,Josh Tomlin,2
+2011,Cleveland Guardians,P,Frank Herrmann,1
+2011,Cleveland Guardians,P,Josh Judy,1
+2011,Cleveland Guardians,P,Chris Perez,2
+2011,Cleveland Guardians,P,Rafael Perez,4
+2011,Cleveland Guardians,P,Vinnie Pestano,4
+2011,Cleveland Guardians,P,Chad Durbin,3
+2011,Cleveland Guardians,P,Tony Sipp,4
+2011,Cleveland Guardians,P,Joe Smith,5
+2012,Cleveland Guardians,C,Carlos Santana,143
+2012,Cleveland Guardians,"1B",Casey Kotchman,142
+2012,Cleveland Guardians,"2B",Jason Kipnis,152
+2012,Cleveland Guardians,SS,Asdrubal Cabrera,143
+2012,Cleveland Guardians,"3B",Jack Hannahan,105
+2012,Cleveland Guardians,LF,Shelley Duncan,81
+2012,Cleveland Guardians,CF,Michael Brantley,149
+2012,Cleveland Guardians,RF,Shin-Soo Choo,155
+2012,Cleveland Guardians,DH,Travis Hafner,66
+2012,Cleveland Guardians,C,Lou Marson,70
+2012,Cleveland Guardians,LF,Johnny Damon,64
+2012,Cleveland Guardians,"3B",Jose Lopez,66
+2012,Cleveland Guardians,LF,Ezequiel Carrera,48
+2012,Cleveland Guardians,"3B",Lonnie Chisenhall,43
+2012,Cleveland Guardians,UT,Jason Donald,43
+2012,Cleveland Guardians,IF,Brent Lillibridge,43
+2012,Cleveland Guardians,LF,Aaron Cunningham,72
+2012,Cleveland Guardians,UT,Russ Canzler,26
+2012,Cleveland Guardians,DH,Matt LaPorta,22
+2012,Cleveland Guardians,MI,Cord Phelps,14
+2012,Cleveland Guardians,UT,Vinny Rottino,18
+2012,Cleveland Guardians,OF,Thomas Neal,9
+2012,Cleveland Guardians,SS,Juan Diaz,5
+2012,Cleveland Guardians,C,Luke Carlin,4
+2012,Cleveland Guardians,P,Josh Tomlin,2
+2012,Cleveland Guardians,P,Ubaldo Jimenez,2
+2012,Cleveland Guardians,P,Derek Lowe,2
+2012,Cleveland Guardians,P,Jeanmar Gomez,2
+2012,Cleveland Guardians,P,Justin Masterson,1
+2012,Cleveland Guardians,P,Esmil Rogers,3
+2012,Cleveland Guardians,P,Scott Maine,1
+2012,Cleveland Guardians,P,Chris Perez,3
+2012,Cleveland Guardians,P,Vinnie Pestano,2
+2012,Cleveland Guardians,P,Nick Hagadone,3
+2012,Cleveland Guardians,P,Scott Barnes,1
+2012,Cleveland Guardians,P,Tony Sipp,2
+2012,Cleveland Guardians,P,Joe Smith,5
+2012,Cleveland Guardians,P,Jeremy Accardo,4
+2013,Cleveland Guardians,C,Carlos Santana,154
+2013,Cleveland Guardians,"1B",Nick Swisher,145
+2013,Cleveland Guardians,"2B",Jason Kipnis,149
+2013,Cleveland Guardians,SS,Asdrubal Cabrera,136
+2013,Cleveland Guardians,"3B",Lonnie Chisenhall,94
+2013,Cleveland Guardians,LF,Michael Brantley,151
+2013,Cleveland Guardians,CF,Michael Bourn,130
+2013,Cleveland Guardians,RF,Drew Stubbs,146
+2013,Cleveland Guardians,DH,Jason Giambi,71
+2013,Cleveland Guardians,IF,Mike Aviles,124
+2013,Cleveland Guardians,CI,Mark Reynolds,99
+2013,Cleveland Guardians,C,Yan Gomes,88
+2013,Cleveland Guardians,RF,Ryan Raburn,86
+2013,Cleveland Guardians,OF,Jason Kubel,8
+2013,Cleveland Guardians,IF,Jose Ramirez,15
+2013,Cleveland Guardians,OF,Matt Carson,20
+2013,Cleveland Guardians,"2B",Cord Phelps,4
+2013,Cleveland Guardians,"3B",John McDonald,8
+2013,Cleveland Guardians,RF,Ezequiel Carrera,2
+2013,Cleveland Guardians,C,Lou Marson,3
+2013,Cleveland Guardians,C,Kelly Shoppach,1
+2013,Cleveland Guardians,C,Omir Santos,1
+2013,Cleveland Guardians,P,Ubaldo Jimenez,3
+2013,Cleveland Guardians,P,Scott Kazmir,2
+2013,Cleveland Guardians,P,Zach McAllister,2
+2013,Cleveland Guardians,P,Corey Kluber,1
+2013,Cleveland Guardians,P,Justin Masterson,1
+2013,Cleveland Guardians,P,Danny Salazar,1
+2013,Cleveland Guardians,P,Trevor Bauer,1
+2013,Cleveland Guardians,P,Chris Perez,4
+2013,Cleveland Guardians,P,Matt Albers,5
+2013,Cleveland Guardians,P,Rich Hill,5
+2013,Cleveland Guardians,P,Nick Hagadone,2
+2013,Cleveland Guardians,P,Carlos Carrasco,1
+2013,Cleveland Guardians,P,Marc Rzepczynski,2
+2013,Cleveland Guardians,P,Bryan Shaw,7
+2013,Cleveland Guardians,P,Joe Smith,3
+2013,Cleveland Guardians,P,Scott Barnes,1
+2013,Cleveland Guardians,P,Cody Allen,8
+2014,Cleveland Guardians,C,Yan Gomes,135
+2014,Cleveland Guardians,"1B",Carlos Santana,152
+2014,Cleveland Guardians,"2B",Jason Kipnis,129
+2014,Cleveland Guardians,SS,Asdrubal Cabrera,97
+2014,Cleveland Guardians,"3B",Lonnie Chisenhall,142
+2014,Cleveland Guardians,LF,Michael Brantley,156
+2014,Cleveland Guardians,CF,Michael Bourn,106
+2014,Cleveland Guardians,RF,David Murphy,129
+2014,Cleveland Guardians,DH,Nick Swisher,97
+2014,Cleveland Guardians,UT,Mike Aviles,113
+2014,Cleveland Guardians,SS,Jose Ramirez,68
+2014,Cleveland Guardians,DH,Ryan Raburn,74
+2014,Cleveland Guardians,OF,Chris Dickerson,41
+2014,Cleveland Guardians,C,Roberto Perez,29
+2014,Cleveland Guardians,DH,Zach Walters,30
+2014,Cleveland Guardians,RF,Tyler Holt,36
+2014,Cleveland Guardians,DH,Jason Giambi,26
+2014,Cleveland Guardians,OF,Nyjer Morgan,15
+2014,Cleveland Guardians,"1B",Jesus Aguilar,19
+2014,Cleveland Guardians,C,George Kottaras,10
+2014,Cleveland Guardians,OF,JB Shuck,16
+2014,Cleveland Guardians,IF,Justin Sellers,17
+2014,Cleveland Guardians,UT,Elliot Johnson,7
+2014,Cleveland Guardians,UT,Chris Gimenez,8
+2014,Cleveland Guardians,P,Corey Kluber,4
+2014,Cleveland Guardians,P,Justin Masterson,2
+2014,Cleveland Guardians,P,Danny Salazar,2
+2014,Cleveland Guardians,P,Zach McAllister,1
+2014,Cleveland Guardians,P,T.J. House,1
+2014,Cleveland Guardians,P,Trevor Bauer,1
+2014,Cleveland Guardians,P,Carlos Carrasco,2
+2014,Cleveland Guardians,P,Cody Allen,5
+2014,Cleveland Guardians,P,Josh Tomlin,1
+2014,Cleveland Guardians,P,Scott Atchison,7
+2014,Cleveland Guardians,P,John Axford,2
+2014,Cleveland Guardians,P,Bryan Shaw,4
+2014,Cleveland Guardians,P,Marc Rzepczynski,5
+2014,Cleveland Guardians,P,Kyle Crockett,4
+2014,Cleveland Guardians,P,Nick Hagadone,1
+2014,Cleveland Guardians,P,Vinnie Pestano,3
+2014,Cleveland Guardians,P,Josh Outman,2
+2014,Cleveland Guardians,P,C.C. Lee,3
+2014,Cleveland Guardians,P,Mark Lowe,1
+2015,Cleveland Guardians,C,Yan Gomes,95
+2015,Cleveland Guardians,"1B",Carlos Santana,154
+2015,Cleveland Guardians,"2B",Jason Kipnis,141
+2015,Cleveland Guardians,SS,Francisco Lindor,99
+2015,Cleveland Guardians,"3B",Gio Urshela,81
+2015,Cleveland Guardians,LF,Michael Brantley,137
+2015,Cleveland Guardians,CF,Michael Bourn,95
+2015,Cleveland Guardians,RF,Brandon Moss,94
+2015,Cleveland Guardians,DH,Ryan Raburn,82
+2015,Cleveland Guardians,UT,Lonnie Chisenhall,106
+2015,Cleveland Guardians,MI,Jose Ramirez,97
+2015,Cleveland Guardians,UT,Mike Aviles,98
+2015,Cleveland Guardians,DH,David Murphy,84
+2015,Cleveland Guardians,C,Roberto Perez,70
+2015,Cleveland Guardians,CF,Abraham Almonte,51
+2015,Cleveland Guardians,RF,Jerry Sands,50
+2015,Cleveland Guardians,DH,Nick Swisher,30
+2015,Cleveland Guardians,CI,Chris Johnson,27
+2015,Cleveland Guardians,C,Brett Hayes,14
+2015,Cleveland Guardians,OF,Michael Martinez,16
+2015,Cleveland Guardians,UT,Zach Walters,12
+2015,Cleveland Guardians,OF,Tyler Holt,9
+2015,Cleveland Guardians,"1B",Jesus Aguilar,7
+2015,Cleveland Guardians,C,Adam Moore,1
+2015,Cleveland Guardians,P,Trevor Bauer,3
+2015,Cleveland Guardians,P,Corey Kluber,2
+2015,Cleveland Guardians,P,Danny Salazar,2
+2015,Cleveland Guardians,P,Carlos Carrasco,1
+2015,Cleveland Guardians,P,Cody Anderson,2
+2015,Cleveland Guardians,P,Austin Adams,3
+2015,Cleveland Guardians,P,Zach McAllister,7
+2015,Cleveland Guardians,P,Jeff Manship,4
+2015,Cleveland Guardians,P,Nick Hagadone,1
+2015,Cleveland Guardians,P,Kyle Crockett,3
+2015,Cleveland Guardians,P,Marc Rzepczynski,4
+2015,Cleveland Guardians,P,Bryan Shaw,3
+2015,Cleveland Guardians,P,Cody Allen,4
+2015,Cleveland Guardians,P,Ryan Webb,4
+2016,Cleveland Guardians,C,Yan Gomes,74
+2016,Cleveland Guardians,"1B",Mike Napoli,150
+2016,Cleveland Guardians,"2B",Jason Kipnis,156
+2016,Cleveland Guardians,SS,Francisco Lindor,158
+2016,Cleveland Guardians,"3B",Jose Ramirez,152
+2016,Cleveland Guardians,LF,Rajai Davis,134
+2016,Cleveland Guardians,CF,Tyler Naquin,116
+2016,Cleveland Guardians,RF,Lonnie Chisenhall,126
+2016,Cleveland Guardians,DH,Carlos Santana,158
+2016,Cleveland Guardians,"3B",Juan Uribe,73
+2016,Cleveland Guardians,OF,Abraham Almonte,67
+2016,Cleveland Guardians,C,Roberto Perez,61
+2016,Cleveland Guardians,C,Chris Gimenez,67
+2016,Cleveland Guardians,OF,Marlon Byrd,34
+2016,Cleveland Guardians,UT,Michael Martinez,59
+2016,Cleveland Guardians,LF,Brandon Guyer,38
+2016,Cleveland Guardians,LF,Coco Crisp,20
+2016,Cleveland Guardians,LF,Michael Brantley,11
+2016,Cleveland Guardians,UT,Erik Gonzalez,21
+2016,Cleveland Guardians,RF,Collin Cowgill,9
+2016,Cleveland Guardians,DH,Jesus Aguilar,9
+2016,Cleveland Guardians,C,Adam Moore,9
+2016,Cleveland Guardians,P,Corey Kluber,3
+2016,Cleveland Guardians,P,Trevor Bauer,3
+2016,Cleveland Guardians,P,Josh Tomlin,2
+2016,Cleveland Guardians,P,Danny Salazar,3
+2016,Cleveland Guardians,P,Mike Clevinger,1
+2016,Cleveland Guardians,P,Tommy Hunter,3
+2016,Cleveland Guardians,P,Adam Plutko,1
+2016,Cleveland Guardians,P,Bryan Shaw,5
+2016,Cleveland Guardians,P,Dan Otero,3
+2016,Cleveland Guardians,P,Andrew Miller,1
+2016,Cleveland Guardians,P,Zach McAllister,3
+2016,Cleveland Guardians,P,Jeff Manship,4
+2016,Cleveland Guardians,P,Tom Gorzelanny,1
+2016,Cleveland Guardians,P,Kyle Crockett,3
+2016,Cleveland Guardians,P,Joe Colon,1
+2016,Cleveland Guardians,P,Joba Chamberlain,3
+2016,Cleveland Guardians,P,Cody Allen,6
+2017,Cleveland Guardians,C,Yan Gomes,105
+2017,Cleveland Guardians,"1B",Carlos Santana,154
+2017,Cleveland Guardians,"2B",Jason Kipnis,90
+2017,Cleveland Guardians,SS,Francisco Lindor,159
+2017,Cleveland Guardians,"3B",Jose Ramirez,152
+2017,Cleveland Guardians,LF,Michael Brantley,90
+2017,Cleveland Guardians,CF,Bradley Zimmer,101
+2017,Cleveland Guardians,RF,Jay Bruce,43
+2017,Cleveland Guardians,DH,Edwin Encarnacion,157
+2017,Cleveland Guardians,OF,Austin Jackson,85
+2017,Cleveland Guardians,OF,Lonnie Chisenhall,82
+2017,Cleveland Guardians,C,Roberto Perez,73
+2017,Cleveland Guardians,RF,Abraham Almonte,69
+2017,Cleveland Guardians,OF,Brandon Guyer,70
+2017,Cleveland Guardians,"3B",Yandy Diaz,49
+2017,Cleveland Guardians,"3B",Gio Urshela,67
+2017,Cleveland Guardians,"2B",Erik Gonzalez,60
+2017,Cleveland Guardians,OF,Daniel Robertson,32
+2017,Cleveland Guardians,OF,Tyler Naquin,19
+2017,Cleveland Guardians,OF,Greg Allen,25
+2017,Cleveland Guardians,UT,Michael Martinez,14
+2017,Cleveland Guardians,DH,Francisco Mejia,11
+2017,Cleveland Guardians,P,Josh Tomlin,3
+2017,Cleveland Guardians,P,Carlos Carrasco,2
+2017,Cleveland Guardians,P,Trevor Bauer,2
+2017,Cleveland Guardians,P,Mike Clevinger,2
+2017,Cleveland Guardians,P,Corey Kluber,1
+2017,Cleveland Guardians,P,Andrew Miller,5
+2017,Cleveland Guardians,P,Boone Logan,6
+2017,Cleveland Guardians,P,Zach McAllister,3
+2017,Cleveland Guardians,P,Shawn Armstrong,3
+2017,Cleveland Guardians,P,Dan Otero,5
+2017,Cleveland Guardians,P,Nick Goody,3
+2017,Cleveland Guardians,P,Cody Allen,5
+2017,Cleveland Guardians,P,Bryan Shaw,6
+2017,Cleveland Guardians,P,Kyle Crockett,1
+2018,Cleveland Guardians,C,Yan Gomes,112
+2018,Cleveland Guardians,"1B",Yonder Alonso,145
+2018,Cleveland Guardians,"2B",Jason Kipnis,147
+2018,Cleveland Guardians,SS,Francisco Lindor,158
+2018,Cleveland Guardians,"3B",Jose Ramirez,157
+2018,Cleveland Guardians,LF,Michael Brantley,143
+2018,Cleveland Guardians,CF,Greg Allen,91
+2018,Cleveland Guardians,RF,Melky Cabrera,78
+2018,Cleveland Guardians,DH,Edwin Encarnacion,137
+2018,Cleveland Guardians,RF,Brandon Guyer,103
+2018,Cleveland Guardians,OF,Rajai Davis,101
+2018,Cleveland Guardians,C,Roberto Perez,62
+2018,Cleveland Guardians,RF,Tyler Naquin,61
+2018,Cleveland Guardians,IF,Erik Gonzalez,81
+2018,Cleveland Guardians,DH,Yandy Diaz,39
+2018,Cleveland Guardians,CF,Bradley Zimmer,34
+2018,Cleveland Guardians,RF,Lonnie Chisenhall,29
+2018,Cleveland Guardians,"3B",Josh Donaldson,16
+2018,Cleveland Guardians,OF,Brandon Barnes,19
+2018,Cleveland Guardians,IF,Adam Rosales,13
+2018,Cleveland Guardians,CF,Leonys Martin,6
+2018,Cleveland Guardians,C,Eric Haase,9
+2018,Cleveland Guardians,DH,Francisco Mejia,1
+2018,Cleveland Guardians,P,Corey Kluber,3
+2018,Cleveland Guardians,P,Shane Bieber,2
+2018,Cleveland Guardians,P,Carlos Carrasco,1
+2018,Cleveland Guardians,P,Mike Clevinger,2
+2018,Cleveland Guardians,P,Trevor Bauer,1
+2018,Cleveland Guardians,P,Adam Plutko,1
+2018,Cleveland Guardians,P,Neil Ramirez,3
+2018,Cleveland Guardians,P,Andrew Miller,3
+2018,Cleveland Guardians,P,Josh Tomlin,4
+2018,Cleveland Guardians,P,Brad Hand,1
+2018,Cleveland Guardians,P,Oliver Perez,4
+2018,Cleveland Guardians,P,Dan Otero,4
+2018,Cleveland Guardians,P,Tyler Olson,3
+2018,Cleveland Guardians,P,Zach McAllister,3
+2018,Cleveland Guardians,P,Evan Marshall,1
+2018,Cleveland Guardians,P,George Kontos,2
+2018,Cleveland Guardians,P,Oliver Drake,1
+2018,Cleveland Guardians,P,Cody Allen,4
+2019,Cleveland Guardians,C,Roberto Perez,119
+2019,Cleveland Guardians,"1B",Carlos Santana,158
+2019,Cleveland Guardians,"2B",Jason Kipnis,121
+2019,Cleveland Guardians,SS,Francisco Lindor,143
+2019,Cleveland Guardians,"3B",Jose Ramirez,129
+2019,Cleveland Guardians,LF,Jake Bauers,117
+2019,Cleveland Guardians,CF,Oscar Mercado,115
+2019,Cleveland Guardians,RF,Tyler Naquin,89
+2019,Cleveland Guardians,DH,Franmil Reyes,51
+2019,Cleveland Guardians,CF,Leonys Martin,65
+2019,Cleveland Guardians,OF,Jordan Luplow,85
+2019,Cleveland Guardians,LF,Greg Allen,89
+2019,Cleveland Guardians,"2B",Mike Freeman,75
+2019,Cleveland Guardians,RF,Yasiel Puig,49
+2019,Cleveland Guardians,C,Kevin Plawecki,59
+2019,Cleveland Guardians,LF,Carlos Gonzalez,30
+2019,Cleveland Guardians,"3B",Yu Chang,28
+2019,Cleveland Guardians,DH,Hanley Ramirez,16
+2019,Cleveland Guardians,DH,Bobby Bradley,15
+2019,Cleveland Guardians,SS,Eric Stamets,15
+2019,Cleveland Guardians,"2B",Brad Miller,13
+2019,Cleveland Guardians,IF,Max Moroff,20
+2019,Cleveland Guardians,IF,Ryan Flaherty,14
+2019,Cleveland Guardians,C,Eric Haase,10
+2019,Cleveland Guardians,OF,Bradley Zimmer,9
+2019,Cleveland Guardians,UT,Andrew Velazquez,5
+2019,Cleveland Guardians,P,Trevor Bauer,2
+2019,Cleveland Guardians,P,Shane Bieber,2
+2019,Cleveland Guardians,P,Aaron Civale,1
+2019,Cleveland Guardians,P,Mike Clevinger,1
+2019,Cleveland Guardians,P,Adam Plutko,2
+2019,Cleveland Guardians,P,Corey Kluber,1
+2019,Cleveland Guardians,P,Zach Plesac,1
+2019,Cleveland Guardians,P,James Hoyt,1
+2019,Cleveland Guardians,P,James Karinchak,1
+2019,Cleveland Guardians,P,Oliver Perez,1
+2019,Cleveland Guardians,P,Brad Hand,2
+2019,Cleveland Guardians,P,Nick Goody,3
+2019,Cleveland Guardians,P,Neil Ramirez,1
+2019,Cleveland Guardians,P,Tyler Clippard,2
+2019,Cleveland Guardians,P,Dan Otero,3
+2019,Cleveland Guardians,P,Jefry Rodriguez,1
+2019,Cleveland Guardians,P,Tyler Olson,1
+2019,Cleveland Guardians,P,Adam Cimber,5
+2019,Cleveland Guardians,P,Carlos Carrasco,1
+2019,Cleveland Guardians,P,Nick Wittgren,4
+2019,Cleveland Guardians,P,Hunter Wood,3
+2019,Cleveland Guardians,P,Phil Maton,2
+2020,Cleveland Guardians,C,Roberto Perez,32
+2020,Cleveland Guardians,"1B",Carlos Santana,60
+2020,Cleveland Guardians,"2B",Cesar Hernandez,58
+2020,Cleveland Guardians,SS,Francisco Lindor,60
+2020,Cleveland Guardians,"3B",Jose Ramirez,58
+2020,Cleveland Guardians,LF,Jordan Luplow,29
+2020,Cleveland Guardians,CF,Delino DeShields,37
+2020,Cleveland Guardians,RF,Tyler Naquin,40
+2020,Cleveland Guardians,DH,Franmil Reyes,59
+2020,Cleveland Guardians,CF,Oscar Mercado,36
+2020,Cleveland Guardians,OF,Domingo Santana,24
+2020,Cleveland Guardians,C,Sandy Leon,25
+2020,Cleveland Guardians,LF,Josh Naylor,22
+2020,Cleveland Guardians,OF,Bradley Zimmer,20
+2020,Cleveland Guardians,UT,Mike Freeman,24
+2020,Cleveland Guardians,OF,Greg Allen,15
+2020,Cleveland Guardians,C,Beau Taylor,7
+2020,Cleveland Guardians,OF,Daniel Johnson,5
+2020,Cleveland Guardians,IF,Yu Chang,10
+2020,Cleveland Guardians,C,Austin Hedges,6
+2020,Cleveland Guardians,"3B",Christian Arroyo,1
+2020,Cleveland Guardians,P,Adam Plutko,1
+2021,Cleveland Guardians,C,Austin Hedges,88
+2021,Cleveland Guardians,"1B",Bobby Bradley,74
+2021,Cleveland Guardians,"2B",Cesar Hernandez,96
+2021,Cleveland Guardians,SS,Amed Rosario,141
+2021,Cleveland Guardians,"3B",Jose Ramirez,152
+2021,Cleveland Guardians,LF,Eddie Rosario,78
+2021,Cleveland Guardians,CF,Myles Straw,60
+2021,Cleveland Guardians,RF,Josh Naylor,69
+2021,Cleveland Guardians,DH,Franmil Reyes,115
+2021,Cleveland Guardians,OF,Harold Ramirez,99
+2021,Cleveland Guardians,OF,Bradley Zimmer,99
+2021,Cleveland Guardians,"1B",Yu Chang,89
+2021,Cleveland Guardians,LF,Oscar Mercado,72
+2021,Cleveland Guardians,MI,Andres Gimenez,68
+2021,Cleveland Guardians,IF,Owen Miller,60
+2021,Cleveland Guardians,C,Roberto Perez,44
+2021,Cleveland Guardians,IF,Ernie Clement,40
+2021,Cleveland Guardians,CF,Jordan Luplow,36
+2021,Cleveland Guardians,"1B",Jake Bauers,43
+2021,Cleveland Guardians,OF,Daniel Johnson,30
+2021,Cleveland Guardians,C,Rene Rivera,21
+2021,Cleveland Guardians,C,Wilson Ramos,9
+2021,Cleveland Guardians,C,Ryan Lavarnway,9
+2021,Cleveland Guardians,OF,Ben Gamel,11
+2021,Cleveland Guardians,P,Shane Bieber,2
+2021,Cleveland Guardians,P,Triston McKenzie,1
+2021,Cleveland Guardians,P,Cal Quantrill,3
+2021,Cleveland Guardians,P,Eli Morgan,1
+2021,Cleveland Guardians,P,Aaron Civale,1
+2021,Cleveland Guardians,P,Sam Hentges,1
+2021,Cleveland Guardians,P,J.C. Mejia,2
+2021,Cleveland Guardians,P,Phil Maton,4
+2021,Cleveland Guardians,P,Logan Allen,1
+2021,Cleveland Guardians,P,James Karinchak,6
+2021,Cleveland Guardians,P,Kyle Nelson,2
+2021,Cleveland Guardians,P,Nick Wittgren,3
+2021,Cleveland Guardians,P,Trevor Stephan,4
+2021,Cleveland Guardians,P,Bryan Shaw,4
+2021,Cleveland Guardians,P,Nick Sandlin,3
+2021,Cleveland Guardians,P,Emmanuel Clase,5
+2021,Cleveland Guardians,P,Oliver Perez,2
+2021,Cleveland Guardians,P,Blake Parker,4
 2022,Cleveland Guardians,C,Austin Hedges,105
 2022,Cleveland Guardians,"1B",Josh Naylor,122
 2022,Cleveland Guardians,"2B",Andres Gimenez,146
@@ -11299,836 +11728,6 @@
 2024,Houston Astros,P,Bryan King,1
 2024,Houston Astros,P,Josh Hader,3
 2024,Houston Astros,P,Ryan Pressly,2
-2000,Cleveland Indians,C,Sandy Alomar,97
-2000,Cleveland Indians,"1B",Jim Thome,158
-2000,Cleveland Indians,"2B",Roberto Alomar,155
-2000,Cleveland Indians,SS,Omar Vizquel,156
-2000,Cleveland Indians,"3B",Travis Fryman,155
-2000,Cleveland Indians,LF,Richie Sexson,91
-2000,Cleveland Indians,CF,Kenny Lofton,137
-2000,Cleveland Indians,RF,Manny Ramirez,118
-2000,Cleveland Indians,DH,Russell Branyan,67
-2000,Cleveland Indians,OF,David Justice,68
-2000,Cleveland Indians,C,Einar Diaz,75
-2000,Cleveland Indians,"1B",David Segui,57
-2000,Cleveland Indians,CF,Jolbert Cabrera,100
-2000,Cleveland Indians,LF,Wil Cordero,38
-2000,Cleveland Indians,IF,Enrique Wilson,40
-2000,Cleveland Indians,OF,Alex Ramirez,41
-2000,Cleveland Indians,OF,Ricky Ledee,17
-2000,Cleveland Indians,UT,Bill Selby,30
-2000,Cleveland Indians,OF,Jacob Cruz,11
-2000,Cleveland Indians,OF,Chan Perry,13
-2000,Cleveland Indians,OF,Dave Roberts,19
-2000,Cleveland Indians,CF,Mark Whiten,6
-2000,Cleveland Indians,MI,John McDonald,9
-2000,Cleveland Indians,P,Chuck Finley,2
-2000,Cleveland Indians,P,Bartolo Colon,2
-2000,Cleveland Indians,P,Dave Burba,1
-2000,Cleveland Indians,P,Jim Brower,2
-2000,Cleveland Indians,P,Jaret Wright,1
-2000,Cleveland Indians,P,Justin Speier,3
-2000,Cleveland Indians,P,Jamie Brewington,3
-2000,Cleveland Indians,P,Steve Karsay,3
-2000,Cleveland Indians,P,Kane Davis,1
-2000,Cleveland Indians,P,Paul Rigdon,1
-2000,Cleveland Indians,P,Steve Reed,3
-2000,Cleveland Indians,P,Paul Shuey,2
-2000,Cleveland Indians,P,Tom Martin,3
-2000,Cleveland Indians,P,Andrew Lorraine,2
-2000,Cleveland Indians,P,Mark Watson,2
-2000,Cleveland Indians,P,Scott Kamieniecki,2
-2001,Cleveland Indians,C,Einar Diaz,134
-2001,Cleveland Indians,"1B",Jim Thome,156
-2001,Cleveland Indians,"2B",Roberto Alomar,157
-2001,Cleveland Indians,SS,Omar Vizquel,155
-2001,Cleveland Indians,"3B",Travis Fryman,98
-2001,Cleveland Indians,LF,Marty Cordova,122
-2001,Cleveland Indians,CF,Kenny Lofton,133
-2001,Cleveland Indians,RF,Juan Gonzalez,140
-2001,Cleveland Indians,DH,Ellis Burks,124
-2001,Cleveland Indians,UT,Russell Branyan,113
-2001,Cleveland Indians,CF,Jolbert Cabrera,141
-2001,Cleveland Indians,UT,Wil Cordero,89
-2001,Cleveland Indians,C,Ed Taubensee,52
-2001,Cleveland Indians,OF,Jacob Cruz,28
-2001,Cleveland Indians,OF,Karim Garcia,20
-2001,Cleveland Indians,C,Tim Laker,16
-2001,Cleveland Indians,IF,John McDonald,17
-2001,Cleveland Indians,CF,Milton Bradley,10
-2001,Cleveland Indians,IF,Mark Lewis,6
-2001,Cleveland Indians,OF,Dave Roberts,15
-2001,Cleveland Indians,DH,Dave Hollins,2
-2001,Cleveland Indians,P,Bartolo Colon,2
-2001,Cleveland Indians,P,CC Sabathia,2
-2001,Cleveland Indians,P,Dave Burba,3
-2001,Cleveland Indians,P,Jake Westbrook,3
-2001,Cleveland Indians,P,Jaret Wright,1
-2001,Cleveland Indians,P,Charles Nagy,1
-2001,Cleveland Indians,P,Steve Woodard,3
-2001,Cleveland Indians,P,Rich Rodriguez,2
-2001,Cleveland Indians,P,John Rocker,2
-2001,Cleveland Indians,P,Paul Shuey,3
-2001,Cleveland Indians,P,Ricardo Rincon,3
-2001,Cleveland Indians,P,Steve Reed,1
-2001,Cleveland Indians,P,Steve Karsay,2
-2001,Cleveland Indians,P,Bob Wickman,3
-2001,Cleveland Indians,P,Danys Baez,4
-2002,Cleveland Indians,C,Einar Diaz,102
-2002,Cleveland Indians,"1B",Jim Thome,147
-2002,Cleveland Indians,"2B",Ricky Gutierrez,94
-2002,Cleveland Indians,SS,Omar Vizquel,151
-2002,Cleveland Indians,"3B",Travis Fryman,118
-2002,Cleveland Indians,LF,Russell Branyan,50
-2002,Cleveland Indians,CF,Milton Bradley,98
-2002,Cleveland Indians,RF,Matt Lawton,114
-2002,Cleveland Indians,DH,Ellis Burks,138
-2002,Cleveland Indians,"2B",John McDonald,93
-2002,Cleveland Indians,OF,Chris Magruder,87
-2002,Cleveland Indians,RF,Karim Garcia,51
-2002,Cleveland Indians,"3B",Bill Selby,65
-2002,Cleveland Indians,"1B",Lee Stevens,53
-2002,Cleveland Indians,CF,Coco Crisp,32
-2002,Cleveland Indians,C,Eddie Perez,42
-2002,Cleveland Indians,LF,Ben Broussard,39
-2002,Cleveland Indians,OF,Brady Anderson,34
-2002,Cleveland Indians,C,Josh Bard,24
-2002,Cleveland Indians,CF,Jolbert Cabrera,38
-2002,Cleveland Indians,CI,Earl Snyder,18
-2002,Cleveland Indians,"3B",Greg LaRocca,21
-2002,Cleveland Indians,C,Victor Martinez,12
-2002,Cleveland Indians,"2B",Brandon Phillips,11
-2002,Cleveland Indians,OF,Bruce Aven,7
-2002,Cleveland Indians,UT,Wil Cordero,6
-2002,Cleveland Indians,OF,Chad Allen,5
-2002,Cleveland Indians,OF,Todd Dunwoody,2
-2002,Cleveland Indians,P,Bartolo Colon,2
-2002,Cleveland Indians,P,CC Sabathia,2
-2002,Cleveland Indians,P,Ryan Drese,2
-2002,Cleveland Indians,P,Chuck Finley,2
-2002,Cleveland Indians,P,Danys Baez,1
-2002,Cleveland Indians,P,Ricardo Rincon,3
-2002,Cleveland Indians,P,David Riske,3
-2002,Cleveland Indians,P,Jerrod Riggan,5
-2002,Cleveland Indians,P,Chad Paronto,3
-2002,Cleveland Indians,P,Charles Nagy,1
-2002,Cleveland Indians,P,Heath Murray,1
-2002,Cleveland Indians,P,Bob Wickman,3
-2002,Cleveland Indians,P,Mark Wohlers,3
-2003,Cleveland Indians,C,Josh Bard,91
-2003,Cleveland Indians,"1B",Ben Broussard,116
-2003,Cleveland Indians,"2B",Brandon Phillips,112
-2003,Cleveland Indians,SS,Jhonny Peralta,77
-2003,Cleveland Indians,"3B",Casey Blake,152
-2003,Cleveland Indians,LF,Matt Lawton,99
-2003,Cleveland Indians,CF,Milton Bradley,101
-2003,Cleveland Indians,RF,Jody Gerut,127
-2003,Cleveland Indians,DH,Ellis Burks,55
-2003,Cleveland Indians,OF,Coco Crisp,99
-2003,Cleveland Indians,DH,Travis Hafner,91
-2003,Cleveland Indians,SS,Omar Vizquel,64
-2003,Cleveland Indians,MI,John McDonald,82
-2003,Cleveland Indians,RF,Shane Spencer,64
-2003,Cleveland Indians,C,Tim Laker,52
-2003,Cleveland Indians,C,Victor Martinez,49
-2003,Cleveland Indians,OF,Ryan Ludwick,39
-2003,Cleveland Indians,RF,Alex Escobar,28
-2003,Cleveland Indians,RF,Karim Garcia,24
-2003,Cleveland Indians,"2B",Angel Santos,32
-2003,Cleveland Indians,IF,Ricky Gutierrez,16
-2003,Cleveland Indians,MI,Zach Sorensen,36
-2003,Cleveland Indians,CI,Bill Selby,27
-2003,Cleveland Indians,OF,Chris Magruder,9
-2003,Cleveland Indians,"3B",Greg LaRocca,5
-2003,Cleveland Indians,P,CC Sabathia,3
-2003,Cleveland Indians,P,Billy Traber,2
-2003,Cleveland Indians,P,Jason Davis,2
-2003,Cleveland Indians,P,Ricardo Rodriguez,2
-2003,Cleveland Indians,P,Brian Tallet,3
-2003,Cleveland Indians,P,Brian Anderson,3
-2003,Cleveland Indians,P,Jake Westbrook,4
-2003,Cleveland Indians,P,Terry Mulholland,5
-2003,Cleveland Indians,P,Danys Baez,5
-2003,Cleveland Indians,P,Jose Santiago,1
-2003,Cleveland Indians,P,David Riske,4
-2003,Cleveland Indians,P,Dan Miceli,6
-2003,Cleveland Indians,P,Jason Boyd,5
-2003,Cleveland Indians,P,Rafael Betancourt,1
-2004,Cleveland Indians,C,Victor Martinez,141
-2004,Cleveland Indians,"1B",Ben Broussard,139
-2004,Cleveland Indians,"2B",Ronnie Belliard,152
-2004,Cleveland Indians,SS,Omar Vizquel,148
-2004,Cleveland Indians,"3B",Casey Blake,152
-2004,Cleveland Indians,LF,Matt Lawton,150
-2004,Cleveland Indians,CF,Coco Crisp,139
-2004,Cleveland Indians,RF,Jody Gerut,134
-2004,Cleveland Indians,DH,Travis Hafner,140
-2004,Cleveland Indians,"1B",Lou Merloni,71
-2004,Cleveland Indians,OF,Alex Escobar,46
-2004,Cleveland Indians,CF,Grady Sizemore,43
-2004,Cleveland Indians,C,Tim Laker,43
-2004,Cleveland Indians,SS,John McDonald,66
-2004,Cleveland Indians,DH,Josh Phelps,24
-2004,Cleveland Indians,RF,Ryan Ludwick,15
-2004,Cleveland Indians,IF,Jhonny Peralta,8
-2004,Cleveland Indians,"2B",Brandon Phillips,6
-2004,Cleveland Indians,C,Josh Bard,7
-2004,Cleveland Indians,OF,Mark Little,11
-2004,Cleveland Indians,OF,Raul Gonzalez,7
-2004,Cleveland Indians,DH,Ernie Young,3
-2004,Cleveland Indians,C,Sandy Martinez,1
-2004,Cleveland Indians,P,Jason Davis,2
-2004,Cleveland Indians,P,CC Sabathia,1
-2004,Cleveland Indians,P,Jake Westbrook,2
-2004,Cleveland Indians,P,Cliff Lee,1
-2004,Cleveland Indians,P,Scott Elarton,2
-2004,Cleveland Indians,P,Kazuhito Tadano,2
-2004,Cleveland Indians,P,Matt Miller,3
-2004,Cleveland Indians,P,Jose Jimenez,2
-2004,Cleveland Indians,P,Bob Howry,1
-2004,Cleveland Indians,P,David Riske,4
-2004,Cleveland Indians,P,Jeriome Robertson,2
-2004,Cleveland Indians,P,Rafael Betancourt,3
-2004,Cleveland Indians,P,Rick White,6
-2004,Cleveland Indians,P,Cliff Bartosh,2
-2005,Cleveland Indians,C,Victor Martinez,147
-2005,Cleveland Indians,"1B",Ben Broussard,142
-2005,Cleveland Indians,"2B",Ronnie Belliard,145
-2005,Cleveland Indians,SS,Jhonny Peralta,141
-2005,Cleveland Indians,"3B",Aaron Boone,143
-2005,Cleveland Indians,LF,Coco Crisp,145
-2005,Cleveland Indians,CF,Grady Sizemore,158
-2005,Cleveland Indians,RF,Casey Blake,147
-2005,Cleveland Indians,DH,Travis Hafner,137
-2005,Cleveland Indians,CI,Jose Hernandez,84
-2005,Cleveland Indians,OF,Jody Gerut,44
-2005,Cleveland Indians,MI,Alex Cora,49
-2005,Cleveland Indians,C,Josh Bard,34
-2005,Cleveland Indians,UT,Jeff Liefer,19
-2005,Cleveland Indians,OF,Jason Dubois,14
-2005,Cleveland Indians,OF,Ryan Ludwick,19
-2005,Cleveland Indians,MI,Ramon Vazquez,12
-2005,Cleveland Indians,MI,Brandon Phillips,6
-2005,Cleveland Indians,DH,Franklin Gutierrez,7
-2005,Cleveland Indians,"",Juan Gonzalez,1
-2005,Cleveland Indians,DH,Ryan Garko,1
-2005,Cleveland Indians,P,Cliff Lee,3
-2005,Cleveland Indians,P,CC Sabathia,2
-2005,Cleveland Indians,P,Jason Davis,1
-2005,Cleveland Indians,P,Kevin Millwood,1
-2005,Cleveland Indians,P,Jake Westbrook,1
-2005,Cleveland Indians,P,Scott Elarton,1
-2005,Cleveland Indians,P,Bob Howry,6
-2005,Cleveland Indians,P,Arthur Rhodes,2
-2005,Cleveland Indians,P,David Riske,3
-2005,Cleveland Indians,P,Matt Miller,2
-2005,Cleveland Indians,P,Scott Sauerbeck,4
-2005,Cleveland Indians,P,Rafael Betancourt,2
-2005,Cleveland Indians,P,Bob Wickman,4
-2006,Cleveland Indians,C,Victor Martinez,153
-2006,Cleveland Indians,"1B",Ben Broussard,88
-2006,Cleveland Indians,"2B",Ronnie Belliard,93
-2006,Cleveland Indians,SS,Jhonny Peralta,149
-2006,Cleveland Indians,"3B",Aaron Boone,104
-2006,Cleveland Indians,LF,Jason Michaels,123
-2006,Cleveland Indians,CF,Grady Sizemore,162
-2006,Cleveland Indians,RF,Casey Blake,109
-2006,Cleveland Indians,DH,Travis Hafner,129
-2006,Cleveland Indians,"2B",Joe Inglett,64
-2006,Cleveland Indians,"1B",Ryan Garko,50
-2006,Cleveland Indians,"3B",Andy Marte,50
-2006,Cleveland Indians,RF,Shin-Soo Choo,45
-2006,Cleveland Indians,LF,Todd Hollandsworth,56
-2006,Cleveland Indians,RF,Franklin Gutierrez,43
-2006,Cleveland Indians,MI,Hector Luna,37
-2006,Cleveland Indians,C,Kelly Shoppach,41
-2006,Cleveland Indians,"1B",Eduardo Perez,37
-2006,Cleveland Indians,IF,Ramon Vazquez,34
-2006,Cleveland Indians,DH,Kevin Kouzmanoff,16
-2006,Cleveland Indians,IF,Lou Merloni,9
-2006,Cleveland Indians,C,Tim Laker,4
-2006,Cleveland Indians,P,CC Sabathia,3
-2006,Cleveland Indians,P,Cliff Lee,2
-2006,Cleveland Indians,P,Paul Byrd,2
-2006,Cleveland Indians,P,Jake Westbrook,2
-2006,Cleveland Indians,P,Bob Wickman,5
-2006,Cleveland Indians,P,Rafael Perez,3
-2006,Cleveland Indians,P,Guillermo Mota,2
-2006,Cleveland Indians,P,Tom Mastny,1
-2006,Cleveland Indians,P,Roberto Hernandez,5
-2006,Cleveland Indians,P,Fernando Cabrera,3
-2006,Cleveland Indians,P,Rafael Betancourt,3
-2007,Cleveland Indians,C,Victor Martinez,147
-2007,Cleveland Indians,"1B",Ryan Garko,138
-2007,Cleveland Indians,"2B",Josh Barfield,130
-2007,Cleveland Indians,SS,Jhonny Peralta,152
-2007,Cleveland Indians,"3B",Casey Blake,156
-2007,Cleveland Indians,LF,Jason Michaels,105
-2007,Cleveland Indians,CF,Grady Sizemore,162
-2007,Cleveland Indians,RF,Trot Nixon,99
-2007,Cleveland Indians,DH,Travis Hafner,152
-2007,Cleveland Indians,RF,Franklin Gutierrez,100
-2007,Cleveland Indians,LF,David Dellucci,56
-2007,Cleveland Indians,LF,Kenny Lofton,52
-2007,Cleveland Indians,"2B",Asdrubal Cabrera,45
-2007,Cleveland Indians,C,Kelly Shoppach,59
-2007,Cleveland Indians,IF,Mike Rouse,41
-2007,Cleveland Indians,OF,Ben Francisco,25
-2007,Cleveland Indians,"3B",Andy Marte,20
-2007,Cleveland Indians,IF,Chris Gomez,19
-2007,Cleveland Indians,OF,Shin-Soo Choo,6
-2007,Cleveland Indians,MI,Luis Rivas,4
-2007,Cleveland Indians,P,Roberto Hernandez,2
-2007,Cleveland Indians,P,Cliff Lee,2
-2007,Cleveland Indians,P,CC Sabathia,1
-2007,Cleveland Indians,P,Jason Stanford,1
-2007,Cleveland Indians,P,Jeremy Sowers,1
-2007,Cleveland Indians,P,Jake Westbrook,1
-2007,Cleveland Indians,P,Paul Byrd,1
-2007,Cleveland Indians,P,Rafael Betancourt,4
-2007,Cleveland Indians,P,Rafael Perez,2
-2007,Cleveland Indians,P,Matt Miller,2
-2007,Cleveland Indians,P,Tom Mastny,5
-2007,Cleveland Indians,P,Roberto Hernandez,2
-2007,Cleveland Indians,P,Aaron Fultz,2
-2007,Cleveland Indians,P,Fernando Cabrera,1
-2007,Cleveland Indians,P,Joe Borowski,5
-2008,Cleveland Indians,C,Kelly Shoppach,112
-2008,Cleveland Indians,"1B",Ryan Garko,141
-2008,Cleveland Indians,"2B",Asdrubal Cabrera,114
-2008,Cleveland Indians,SS,Jhonny Peralta,154
-2008,Cleveland Indians,"3B",Casey Blake,94
-2008,Cleveland Indians,LF,Ben Francisco,121
-2008,Cleveland Indians,CF,Grady Sizemore,157
-2008,Cleveland Indians,RF,Franklin Gutierrez,134
-2008,Cleveland Indians,DH,Travis Hafner,57
-2008,Cleveland Indians,IF,Jamey Carroll,113
-2008,Cleveland Indians,DH,David Dellucci,113
-2008,Cleveland Indians,OF,Shin-Soo Choo,94
-2008,Cleveland Indians,C,Victor Martinez,73
-2008,Cleveland Indians,"3B",Andy Marte,80
-2008,Cleveland Indians,OF,Jason Michaels,21
-2008,Cleveland Indians,C,Sal Fasano,15
-2008,Cleveland Indians,"1B",Michael Aubrey,15
-2008,Cleveland Indians,"2B",Josh Barfield,12
-2008,Cleveland Indians,CI,Andy Gonzalez,10
-2008,Cleveland Indians,MI,Jorge Velandia,7
-2008,Cleveland Indians,LF,Jason Tyner,1
-2008,Cleveland Indians,P,Paul Byrd,2
-2008,Cleveland Indians,P,Cliff Lee,2
-2008,Cleveland Indians,P,Roberto Hernandez,1
-2008,Cleveland Indians,P,CC Sabathia,1
-2008,Cleveland Indians,P,Jeremy Sowers,2
-2008,Cleveland Indians,P,Aaron Laffey,1
-2008,Cleveland Indians,P,Jensen Lewis,2
-2008,Cleveland Indians,P,Scott Elarton,2
-2008,Cleveland Indians,P,Masahide Kobayashi,4
-2008,Cleveland Indians,P,Joe Borowski,2
-2008,Cleveland Indians,P,Rafael Perez,6
-2008,Cleveland Indians,P,Rafael Betancourt,3
-2008,Cleveland Indians,P,Rick Bauer,1
-2008,Cleveland Indians,P,Jorge Julio,2
-2009,Cleveland Indians,C,Kelly Shoppach,89
-2009,Cleveland Indians,"1B",Ryan Garko,78
-2009,Cleveland Indians,"2B",Luis Valbuena,103
-2009,Cleveland Indians,SS,Asdrubal Cabrera,131
-2009,Cleveland Indians,"3B",Jhonny Peralta,151
-2009,Cleveland Indians,LF,Ben Francisco,89
-2009,Cleveland Indians,CF,Grady Sizemore,106
-2009,Cleveland Indians,RF,Shin-Soo Choo,156
-2009,Cleveland Indians,DH,Travis Hafner,94
-2009,Cleveland Indians,UT,Victor Martinez,99
-2009,Cleveland Indians,IF,Jamey Carroll,93
-2009,Cleveland Indians,"3B",Mark DeRosa,71
-2009,Cleveland Indians,OF,Trevor Crowe,68
-2009,Cleveland Indians,LF,Matt LaPorta,52
-2009,Cleveland Indians,"1B",Andy Marte,47
-2009,Cleveland Indians,UT,Chris Gimenez,45
-2009,Cleveland Indians,CF,Michael Brantley,28
-2009,Cleveland Indians,C,Wyatt Toregas,19
-2009,Cleveland Indians,C,Lou Marson,14
-2009,Cleveland Indians,DH,David Dellucci,14
-2009,Cleveland Indians,IF,Tony Graffanino,7
-2009,Cleveland Indians,UT,Josh Barfield,17
-2009,Cleveland Indians,IF,Niuman Romero,10
-2009,Cleveland Indians,P,Cliff Lee,3
-2009,Cleveland Indians,P,David Huff,2
-2009,Cleveland Indians,P,Tomo Ohka,1
-2009,Cleveland Indians,P,Carl Pavano,1
-2009,Cleveland Indians,P,Jeremy Sowers,1
-2009,Cleveland Indians,P,Jensen Lewis,4
-2009,Cleveland Indians,P,Rafael Perez,4
-2009,Cleveland Indians,P,Anthony Reyes,1
-2009,Cleveland Indians,P,Greg Aquino,2
-2009,Cleveland Indians,P,Aaron Laffey,1
-2009,Cleveland Indians,P,Tony Sipp,1
-2009,Cleveland Indians,P,Matt Herges,5
-2009,Cleveland Indians,P,Joe Smith,4
-2009,Cleveland Indians,P,Mike Gosling,1
-2009,Cleveland Indians,P,Rafael Betancourt,2
-2009,Cleveland Indians,P,Luis Vizcaino,3
-2009,Cleveland Indians,P,Kerry Wood,4
-2010,Cleveland Indians,C,Lou Marson,87
-2010,Cleveland Indians,"1B",Matt LaPorta,110
-2010,Cleveland Indians,"2B",Luis Valbuena,91
-2010,Cleveland Indians,SS,Asdrubal Cabrera,97
-2010,Cleveland Indians,"3B",Jhonny Peralta,91
-2010,Cleveland Indians,LF,Austin Kearns,84
-2010,Cleveland Indians,CF,Trevor Crowe,122
-2010,Cleveland Indians,RF,Shin-Soo Choo,144
-2010,Cleveland Indians,DH,Travis Hafner,118
-2010,Cleveland Indians,CF,Michael Brantley,72
-2010,Cleveland Indians,MI,Jason Donald,88
-2010,Cleveland Indians,IF,Jayson Nix,78
-2010,Cleveland Indians,LF,Shelley Duncan,85
-2010,Cleveland Indians,C,Carlos Santana,46
-2010,Cleveland Indians,"1B",Russell Branyan,52
-2010,Cleveland Indians,CI,Andy Marte,80
-2010,Cleveland Indians,CF,Grady Sizemore,33
-2010,Cleveland Indians,"2B",Mark Grudzielanek,30
-2010,Cleveland Indians,UT,Jordan Brown,26
-2010,Cleveland Indians,C,Mike Redmond,22
-2010,Cleveland Indians,C,Chris Gimenez,28
-2010,Cleveland Indians,SS,Anderson Hernandez,22
-2010,Cleveland Indians,MI,Drew Sutton,11
-2010,Cleveland Indians,C,Luke Carlin,6
-2010,Cleveland Indians,P,Justin Masterson,2
-2010,Cleveland Indians,P,Mitch Talbot,2
-2010,Cleveland Indians,P,Roberto Hernandez,2
-2010,Cleveland Indians,P,David Huff,1
-2010,Cleveland Indians,P,Jake Westbrook,1
-2010,Cleveland Indians,P,Aaron Laffey,1
-2010,Cleveland Indians,P,Chris Perez,4
-2010,Cleveland Indians,P,Rafael Perez,5
-2010,Cleveland Indians,P,Hector Ambriz,1
-2010,Cleveland Indians,P,Tony Sipp,4
-2010,Cleveland Indians,P,Jensen Lewis,3
-2010,Cleveland Indians,P,Joe Smith,3
-2010,Cleveland Indians,P,Frank Herrmann,5
-2010,Cleveland Indians,P,Kerry Wood,4
-2011,Cleveland Indians,C,Carlos Santana,155
-2011,Cleveland Indians,"1B",Matt LaPorta,107
-2011,Cleveland Indians,"2B",Orlando Cabrera,91
-2011,Cleveland Indians,SS,Asdrubal Cabrera,151
-2011,Cleveland Indians,"3B",Jack Hannahan,110
-2011,Cleveland Indians,LF,Michael Brantley,114
-2011,Cleveland Indians,CF,Grady Sizemore,71
-2011,Cleveland Indians,RF,Shin-Soo Choo,85
-2011,Cleveland Indians,DH,Travis Hafner,94
-2011,Cleveland Indians,C,Lou Marson,79
-2011,Cleveland Indians,RF,Kosuke Fukudome,59
-2011,Cleveland Indians,LF,Shelley Duncan,76
-2011,Cleveland Indians,CF,Ezequiel Carrera,68
-2011,Cleveland Indians,"3B",Lonnie Chisenhall,66
-2011,Cleveland Indians,OF,Austin Kearns,57
-2011,Cleveland Indians,LF,Travis Buck,50
-2011,Cleveland Indians,"2B",Jason Kipnis,36
-2011,Cleveland Indians,MI,Jason Donald,39
-2011,Cleveland Indians,DH,Jim Thome,22
-2011,Cleveland Indians,"2B",Cord Phelps,35
-2011,Cleveland Indians,IF,Adam Everett,34
-2011,Cleveland Indians,UT,Luis Valbuena,17
-2011,Cleveland Indians,OF,Trevor Crowe,15
-2011,Cleveland Indians,LF,Jerad Head,10
-2011,Cleveland Indians,P,Carlos Carrasco,2
-2011,Cleveland Indians,P,Justin Masterson,2
-2011,Cleveland Indians,P,Mitch Talbot,2
-2011,Cleveland Indians,P,Roberto Hernandez,2
-2011,Cleveland Indians,P,Josh Tomlin,2
-2011,Cleveland Indians,P,Frank Herrmann,1
-2011,Cleveland Indians,P,Josh Judy,1
-2011,Cleveland Indians,P,Chris Perez,2
-2011,Cleveland Indians,P,Rafael Perez,4
-2011,Cleveland Indians,P,Vinnie Pestano,4
-2011,Cleveland Indians,P,Chad Durbin,3
-2011,Cleveland Indians,P,Tony Sipp,4
-2011,Cleveland Indians,P,Joe Smith,5
-2012,Cleveland Indians,C,Carlos Santana,143
-2012,Cleveland Indians,"1B",Casey Kotchman,142
-2012,Cleveland Indians,"2B",Jason Kipnis,152
-2012,Cleveland Indians,SS,Asdrubal Cabrera,143
-2012,Cleveland Indians,"3B",Jack Hannahan,105
-2012,Cleveland Indians,LF,Shelley Duncan,81
-2012,Cleveland Indians,CF,Michael Brantley,149
-2012,Cleveland Indians,RF,Shin-Soo Choo,155
-2012,Cleveland Indians,DH,Travis Hafner,66
-2012,Cleveland Indians,C,Lou Marson,70
-2012,Cleveland Indians,LF,Johnny Damon,64
-2012,Cleveland Indians,"3B",Jose Lopez,66
-2012,Cleveland Indians,LF,Ezequiel Carrera,48
-2012,Cleveland Indians,"3B",Lonnie Chisenhall,43
-2012,Cleveland Indians,UT,Jason Donald,43
-2012,Cleveland Indians,IF,Brent Lillibridge,43
-2012,Cleveland Indians,LF,Aaron Cunningham,72
-2012,Cleveland Indians,UT,Russ Canzler,26
-2012,Cleveland Indians,DH,Matt LaPorta,22
-2012,Cleveland Indians,MI,Cord Phelps,14
-2012,Cleveland Indians,UT,Vinny Rottino,18
-2012,Cleveland Indians,OF,Thomas Neal,9
-2012,Cleveland Indians,SS,Juan Diaz,5
-2012,Cleveland Indians,C,Luke Carlin,4
-2012,Cleveland Indians,P,Josh Tomlin,2
-2012,Cleveland Indians,P,Ubaldo Jimenez,2
-2012,Cleveland Indians,P,Derek Lowe,2
-2012,Cleveland Indians,P,Jeanmar Gomez,2
-2012,Cleveland Indians,P,Justin Masterson,1
-2012,Cleveland Indians,P,Esmil Rogers,3
-2012,Cleveland Indians,P,Scott Maine,1
-2012,Cleveland Indians,P,Chris Perez,3
-2012,Cleveland Indians,P,Vinnie Pestano,2
-2012,Cleveland Indians,P,Nick Hagadone,3
-2012,Cleveland Indians,P,Scott Barnes,1
-2012,Cleveland Indians,P,Tony Sipp,2
-2012,Cleveland Indians,P,Joe Smith,5
-2012,Cleveland Indians,P,Jeremy Accardo,4
-2013,Cleveland Indians,C,Carlos Santana,154
-2013,Cleveland Indians,"1B",Nick Swisher,145
-2013,Cleveland Indians,"2B",Jason Kipnis,149
-2013,Cleveland Indians,SS,Asdrubal Cabrera,136
-2013,Cleveland Indians,"3B",Lonnie Chisenhall,94
-2013,Cleveland Indians,LF,Michael Brantley,151
-2013,Cleveland Indians,CF,Michael Bourn,130
-2013,Cleveland Indians,RF,Drew Stubbs,146
-2013,Cleveland Indians,DH,Jason Giambi,71
-2013,Cleveland Indians,IF,Mike Aviles,124
-2013,Cleveland Indians,CI,Mark Reynolds,99
-2013,Cleveland Indians,C,Yan Gomes,88
-2013,Cleveland Indians,RF,Ryan Raburn,86
-2013,Cleveland Indians,OF,Jason Kubel,8
-2013,Cleveland Indians,IF,Jose Ramirez,15
-2013,Cleveland Indians,OF,Matt Carson,20
-2013,Cleveland Indians,"2B",Cord Phelps,4
-2013,Cleveland Indians,"3B",John McDonald,8
-2013,Cleveland Indians,RF,Ezequiel Carrera,2
-2013,Cleveland Indians,C,Lou Marson,3
-2013,Cleveland Indians,C,Kelly Shoppach,1
-2013,Cleveland Indians,C,Omir Santos,1
-2013,Cleveland Indians,P,Ubaldo Jimenez,3
-2013,Cleveland Indians,P,Scott Kazmir,2
-2013,Cleveland Indians,P,Zach McAllister,2
-2013,Cleveland Indians,P,Corey Kluber,1
-2013,Cleveland Indians,P,Justin Masterson,1
-2013,Cleveland Indians,P,Danny Salazar,1
-2013,Cleveland Indians,P,Trevor Bauer,1
-2013,Cleveland Indians,P,Chris Perez,4
-2013,Cleveland Indians,P,Matt Albers,5
-2013,Cleveland Indians,P,Rich Hill,5
-2013,Cleveland Indians,P,Nick Hagadone,2
-2013,Cleveland Indians,P,Carlos Carrasco,1
-2013,Cleveland Indians,P,Marc Rzepczynski,2
-2013,Cleveland Indians,P,Bryan Shaw,7
-2013,Cleveland Indians,P,Joe Smith,3
-2013,Cleveland Indians,P,Scott Barnes,1
-2013,Cleveland Indians,P,Cody Allen,8
-2014,Cleveland Indians,C,Yan Gomes,135
-2014,Cleveland Indians,"1B",Carlos Santana,152
-2014,Cleveland Indians,"2B",Jason Kipnis,129
-2014,Cleveland Indians,SS,Asdrubal Cabrera,97
-2014,Cleveland Indians,"3B",Lonnie Chisenhall,142
-2014,Cleveland Indians,LF,Michael Brantley,156
-2014,Cleveland Indians,CF,Michael Bourn,106
-2014,Cleveland Indians,RF,David Murphy,129
-2014,Cleveland Indians,DH,Nick Swisher,97
-2014,Cleveland Indians,UT,Mike Aviles,113
-2014,Cleveland Indians,SS,Jose Ramirez,68
-2014,Cleveland Indians,DH,Ryan Raburn,74
-2014,Cleveland Indians,OF,Chris Dickerson,41
-2014,Cleveland Indians,C,Roberto Perez,29
-2014,Cleveland Indians,DH,Zach Walters,30
-2014,Cleveland Indians,RF,Tyler Holt,36
-2014,Cleveland Indians,DH,Jason Giambi,26
-2014,Cleveland Indians,OF,Nyjer Morgan,15
-2014,Cleveland Indians,"1B",Jesus Aguilar,19
-2014,Cleveland Indians,C,George Kottaras,10
-2014,Cleveland Indians,OF,JB Shuck,16
-2014,Cleveland Indians,IF,Justin Sellers,17
-2014,Cleveland Indians,UT,Elliot Johnson,7
-2014,Cleveland Indians,UT,Chris Gimenez,8
-2014,Cleveland Indians,P,Corey Kluber,4
-2014,Cleveland Indians,P,Justin Masterson,2
-2014,Cleveland Indians,P,Danny Salazar,2
-2014,Cleveland Indians,P,Zach McAllister,1
-2014,Cleveland Indians,P,T.J. House,1
-2014,Cleveland Indians,P,Trevor Bauer,1
-2014,Cleveland Indians,P,Carlos Carrasco,2
-2014,Cleveland Indians,P,Cody Allen,5
-2014,Cleveland Indians,P,Josh Tomlin,1
-2014,Cleveland Indians,P,Scott Atchison,7
-2014,Cleveland Indians,P,John Axford,2
-2014,Cleveland Indians,P,Bryan Shaw,4
-2014,Cleveland Indians,P,Marc Rzepczynski,5
-2014,Cleveland Indians,P,Kyle Crockett,4
-2014,Cleveland Indians,P,Nick Hagadone,1
-2014,Cleveland Indians,P,Vinnie Pestano,3
-2014,Cleveland Indians,P,Josh Outman,2
-2014,Cleveland Indians,P,C.C. Lee,3
-2014,Cleveland Indians,P,Mark Lowe,1
-2015,Cleveland Indians,C,Yan Gomes,95
-2015,Cleveland Indians,"1B",Carlos Santana,154
-2015,Cleveland Indians,"2B",Jason Kipnis,141
-2015,Cleveland Indians,SS,Francisco Lindor,99
-2015,Cleveland Indians,"3B",Gio Urshela,81
-2015,Cleveland Indians,LF,Michael Brantley,137
-2015,Cleveland Indians,CF,Michael Bourn,95
-2015,Cleveland Indians,RF,Brandon Moss,94
-2015,Cleveland Indians,DH,Ryan Raburn,82
-2015,Cleveland Indians,UT,Lonnie Chisenhall,106
-2015,Cleveland Indians,MI,Jose Ramirez,97
-2015,Cleveland Indians,UT,Mike Aviles,98
-2015,Cleveland Indians,DH,David Murphy,84
-2015,Cleveland Indians,C,Roberto Perez,70
-2015,Cleveland Indians,CF,Abraham Almonte,51
-2015,Cleveland Indians,RF,Jerry Sands,50
-2015,Cleveland Indians,DH,Nick Swisher,30
-2015,Cleveland Indians,CI,Chris Johnson,27
-2015,Cleveland Indians,C,Brett Hayes,14
-2015,Cleveland Indians,OF,Michael Martinez,16
-2015,Cleveland Indians,UT,Zach Walters,12
-2015,Cleveland Indians,OF,Tyler Holt,9
-2015,Cleveland Indians,"1B",Jesus Aguilar,7
-2015,Cleveland Indians,C,Adam Moore,1
-2015,Cleveland Indians,P,Trevor Bauer,3
-2015,Cleveland Indians,P,Corey Kluber,2
-2015,Cleveland Indians,P,Danny Salazar,2
-2015,Cleveland Indians,P,Carlos Carrasco,1
-2015,Cleveland Indians,P,Cody Anderson,2
-2015,Cleveland Indians,P,Austin Adams,3
-2015,Cleveland Indians,P,Zach McAllister,7
-2015,Cleveland Indians,P,Jeff Manship,4
-2015,Cleveland Indians,P,Nick Hagadone,1
-2015,Cleveland Indians,P,Kyle Crockett,3
-2015,Cleveland Indians,P,Marc Rzepczynski,4
-2015,Cleveland Indians,P,Bryan Shaw,3
-2015,Cleveland Indians,P,Cody Allen,4
-2015,Cleveland Indians,P,Ryan Webb,4
-2016,Cleveland Indians,C,Yan Gomes,74
-2016,Cleveland Indians,"1B",Mike Napoli,150
-2016,Cleveland Indians,"2B",Jason Kipnis,156
-2016,Cleveland Indians,SS,Francisco Lindor,158
-2016,Cleveland Indians,"3B",Jose Ramirez,152
-2016,Cleveland Indians,LF,Rajai Davis,134
-2016,Cleveland Indians,CF,Tyler Naquin,116
-2016,Cleveland Indians,RF,Lonnie Chisenhall,126
-2016,Cleveland Indians,DH,Carlos Santana,158
-2016,Cleveland Indians,"3B",Juan Uribe,73
-2016,Cleveland Indians,OF,Abraham Almonte,67
-2016,Cleveland Indians,C,Roberto Perez,61
-2016,Cleveland Indians,C,Chris Gimenez,67
-2016,Cleveland Indians,OF,Marlon Byrd,34
-2016,Cleveland Indians,UT,Michael Martinez,59
-2016,Cleveland Indians,LF,Brandon Guyer,38
-2016,Cleveland Indians,LF,Coco Crisp,20
-2016,Cleveland Indians,LF,Michael Brantley,11
-2016,Cleveland Indians,UT,Erik Gonzalez,21
-2016,Cleveland Indians,RF,Collin Cowgill,9
-2016,Cleveland Indians,DH,Jesus Aguilar,9
-2016,Cleveland Indians,C,Adam Moore,9
-2016,Cleveland Indians,P,Corey Kluber,3
-2016,Cleveland Indians,P,Trevor Bauer,3
-2016,Cleveland Indians,P,Josh Tomlin,2
-2016,Cleveland Indians,P,Danny Salazar,3
-2016,Cleveland Indians,P,Mike Clevinger,1
-2016,Cleveland Indians,P,Tommy Hunter,3
-2016,Cleveland Indians,P,Adam Plutko,1
-2016,Cleveland Indians,P,Bryan Shaw,5
-2016,Cleveland Indians,P,Dan Otero,3
-2016,Cleveland Indians,P,Andrew Miller,1
-2016,Cleveland Indians,P,Zach McAllister,3
-2016,Cleveland Indians,P,Jeff Manship,4
-2016,Cleveland Indians,P,Tom Gorzelanny,1
-2016,Cleveland Indians,P,Kyle Crockett,3
-2016,Cleveland Indians,P,Joe Colon,1
-2016,Cleveland Indians,P,Joba Chamberlain,3
-2016,Cleveland Indians,P,Cody Allen,6
-2017,Cleveland Indians,C,Yan Gomes,105
-2017,Cleveland Indians,"1B",Carlos Santana,154
-2017,Cleveland Indians,"2B",Jason Kipnis,90
-2017,Cleveland Indians,SS,Francisco Lindor,159
-2017,Cleveland Indians,"3B",Jose Ramirez,152
-2017,Cleveland Indians,LF,Michael Brantley,90
-2017,Cleveland Indians,CF,Bradley Zimmer,101
-2017,Cleveland Indians,RF,Jay Bruce,43
-2017,Cleveland Indians,DH,Edwin Encarnacion,157
-2017,Cleveland Indians,OF,Austin Jackson,85
-2017,Cleveland Indians,OF,Lonnie Chisenhall,82
-2017,Cleveland Indians,C,Roberto Perez,73
-2017,Cleveland Indians,RF,Abraham Almonte,69
-2017,Cleveland Indians,OF,Brandon Guyer,70
-2017,Cleveland Indians,"3B",Yandy Diaz,49
-2017,Cleveland Indians,"3B",Gio Urshela,67
-2017,Cleveland Indians,"2B",Erik Gonzalez,60
-2017,Cleveland Indians,OF,Daniel Robertson,32
-2017,Cleveland Indians,OF,Tyler Naquin,19
-2017,Cleveland Indians,OF,Greg Allen,25
-2017,Cleveland Indians,UT,Michael Martinez,14
-2017,Cleveland Indians,DH,Francisco Mejia,11
-2017,Cleveland Indians,P,Josh Tomlin,3
-2017,Cleveland Indians,P,Carlos Carrasco,2
-2017,Cleveland Indians,P,Trevor Bauer,2
-2017,Cleveland Indians,P,Mike Clevinger,2
-2017,Cleveland Indians,P,Corey Kluber,1
-2017,Cleveland Indians,P,Andrew Miller,5
-2017,Cleveland Indians,P,Boone Logan,6
-2017,Cleveland Indians,P,Zach McAllister,3
-2017,Cleveland Indians,P,Shawn Armstrong,3
-2017,Cleveland Indians,P,Dan Otero,5
-2017,Cleveland Indians,P,Nick Goody,3
-2017,Cleveland Indians,P,Cody Allen,5
-2017,Cleveland Indians,P,Bryan Shaw,6
-2017,Cleveland Indians,P,Kyle Crockett,1
-2018,Cleveland Indians,C,Yan Gomes,112
-2018,Cleveland Indians,"1B",Yonder Alonso,145
-2018,Cleveland Indians,"2B",Jason Kipnis,147
-2018,Cleveland Indians,SS,Francisco Lindor,158
-2018,Cleveland Indians,"3B",Jose Ramirez,157
-2018,Cleveland Indians,LF,Michael Brantley,143
-2018,Cleveland Indians,CF,Greg Allen,91
-2018,Cleveland Indians,RF,Melky Cabrera,78
-2018,Cleveland Indians,DH,Edwin Encarnacion,137
-2018,Cleveland Indians,RF,Brandon Guyer,103
-2018,Cleveland Indians,OF,Rajai Davis,101
-2018,Cleveland Indians,C,Roberto Perez,62
-2018,Cleveland Indians,RF,Tyler Naquin,61
-2018,Cleveland Indians,IF,Erik Gonzalez,81
-2018,Cleveland Indians,DH,Yandy Diaz,39
-2018,Cleveland Indians,CF,Bradley Zimmer,34
-2018,Cleveland Indians,RF,Lonnie Chisenhall,29
-2018,Cleveland Indians,"3B",Josh Donaldson,16
-2018,Cleveland Indians,OF,Brandon Barnes,19
-2018,Cleveland Indians,IF,Adam Rosales,13
-2018,Cleveland Indians,CF,Leonys Martin,6
-2018,Cleveland Indians,C,Eric Haase,9
-2018,Cleveland Indians,DH,Francisco Mejia,1
-2018,Cleveland Indians,P,Corey Kluber,3
-2018,Cleveland Indians,P,Shane Bieber,2
-2018,Cleveland Indians,P,Carlos Carrasco,1
-2018,Cleveland Indians,P,Mike Clevinger,2
-2018,Cleveland Indians,P,Trevor Bauer,1
-2018,Cleveland Indians,P,Adam Plutko,1
-2018,Cleveland Indians,P,Neil Ramirez,3
-2018,Cleveland Indians,P,Andrew Miller,3
-2018,Cleveland Indians,P,Josh Tomlin,4
-2018,Cleveland Indians,P,Brad Hand,1
-2018,Cleveland Indians,P,Oliver Perez,4
-2018,Cleveland Indians,P,Dan Otero,4
-2018,Cleveland Indians,P,Tyler Olson,3
-2018,Cleveland Indians,P,Zach McAllister,3
-2018,Cleveland Indians,P,Evan Marshall,1
-2018,Cleveland Indians,P,George Kontos,2
-2018,Cleveland Indians,P,Oliver Drake,1
-2018,Cleveland Indians,P,Cody Allen,4
-2019,Cleveland Indians,C,Roberto Perez,119
-2019,Cleveland Indians,"1B",Carlos Santana,158
-2019,Cleveland Indians,"2B",Jason Kipnis,121
-2019,Cleveland Indians,SS,Francisco Lindor,143
-2019,Cleveland Indians,"3B",Jose Ramirez,129
-2019,Cleveland Indians,LF,Jake Bauers,117
-2019,Cleveland Indians,CF,Oscar Mercado,115
-2019,Cleveland Indians,RF,Tyler Naquin,89
-2019,Cleveland Indians,DH,Franmil Reyes,51
-2019,Cleveland Indians,CF,Leonys Martin,65
-2019,Cleveland Indians,OF,Jordan Luplow,85
-2019,Cleveland Indians,LF,Greg Allen,89
-2019,Cleveland Indians,"2B",Mike Freeman,75
-2019,Cleveland Indians,RF,Yasiel Puig,49
-2019,Cleveland Indians,C,Kevin Plawecki,59
-2019,Cleveland Indians,LF,Carlos Gonzalez,30
-2019,Cleveland Indians,"3B",Yu Chang,28
-2019,Cleveland Indians,DH,Hanley Ramirez,16
-2019,Cleveland Indians,DH,Bobby Bradley,15
-2019,Cleveland Indians,SS,Eric Stamets,15
-2019,Cleveland Indians,"2B",Brad Miller,13
-2019,Cleveland Indians,IF,Max Moroff,20
-2019,Cleveland Indians,IF,Ryan Flaherty,14
-2019,Cleveland Indians,C,Eric Haase,10
-2019,Cleveland Indians,OF,Bradley Zimmer,9
-2019,Cleveland Indians,UT,Andrew Velazquez,5
-2019,Cleveland Indians,P,Trevor Bauer,2
-2019,Cleveland Indians,P,Shane Bieber,2
-2019,Cleveland Indians,P,Aaron Civale,1
-2019,Cleveland Indians,P,Mike Clevinger,1
-2019,Cleveland Indians,P,Adam Plutko,2
-2019,Cleveland Indians,P,Corey Kluber,1
-2019,Cleveland Indians,P,Zach Plesac,1
-2019,Cleveland Indians,P,James Hoyt,1
-2019,Cleveland Indians,P,James Karinchak,1
-2019,Cleveland Indians,P,Oliver Perez,1
-2019,Cleveland Indians,P,Brad Hand,2
-2019,Cleveland Indians,P,Nick Goody,3
-2019,Cleveland Indians,P,Neil Ramirez,1
-2019,Cleveland Indians,P,Tyler Clippard,2
-2019,Cleveland Indians,P,Dan Otero,3
-2019,Cleveland Indians,P,Jefry Rodriguez,1
-2019,Cleveland Indians,P,Tyler Olson,1
-2019,Cleveland Indians,P,Adam Cimber,5
-2019,Cleveland Indians,P,Carlos Carrasco,1
-2019,Cleveland Indians,P,Nick Wittgren,4
-2019,Cleveland Indians,P,Hunter Wood,3
-2019,Cleveland Indians,P,Phil Maton,2
-2020,Cleveland Indians,C,Roberto Perez,32
-2020,Cleveland Indians,"1B",Carlos Santana,60
-2020,Cleveland Indians,"2B",Cesar Hernandez,58
-2020,Cleveland Indians,SS,Francisco Lindor,60
-2020,Cleveland Indians,"3B",Jose Ramirez,58
-2020,Cleveland Indians,LF,Jordan Luplow,29
-2020,Cleveland Indians,CF,Delino DeShields,37
-2020,Cleveland Indians,RF,Tyler Naquin,40
-2020,Cleveland Indians,DH,Franmil Reyes,59
-2020,Cleveland Indians,CF,Oscar Mercado,36
-2020,Cleveland Indians,OF,Domingo Santana,24
-2020,Cleveland Indians,C,Sandy Leon,25
-2020,Cleveland Indians,LF,Josh Naylor,22
-2020,Cleveland Indians,OF,Bradley Zimmer,20
-2020,Cleveland Indians,UT,Mike Freeman,24
-2020,Cleveland Indians,OF,Greg Allen,15
-2020,Cleveland Indians,C,Beau Taylor,7
-2020,Cleveland Indians,OF,Daniel Johnson,5
-2020,Cleveland Indians,IF,Yu Chang,10
-2020,Cleveland Indians,C,Austin Hedges,6
-2020,Cleveland Indians,"3B",Christian Arroyo,1
-2020,Cleveland Indians,P,Adam Plutko,1
-2021,Cleveland Indians,C,Austin Hedges,88
-2021,Cleveland Indians,"1B",Bobby Bradley,74
-2021,Cleveland Indians,"2B",Cesar Hernandez,96
-2021,Cleveland Indians,SS,Amed Rosario,141
-2021,Cleveland Indians,"3B",Jose Ramirez,152
-2021,Cleveland Indians,LF,Eddie Rosario,78
-2021,Cleveland Indians,CF,Myles Straw,60
-2021,Cleveland Indians,RF,Josh Naylor,69
-2021,Cleveland Indians,DH,Franmil Reyes,115
-2021,Cleveland Indians,OF,Harold Ramirez,99
-2021,Cleveland Indians,OF,Bradley Zimmer,99
-2021,Cleveland Indians,"1B",Yu Chang,89
-2021,Cleveland Indians,LF,Oscar Mercado,72
-2021,Cleveland Indians,MI,Andres Gimenez,68
-2021,Cleveland Indians,IF,Owen Miller,60
-2021,Cleveland Indians,C,Roberto Perez,44
-2021,Cleveland Indians,IF,Ernie Clement,40
-2021,Cleveland Indians,CF,Jordan Luplow,36
-2021,Cleveland Indians,"1B",Jake Bauers,43
-2021,Cleveland Indians,OF,Daniel Johnson,30
-2021,Cleveland Indians,C,Rene Rivera,21
-2021,Cleveland Indians,C,Wilson Ramos,9
-2021,Cleveland Indians,C,Ryan Lavarnway,9
-2021,Cleveland Indians,OF,Ben Gamel,11
-2021,Cleveland Indians,P,Shane Bieber,2
-2021,Cleveland Indians,P,Triston McKenzie,1
-2021,Cleveland Indians,P,Cal Quantrill,3
-2021,Cleveland Indians,P,Eli Morgan,1
-2021,Cleveland Indians,P,Aaron Civale,1
-2021,Cleveland Indians,P,Sam Hentges,1
-2021,Cleveland Indians,P,J.C. Mejia,2
-2021,Cleveland Indians,P,Phil Maton,4
-2021,Cleveland Indians,P,Logan Allen,1
-2021,Cleveland Indians,P,James Karinchak,6
-2021,Cleveland Indians,P,Kyle Nelson,2
-2021,Cleveland Indians,P,Nick Wittgren,3
-2021,Cleveland Indians,P,Trevor Stephan,4
-2021,Cleveland Indians,P,Bryan Shaw,4
-2021,Cleveland Indians,P,Nick Sandlin,3
-2021,Cleveland Indians,P,Emmanuel Clase,5
-2021,Cleveland Indians,P,Oliver Perez,2
-2021,Cleveland Indians,P,Blake Parker,4
 2000,Kansas City Royals,C,Gregg Zaun,83
 2000,Kansas City Royals,"1B",Mike Sweeney,159
 2000,Kansas City Royals,"2B",Carlos Febles,100
@@ -13036,6 +12635,407 @@
 2024,Kansas City Royals,P,Kris Bubic,1
 2024,Kansas City Royals,P,James McArthur,2
 2024,Kansas City Royals,P,Hunter Harvey,1
+2005,Los Angeles Angels,C,Bengie Molina,119
+2005,Los Angeles Angels,"1B",Darin Erstad,153
+2005,Los Angeles Angels,"2B",Adam Kennedy,129
+2005,Los Angeles Angels,SS,Orlando Cabrera,141
+2005,Los Angeles Angels,"3B",Dallas McPherson,61
+2005,Los Angeles Angels,LF,Garret Anderson,142
+2005,Los Angeles Angels,CF,Steve Finley,112
+2005,Los Angeles Angels,RF,Vladimir Guerrero,141
+2005,Los Angeles Angels,DH,Jeff DaVanon,108
+2005,Los Angeles Angels,UT,Chone Figgins,158
+2005,Los Angeles Angels,OF,Juan Rivera,106
+2005,Los Angeles Angels,IF,Maicer Izturis,77
+2005,Los Angeles Angels,C,Jose Molina,75
+2005,Los Angeles Angels,"3B",Robb Quinlan,54
+2005,Los Angeles Angels,DH,Casey Kotchman,47
+2005,Los Angeles Angels,C,Josh Paul,34
+2005,Los Angeles Angels,IF,Zach Sorensen,12
+2005,Los Angeles Angels,DH,Curtis Pride,11
+2005,Los Angeles Angels,CI,Lou Merloni,5
+2005,Los Angeles Angels,CF,Chris Prieto,2
+2005,Los Angeles Angels,DH,Jeff Mathis,5
+2005,Los Angeles Angels,"2B",Dave Matranga,1
+2005,Los Angeles Angels,P,John Lackey,3
+2005,Los Angeles Angels,P,Jarrod Washburn,2
+2005,Los Angeles Angels,P,Paul Byrd,2
+2005,Los Angeles Angels,P,Bartolo Colon,2
+2005,Los Angeles Angels,P,Kelvim Escobar,1
+2005,Los Angeles Angels,P,Scot Shields,5
+2005,Los Angeles Angels,P,Brendan Donnelly,5
+2005,Los Angeles Angels,P,Joel Peralta,3
+2005,Los Angeles Angels,P,Greg Jones,1
+2005,Los Angeles Angels,P,Kevin Gregg,2
+2005,Los Angeles Angels,P,Francisco Rodriguez,4
+2005,Los Angeles Angels,P,Jake Woods,4
+2005,Los Angeles Angels,P,Esteban Yan,3
+2006,Los Angeles Angels,C,Mike Napoli,99
+2006,Los Angeles Angels,"1B",Kendrys Morales,57
+2006,Los Angeles Angels,"2B",Adam Kennedy,139
+2006,Los Angeles Angels,SS,Orlando Cabrera,153
+2006,Los Angeles Angels,"3B",Maicer Izturis,104
+2006,Los Angeles Angels,LF,Garret Anderson,141
+2006,Los Angeles Angels,CF,Chone Figgins,155
+2006,Los Angeles Angels,RF,Vladimir Guerrero,156
+2006,Los Angeles Angels,DH,Tim Salmon,76
+2006,Los Angeles Angels,OF,Juan Rivera,124
+2006,Los Angeles Angels,IF,Howie Kendrick,72
+2006,Los Angeles Angels,C,Jose Molina,78
+2006,Los Angeles Angels,"1B",Robb Quinlan,86
+2006,Los Angeles Angels,"3B",Dallas McPherson,40
+2006,Los Angeles Angels,CF,Darin Erstad,40
+2006,Los Angeles Angels,"1B",Casey Kotchman,29
+2006,Los Angeles Angels,CF,Tommy Murphy,48
+2006,Los Angeles Angels,C,Jeff Mathis,23
+2006,Los Angeles Angels,CF,Reggie Willits,28
+2006,Los Angeles Angels,"3B",Edgardo Alfonzo,18
+2006,Los Angeles Angels,MI,Erick Aybar,34
+2006,Los Angeles Angels,OF,Curtis Pride,22
+2006,Los Angeles Angels,P,Jeff Weaver,2
+2006,Los Angeles Angels,P,Ervin Santana,2
+2006,Los Angeles Angels,P,Kelvim Escobar,2
+2006,Los Angeles Angels,P,John Lackey,2
+2006,Los Angeles Angels,P,Kevin Gregg,3
+2006,Los Angeles Angels,P,Bartolo Colon,1
+2006,Los Angeles Angels,P,Scot Shields,4
+2006,Los Angeles Angels,P,Francisco Rodriguez,4
+2006,Los Angeles Angels,P,J.C. Romero,6
+2006,Los Angeles Angels,P,Brendan Donnelly,5
+2006,Los Angeles Angels,P,Hector Carrasco,4
+2006,Los Angeles Angels,P,Jason Bulger,2
+2006,Los Angeles Angels,P,Esteban Yan,2
+2007,Los Angeles Angels,C,Mike Napoli,75
+2007,Los Angeles Angels,"1B",Casey Kotchman,137
+2007,Los Angeles Angels,"2B",Howie Kendrick,88
+2007,Los Angeles Angels,SS,Orlando Cabrera,155
+2007,Los Angeles Angels,"3B",Chone Figgins,115
+2007,Los Angeles Angels,LF,Garret Anderson,108
+2007,Los Angeles Angels,CF,Gary Matthews,140
+2007,Los Angeles Angels,RF,Vladimir Guerrero,150
+2007,Los Angeles Angels,DH,Shea Hillenbrand,53
+2007,Los Angeles Angels,OF,Reggie Willits,136
+2007,Los Angeles Angels,IF,Maicer Izturis,102
+2007,Los Angeles Angels,"2B",Erick Aybar,79
+2007,Los Angeles Angels,C,Jeff Mathis,59
+2007,Los Angeles Angels,"1B",Robb Quinlan,79
+2007,Los Angeles Angels,C,Jose Molina,40
+2007,Los Angeles Angels,DH,Kendrys Morales,43
+2007,Los Angeles Angels,OF,Nathan Haynes,40
+2007,Los Angeles Angels,OF,Juan Rivera,14
+2007,Los Angeles Angels,OF,Tommy Murphy,20
+2007,Los Angeles Angels,IF,Brandon Wood,13
+2007,Los Angeles Angels,C,Ryan Budde,12
+2007,Los Angeles Angels,OF,Terry Evans,8
+2007,Los Angeles Angels,"3B",Matthew Brown,4
+2007,Los Angeles Angels,LF,Nick Gorneault,2
+2007,Los Angeles Angels,P,Kelvim Escobar,2
+2007,Los Angeles Angels,P,Ervin Santana,2
+2007,Los Angeles Angels,P,Jered Weaver,2
+2007,Los Angeles Angels,P,Bartolo Colon,2
+2007,Los Angeles Angels,P,John Lackey,1
+2007,Los Angeles Angels,P,Dustin Moseley,5
+2007,Los Angeles Angels,P,Hector Carrasco,5
+2007,Los Angeles Angels,P,Darren Oliver,5
+2007,Los Angeles Angels,P,Francisco Rodriguez,4
+2007,Los Angeles Angels,P,Scot Shields,5
+2007,Los Angeles Angels,P,Chris Bootcheck,2
+2008,Los Angeles Angels,C,Jeff Mathis,94
+2008,Los Angeles Angels,"1B",Casey Kotchman,100
+2008,Los Angeles Angels,"2B",Howie Kendrick,92
+2008,Los Angeles Angels,SS,Erick Aybar,98
+2008,Los Angeles Angels,"3B",Chone Figgins,116
+2008,Los Angeles Angels,LF,Garret Anderson,145
+2008,Los Angeles Angels,CF,Torii Hunter,146
+2008,Los Angeles Angels,RF,Vladimir Guerrero,143
+2008,Los Angeles Angels,DH,Juan Rivera,89
+2008,Los Angeles Angels,OF,Gary Matthews,127
+2008,Los Angeles Angels,MI,Maicer Izturis,79
+2008,Los Angeles Angels,C,Mike Napoli,78
+2008,Los Angeles Angels,"1B",Mark Teixeira,54
+2008,Los Angeles Angels,"2B",Sean Rodriguez,59
+2008,Los Angeles Angels,"3B",Robb Quinlan,68
+2008,Los Angeles Angels,IF,Brandon Wood,55
+2008,Los Angeles Angels,OF,Reggie Willits,82
+2008,Los Angeles Angels,UT,Kendrys Morales,27
+2008,Los Angeles Angels,"3B",Matthew Brown,11
+2008,Los Angeles Angels,C,Bobby Wilson,7
+2008,Los Angeles Angels,DH,Freddy Sandoval,6
+2008,Los Angeles Angels,C,Ryan Budde,8
+2008,Los Angeles Angels,P,John Lackey,2
+2008,Los Angeles Angels,P,Ervin Santana,2
+2008,Los Angeles Angels,P,Jered Weaver,2
+2008,Los Angeles Angels,P,Jon Garland,1
+2008,Los Angeles Angels,P,Joe Saunders,2
+2008,Los Angeles Angels,P,Jose Arredondo,4
+2008,Los Angeles Angels,P,Justin Speier,3
+2008,Los Angeles Angels,P,Scot Shields,3
+2008,Los Angeles Angels,P,Francisco Rodriguez,4
+2008,Los Angeles Angels,P,Darren Oliver,1
+2008,Los Angeles Angels,P,Darren O'Day,1
+2009,Los Angeles Angels,C,Mike Napoli,114
+2009,Los Angeles Angels,"1B",Kendrys Morales,152
+2009,Los Angeles Angels,"2B",Howie Kendrick,105
+2009,Los Angeles Angels,SS,Erick Aybar,137
+2009,Los Angeles Angels,"3B",Chone Figgins,158
+2009,Los Angeles Angels,LF,Juan Rivera,138
+2009,Los Angeles Angels,CF,Torii Hunter,119
+2009,Los Angeles Angels,RF,Bobby Abreu,152
+2009,Los Angeles Angels,DH,Vladimir Guerrero,100
+2009,Los Angeles Angels,MI,Maicer Izturis,114
+2009,Los Angeles Angels,OF,Gary Matthews,103
+2009,Los Angeles Angels,C,Jeff Mathis,84
+2009,Los Angeles Angels,UT,Robb Quinlan,54
+2009,Los Angeles Angels,LF,Reggie Willits,49
+2009,Los Angeles Angels,IF,Brandon Wood,18
+2009,Los Angeles Angels,UT,Sean Rodriguez,12
+2009,Los Angeles Angels,IF,Freddy Sandoval,5
+2009,Los Angeles Angels,OF,Chris Pettit,10
+2009,Los Angeles Angels,OF,Terry Evans,11
+2009,Los Angeles Angels,UT,Bobby Wilson,12
+2009,Los Angeles Angels,DH,Ryan Budde,3
+2009,Los Angeles Angels,P,John Lackey,3
+2009,Los Angeles Angels,P,Matt Palmer,3
+2009,Los Angeles Angels,P,Jered Weaver,2
+2009,Los Angeles Angels,P,Sean O'Sullivan,1
+2009,Los Angeles Angels,P,Jason Bulger,5
+2009,Los Angeles Angels,P,Jose Arredondo,2
+2009,Los Angeles Angels,P,Justin Speier,6
+2009,Los Angeles Angels,P,Scot Shields,1
+2009,Los Angeles Angels,P,Darren Oliver,5
+2009,Los Angeles Angels,P,Brian Fuentes,7
+2009,Los Angeles Angels,P,Kevin Jepsen,3
+2010,Los Angeles Angels,C,Jeff Mathis,68
+2010,Los Angeles Angels,"1B",Mike Napoli,140
+2010,Los Angeles Angels,"2B",Howie Kendrick,158
+2010,Los Angeles Angels,SS,Erick Aybar,138
+2010,Los Angeles Angels,"3B",Alberto Callaspo,58
+2010,Los Angeles Angels,LF,Juan Rivera,124
+2010,Los Angeles Angels,CF,Torii Hunter,152
+2010,Los Angeles Angels,RF,Bobby Abreu,154
+2010,Los Angeles Angels,DH,Hideki Matsui,145
+2010,Los Angeles Angels,IF,Brandon Wood,81
+2010,Los Angeles Angels,IF,Maicer Izturis,61
+2010,Los Angeles Angels,"1B",Kendrys Morales,51
+2010,Los Angeles Angels,CF,Peter Bourjos,51
+2010,Los Angeles Angels,OF,Reggie Willits,97
+2010,Los Angeles Angels,"3B",Kevin Frandsen,54
+2010,Los Angeles Angels,C,Bobby Wilson,40
+2010,Los Angeles Angels,UT,Mike Ryan,22
+2010,Los Angeles Angels,UT,Robb Quinlan,23
+2010,Los Angeles Angels,C,Hank Conger,13
+2010,Los Angeles Angels,"1B",Paul McAnulty,9
+2010,Los Angeles Angels,UT,Mark Trumbo,8
+2010,Los Angeles Angels,OF,Cory Aldridge,5
+2010,Los Angeles Angels,SS,Andrew Romine,5
+2010,Los Angeles Angels,C,Ryan Budde,6
+2010,Los Angeles Angels,CF,Terry Evans,1
+2010,Los Angeles Angels,P,Jered Weaver,3
+2010,Los Angeles Angels,P,Scott Kazmir,3
+2010,Los Angeles Angels,P,Joel Pineiro,2
+2010,Los Angeles Angels,P,Sean O'Sullivan,1
+2010,Los Angeles Angels,P,Trevor Bell,3
+2010,Los Angeles Angels,P,Joe Saunders,1
+2010,Los Angeles Angels,P,Scot Shields,3
+2010,Los Angeles Angels,P,Jason Bulger,2
+2010,Los Angeles Angels,P,Fernando Rodney,5
+2010,Los Angeles Angels,P,Francisco Rodriguez,3
+2010,Los Angeles Angels,P,Kevin Jepsen,4
+2010,Los Angeles Angels,P,Brian Fuentes,3
+2010,Los Angeles Angels,P,Bobby Cassevah,1
+2011,Los Angeles Angels,C,Jeff Mathis,93
+2011,Los Angeles Angels,"1B",Mark Trumbo,149
+2011,Los Angeles Angels,"2B",Howie Kendrick,140
+2011,Los Angeles Angels,SS,Erick Aybar,143
+2011,Los Angeles Angels,"3B",Alberto Callaspo,141
+2011,Los Angeles Angels,LF,Vernon Wells,131
+2011,Los Angeles Angels,CF,Peter Bourjos,147
+2011,Los Angeles Angels,RF,Torii Hunter,156
+2011,Los Angeles Angels,DH,Bobby Abreu,142
+2011,Los Angeles Angels,IF,Maicer Izturis,122
+2011,Los Angeles Angels,C,Hank Conger,59
+2011,Los Angeles Angels,OF,Mike Trout,40
+2011,Los Angeles Angels,C,Bobby Wilson,57
+2011,Los Angeles Angels,DH,Russell Branyan,37
+2011,Los Angeles Angels,UT,Alexi Amarista,23
+2011,Los Angeles Angels,LF,Reggie Willits,22
+2011,Los Angeles Angels,IF,Andrew Romine,10
+2011,Los Angeles Angels,IF,Brandon Wood,6
+2011,Los Angeles Angels,"1B",Efren Navarro,8
+2011,Los Angeles Angels,OF,Jeremy Moore,8
+2011,Los Angeles Angels,IF,Gil Velazquez,4
+2011,Los Angeles Angels,"",Chris Pettit,1
+2011,Los Angeles Angels,P,Joel Pineiro,2
+2011,Los Angeles Angels,P,Tyler Chatwood,2
+2011,Los Angeles Angels,P,Dan Haren,2
+2011,Los Angeles Angels,P,Jered Weaver,2
+2011,Los Angeles Angels,P,Ervin Santana,1
+2011,Los Angeles Angels,P,Hisanori Takahashi,4
+2011,Los Angeles Angels,P,Rich Thompson,1
+2011,Los Angeles Angels,P,Michael Kohn,3
+2011,Los Angeles Angels,P,Jordan Walden,4
+2011,Los Angeles Angels,P,Scott Downs,6
+2011,Los Angeles Angels,P,Bobby Cassevah,3
+2011,Los Angeles Angels,P,Trevor Bell,3
+2012,Los Angeles Angels,C,Chris Iannetta,79
+2012,Los Angeles Angels,"1B",Albert Pujols,154
+2012,Los Angeles Angels,"2B",Howie Kendrick,147
+2012,Los Angeles Angels,SS,Erick Aybar,141
+2012,Los Angeles Angels,"3B",Alberto Callaspo,138
+2012,Los Angeles Angels,LF,Vernon Wells,77
+2012,Los Angeles Angels,CF,Mike Trout,139
+2012,Los Angeles Angels,RF,Torii Hunter,140
+2012,Los Angeles Angels,DH,Kendrys Morales,134
+2012,Los Angeles Angels,UT,Mark Trumbo,144
+2012,Los Angeles Angels,IF,Maicer Izturis,100
+2012,Los Angeles Angels,C,Bobby Wilson,75
+2012,Los Angeles Angels,CF,Peter Bourjos,101
+2012,Los Angeles Angels,C,John Hester,39
+2012,Los Angeles Angels,OF,Bobby Abreu,8
+2012,Los Angeles Angels,OF,Kole Calhoun,21
+2012,Los Angeles Angels,C,Hank Conger,7
+2012,Los Angeles Angels,SS,Andrew Romine,12
+2012,Los Angeles Angels,SS,Jean Segura,1
+2012,Los Angeles Angels,LF,Ryan Langerhans,2
+2012,Los Angeles Angels,DH,Alexi Amarista,1
+2012,Los Angeles Angels,P,Dan Haren,3
+2012,Los Angeles Angels,P,C.J. Wilson,2
+2012,Los Angeles Angels,P,Ervin Santana,2
+2012,Los Angeles Angels,P,Jerome Williams,1
+2012,Los Angeles Angels,P,Jered Weaver,1
+2012,Los Angeles Angels,P,Garrett Richards,1
+2012,Los Angeles Angels,P,Hisanori Takahashi,4
+2012,Los Angeles Angels,P,LaTroy Hawkins,4
+2012,Los Angeles Angels,P,Jordan Walden,5
+2012,Los Angeles Angels,P,Jason Isringhausen,4
+2012,Los Angeles Angels,P,Ernesto Frieri,6
+2012,Los Angeles Angels,P,David Carpenter,1
+2012,Los Angeles Angels,P,David Pauley,1
+2012,Los Angeles Angels,P,Scott Downs,3
+2013,Los Angeles Angels,C,Chris Iannetta,115
+2013,Los Angeles Angels,"1B",Mark Trumbo,159
+2013,Los Angeles Angels,"2B",Howie Kendrick,122
+2013,Los Angeles Angels,SS,Erick Aybar,138
+2013,Los Angeles Angels,"3B",Alberto Callaspo,86
+2013,Los Angeles Angels,LF,JB Shuck,129
+2013,Los Angeles Angels,CF,Mike Trout,157
+2013,Los Angeles Angels,RF,Josh Hamilton,151
+2013,Los Angeles Angels,DH,Albert Pujols,99
+2013,Los Angeles Angels,C,Hank Conger,92
+2013,Los Angeles Angels,RF,Kole Calhoun,58
+2013,Los Angeles Angels,CF,Peter Bourjos,55
+2013,Los Angeles Angels,"2B",Grant Green,40
+2013,Los Angeles Angels,"3B",Andrew Romine,47
+2013,Los Angeles Angels,"3B",Chris Nelson,33
+2013,Los Angeles Angels,SS,Brendan Harris,44
+2013,Los Angeles Angels,"3B",Luis Jimenez,34
+2013,Los Angeles Angels,OF,Collin Cowgill,50
+2013,Los Angeles Angels,UT,Brad Hawpe,17
+2013,Los Angeles Angels,IF,Thomas Field,15
+2013,Los Angeles Angels,"1B",Efren Navarro,4
+2013,Los Angeles Angels,OF,Scott Cousins,7
+2013,Los Angeles Angels,DH,John Hester,1
+2013,Los Angeles Angels,P,C.J. Wilson,4
+2013,Los Angeles Angels,P,Joe Blanton,3
+2013,Los Angeles Angels,P,Jered Weaver,2
+2013,Los Angeles Angels,P,Jerome Williams,1
+2013,Los Angeles Angels,P,Buddy Boshers,1
+2013,Los Angeles Angels,P,Kevin Jepsen,2
+2013,Los Angeles Angels,P,Billy Buckner,1
+2013,Los Angeles Angels,P,Sean Burnett,3
+2013,Los Angeles Angels,P,Robert Coello,2
+2013,Los Angeles Angels,P,Michael Roth,1
+2013,Los Angeles Angels,P,Garrett Richards,4
+2013,Los Angeles Angels,P,Cory Rasmus,2
+2013,Los Angeles Angels,P,Dane De La Rosa,5
+2013,Los Angeles Angels,P,Scott Downs,2
+2013,Los Angeles Angels,P,Ernesto Frieri,5
+2013,Los Angeles Angels,P,Mark Lowe,2
+2013,Los Angeles Angels,P,Michael Kohn,4
+2014,Los Angeles Angels,C,Chris Iannetta,108
+2014,Los Angeles Angels,"1B",Albert Pujols,159
+2014,Los Angeles Angels,"2B",Howie Kendrick,157
+2014,Los Angeles Angels,SS,Erick Aybar,156
+2014,Los Angeles Angels,"3B",David Freese,134
+2014,Los Angeles Angels,LF,Josh Hamilton,89
+2014,Los Angeles Angels,CF,Mike Trout,157
+2014,Los Angeles Angels,RF,Kole Calhoun,127
+2014,Los Angeles Angels,DH,C.J. Cron,79
+2014,Los Angeles Angels,OF,Collin Cowgill,106
+2014,Los Angeles Angels,C,Hank Conger,80
+2014,Los Angeles Angels,DH,Raul Ibanez,57
+2014,Los Angeles Angels,UT,Efren Navarro,64
+2014,Los Angeles Angels,UT,Grant Green,43
+2014,Los Angeles Angels,"3B",John McDonald,95
+2014,Los Angeles Angels,LF,JB Shuck,22
+2014,Los Angeles Angels,DH,Brennan Boesch,27
+2014,Los Angeles Angels,"3B",Ian Stewart,24
+2014,Los Angeles Angels,IF,Gordon Beckham,26
+2014,Los Angeles Angels,"3B",Luis Jimenez,18
+2014,Los Angeles Angels,UT,Shawn O'Malley,11
+2014,Los Angeles Angels,OF,Tony Campana,18
+2014,Los Angeles Angels,C,John Buck,5
+2014,Los Angeles Angels,P,Garrett Richards,4
+2014,Los Angeles Angels,P,Hector Santiago,2
+2014,Los Angeles Angels,P,C.J. Wilson,2
+2014,Los Angeles Angels,P,Tyler Skaggs,1
+2014,Los Angeles Angels,P,Jered Weaver,1
+2014,Los Angeles Angels,P,Matt Shoemaker,1
+2014,Los Angeles Angels,P,Drew Rucinski,1
+2014,Los Angeles Angels,P,Cam Bedrosian,2
+2014,Los Angeles Angels,P,Joe Smith,6
+2014,Los Angeles Angels,P,Fernando Salas,5
+2014,Los Angeles Angels,P,Cory Rasmus,3
+2014,Los Angeles Angels,P,Dane De La Rosa,1
+2014,Los Angeles Angels,P,Ernesto Frieri,5
+2014,Los Angeles Angels,P,Mike Morin,3
+2014,Los Angeles Angels,P,Jason Grilli,1
+2014,Los Angeles Angels,P,Wade LeBlanc,1
+2014,Los Angeles Angels,P,Michael Kohn,3
+2014,Los Angeles Angels,P,Kevin Jepsen,6
+2015,Los Angeles Angels,C,Chris Iannetta,92
+2015,Los Angeles Angels,"1B",Albert Pujols,157
+2015,Los Angeles Angels,"2B",Johnny Giavotella,129
+2015,Los Angeles Angels,SS,Erick Aybar,156
+2015,Los Angeles Angels,"3B",David Freese,121
+2015,Los Angeles Angels,LF,Matt Joyce,93
+2015,Los Angeles Angels,CF,Mike Trout,159
+2015,Los Angeles Angels,RF,Kole Calhoun,159
+2015,Los Angeles Angels,DH,C.J. Cron,113
+2015,Los Angeles Angels,C,Carlos Perez,86
+2015,Los Angeles Angels,IF,Taylor Featherston,101
+2015,Los Angeles Angels,LF,David Murphy,48
+2015,Los Angeles Angels,LF,Shane Victorino,38
+2015,Los Angeles Angels,UT,Efren Navarro,54
+2015,Los Angeles Angels,LF,Daniel Robertson,37
+2015,Los Angeles Angels,LF,Collin Cowgill,55
+2015,Los Angeles Angels,"3B",Conor Gillaspie,17
+2015,Los Angeles Angels,OF,David DeJesus,30
+2015,Los Angeles Angels,"3B",Kaleb Cowart,34
+2015,Los Angeles Angels,IF,Grant Green,21
+2015,Los Angeles Angels,UT,Kyle Kubitza,19
+2015,Los Angeles Angels,DH,Marc Krauss,11
+2015,Los Angeles Angels,OF,Kirk Nieuwenhuis,10
+2015,Los Angeles Angels,UT,Drew Butera,10
+2015,Los Angeles Angels,IF,Ryan Jackson,22
+2015,Los Angeles Angels,OF,Alfredo Marte,5
+2015,Los Angeles Angels,C,Jett Bandy,2
+2015,Los Angeles Angels,P,Andrew Heaney,2
+2015,Los Angeles Angels,P,C.J. Wilson,2
+2015,Los Angeles Angels,P,Hector Santiago,3
+2015,Los Angeles Angels,P,Matt Shoemaker,1
+2015,Los Angeles Angels,P,Jered Weaver,1
+2015,Los Angeles Angels,P,Cory Rasmus,2
+2015,Los Angeles Angels,P,Vinnie Pestano,1
+2015,Los Angeles Angels,P,Trevor Gott,6
+2015,Los Angeles Angels,P,Cesar Ramos,6
+2015,Los Angeles Angels,P,Jose Alvarez,3
+2015,Los Angeles Angels,P,Drew Rucinski,1
+2015,Los Angeles Angels,P,Fernando Salas,5
+2015,Los Angeles Angels,P,Joe Smith,4
+2015,Los Angeles Angels,P,Huston Street,4
+2015,Los Angeles Angels,P,Cam Bedrosian,1
+2015,Los Angeles Angels,P,Mike Morin,2
 2016,Los Angeles Angels,C,Carlos Perez,87
 2016,Los Angeles Angels,"1B",C.J. Cron,116
 2016,Los Angeles Angels,"2B",Johnny Giavotella,99

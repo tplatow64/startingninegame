@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baseball Position Guessing Game</title>
+    <title>The Starting Nine</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <style>
@@ -19,10 +19,10 @@
 <body>
     <div class="container-fluid">
         <header class="text-center py-4">
-            <h1 class="display-4">Baseball Position Guessing Game</h1>
+            <h1 class="display-4">The Starting Nine</h1>
             <div class="game-info">
                 <h2 class="h3">{{ year }} {{ team }}</h2>
-                <p class="lead">Guess the starting lineup players for each position!</p>
+                <p class="lead">Guess the starting lineup for the {{ year }} {{ team }}!</p>
             </div>
         </header>
 
