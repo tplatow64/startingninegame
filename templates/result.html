@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results - Starting Nine Game</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; }
+        table { border-collapse: collapse; width: 100%; margin-bottom: 2em; }
+        th, td { border: 1px solid #ccc; padding: 0.5em; text-align: left; }
+        th { background: #f0f0f0; }
+        .correct { background: #c8e6c9; }
+        .incorrect { background: #ffcdd2; }
+        .fuzzy { background: #fff9c4; }
+        .no-guess, .invalid { background: #e0e0e0; }
+    </style>
+</head>
+<body>
+    <h1>Results</h1>
+    <h2>{{ year }} - {{ team }}</h2>
+    <table>
+        <tr>
+            <th>Position</th>
+            <th>Your Guess</th>
+            <th>Correct Answer</th>
+            <th>Feedback</th>
+        </tr>
+        {% for row in summary %}
+        <tr class="{{ row.feedback|lower|replace(' ', '-') }}">
+            <td>{{ row.position }}</td>
+            <td>{{ row.guess }}</td>
+            <td>{{ row.correct }}</td>
+            <td>{{ row.feedback }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <p><strong>Correct Guesses:</strong> {{ correct_count }} / {{ summary|length }} ({{ percent }}%)</p>
+    <form method="get" action="/reset">
+        <button type="submit">Play Again</button>
+    </form>
+</body>
+</html>

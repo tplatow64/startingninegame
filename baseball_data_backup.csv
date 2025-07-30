@@ -1,0 +1,206 @@
+year,team,position,player_name,games_played
+2020,Los Angeles Dodgers,C,Austin Barnes,30
+2020,Los Angeles Dodgers,1B,Max Muncy,58
+2020,Los Angeles Dodgers,2B,Gavin Lux,23
+2020,Los Angeles Dodgers,3B,Justin Turner,42
+2020,Los Angeles Dodgers,SS,Corey Seager,52
+2020,Los Angeles Dodgers,LF,AJ Pollock,55
+2020,Los Angeles Dodgers,CF,Cody Bellinger,56
+2020,Los Angeles Dodgers,RF,Mookie Betts,55
+2020,Los Angeles Dodgers,DH,Edwin Rios,15
+2021,Atlanta Braves,C,Travis d'Arnaud,82
+2021,Atlanta Braves,1B,Freddie Freeman,159
+2021,Atlanta Braves,2B,Ozzie Albies,156
+2021,Atlanta Braves,3B,Austin Riley,160
+2021,Atlanta Braves,SS,Dansby Swanson,160
+2021,Atlanta Braves,LF,Eddie Rosario,109
+2021,Atlanta Braves,CF,Ronald Acuna Jr,82
+2021,Atlanta Braves,RF,Jorge Soler,137
+2022,Houston Astros,C,Martin Maldonado,130
+2022,Houston Astros,1B,Yuli Gurriel,144
+2022,Houston Astros,2B,Jose Altuve,137
+2022,Houston Astros,3B,Alex Bregman,155
+2022,Houston Astros,SS,Jeremy Pena,150
+2022,Houston Astros,LF,Kyle Tucker,140
+2022,Houston Astros,CF,Chas McCormick,144
+2022,Houston Astros,RF,George Springer,78
+2022,Houston Astros,DH,Yordan Alvarez,135
+2023,Texas Rangers,C,Jonah Heim,130
+2023,Texas Rangers,1B,Nathaniel Lowe,157
+2023,Texas Rangers,2B,Marcus Semien,162
+2023,Texas Rangers,3B,Josh Jung,139
+2023,Texas Rangers,SS,Corey Seager,119
+2023,Texas Rangers,LF,Robbie Grossman,148
+2023,Texas Rangers,CF,Leody Taveras,144
+2023,Texas Rangers,RF,Adolis Garcia,154
+2023,Texas Rangers,DH,Mitch Garver,87
+2019,Washington Nationals,C,Kurt Suzuki,85
+2019,Washington Nationals,1B,Ryan Zimmerman,52
+2019,Washington Nationals,2B,Brian Dozier,135
+2019,Washington Nationals,3B,Anthony Rendon,146
+2019,Washington Nationals,SS,Trea Turner,122
+2019,Washington Nationals,LF,Juan Soto,150
+2019,Washington Nationals,CF,Victor Robles,155
+2019,Washington Nationals,RF,Adam Eaton,151
+2018,Boston Red Sox,C,Christian Vazquez,99
+2018,Boston Red Sox,1B,Mitch Moreland,149
+2018,Boston Red Sox,2B,Dustin Pedroia,105
+2018,Boston Red Sox,3B,Rafael Devers,121
+2018,Boston Red Sox,SS,Xander Bogaerts,136
+2018,Boston Red Sox,LF,Andrew Benintendi,148
+2018,Boston Red Sox,CF,Jackie Bradley Jr,144
+2018,Boston Red Sox,RF,Mookie Betts,136
+2018,Boston Red Sox,DH,JD Martinez,150
+2017,Houston Astros,C,Brian McCann,97
+2017,Houston Astros,1B,Yuli Gurriel,136
+2017,Houston Astros,2B,Jose Altuve,153
+2017,Houston Astros,3B,Alex Bregman,155
+2017,Houston Astros,SS,Carlos Correa,109
+2017,Houston Astros,LF,Marwin Gonzalez,134
+2017,Houston Astros,CF,George Springer,140
+2017,Houston Astros,RF,Josh Reddick,118
+2017,Houston Astros,DH,Evan Gattis,113
+2016,Chicago Cubs,C,David Ross,96
+2016,Chicago Cubs,1B,Anthony Rizzo,155
+2016,Chicago Cubs,2B,Ben Zobrist,147
+2016,Chicago Cubs,3B,Kris Bryant,151
+2016,Chicago Cubs,SS,Addison Russell,151
+2016,Chicago Cubs,LF,Kyle Schwarber,69
+2016,Chicago Cubs,CF,Dexter Fowler,125
+2016,Chicago Cubs,RF,Jason Heyward,142
+2015,Kansas City Royals,C,Salvador Perez,142
+2015,Kansas City Royals,1B,Eric Hosmer,158
+2015,Kansas City Royals,2B,Ben Zobrist,59
+2015,Kansas City Royals,3B,Mike Moustakas,158
+2015,Kansas City Royals,SS,Alcides Escobar,158
+2015,Kansas City Royals,LF,Alex Gordon,104
+2015,Kansas City Royals,CF,Lorenzo Cain,140
+2015,Kansas City Royals,RF,Alex Rios,108
+2015,Kansas City Royals,DH,Kendrys Morales,158
+2014,San Francisco Giants,C,Buster Posey,147
+2014,San Francisco Giants,1B,Brandon Belt,61
+2014,San Francisco Giants,2B,Joe Panik,73
+2014,San Francisco Giants,3B,Pablo Sandoval,157
+2014,San Francisco Giants,SS,Brandon Crawford,153
+2014,San Francisco Giants,LF,Michael Morse,134
+2014,San Francisco Giants,CF,Angel Pagan,129
+2014,San Francisco Giants,RF,Hunter Pence,162
+2013,Boston Red Sox,C,Jarrod Saltalamacchia,121
+2013,Boston Red Sox,1B,Mike Napoli,139
+2013,Boston Red Sox,2B,Dustin Pedroia,160
+2013,Boston Red Sox,3B,Will Middlebrooks,94
+2013,Boston Red Sox,SS,Stephen Drew,124
+2013,Boston Red Sox,LF,Jonny Gomes,116
+2013,Boston Red Sox,CF,Jacoby Ellsbury,134
+2013,Boston Red Sox,RF,Shane Victorino,122
+2013,Boston Red Sox,DH,David Ortiz,137
+2012,San Francisco Giants,C,Buster Posey,148
+2012,San Francisco Giants,1B,Brandon Belt,145
+2012,San Francisco Giants,2B,Marco Scutaro,95
+2012,San Francisco Giants,3B,Pablo Sandoval,108
+2012,San Francisco Giants,SS,Brandon Crawford,69
+2012,San Francisco Giants,LF,Melky Cabrera,113
+2012,San Francisco Giants,CF,Angel Pagan,154
+2012,San Francisco Giants,RF,Hunter Pence,109
+2011,St. Louis Cardinals,C,Yadier Molina,139
+2011,St. Louis Cardinals,1B,Albert Pujols,147
+2011,St. Louis Cardinals,2B,Nick Punto,116
+2011,St. Louis Cardinals,3B,David Freese,97
+2011,St. Louis Cardinals,SS,Rafael Furcal,97
+2011,St. Louis Cardinals,LF,Matt Holliday,124
+2011,St. Louis Cardinals,CF,Jon Jay,159
+2011,St. Louis Cardinals,RF,Lance Berkman,145
+2010,San Francisco Giants,C,Buster Posey,108
+2010,San Francisco Giants,1B,Aubrey Huff,157
+2010,San Francisco Giants,2B,Freddy Sanchez,124
+2010,San Francisco Giants,3B,Pablo Sandoval,152
+2010,San Francisco Giants,SS,Edgar Renteria,72
+2010,San Francisco Giants,LF,Pat Burrell,96
+2010,San Francisco Giants,CF,Aaron Rowand,88
+2010,San Francisco Giants,RF,Jose Guillen,81
+2009,New York Yankees,C,Jorge Posada,111
+2009,New York Yankees,1B,Mark Teixeira,156
+2009,New York Yankees,2B,Robinson Cano,161
+2009,New York Yankees,3B,Alex Rodriguez,124
+2009,New York Yankees,SS,Derek Jeter,153
+2009,New York Yankees,LF,Johnny Damon,142
+2009,New York Yankees,CF,Melky Cabrera,154
+2009,New York Yankees,RF,Nick Swisher,150
+2009,New York Yankees,DH,Hideki Matsui,142
+2008,Philadelphia Phillies,C,Carlos Ruiz,117
+2008,Philadelphia Phillies,1B,Ryan Howard,162
+2008,Philadelphia Phillies,2B,Chase Utley,159
+2008,Philadelphia Phillies,3B,Pedro Feliz,158
+2008,Philadelphia Phillies,SS,Jimmy Rollins,137
+2008,Philadelphia Phillies,LF,Pat Burrell,157
+2008,Philadelphia Phillies,CF,Shane Victorino,136
+2008,Philadelphia Phillies,RF,Jayson Werth,134
+2007,Boston Red Sox,C,Jason Varitek,131
+2007,Boston Red Sox,1B,Kevin Youkilis,145
+2007,Boston Red Sox,2B,Dustin Pedroia,139
+2007,Boston Red Sox,3B,Mike Lowell,154
+2007,Boston Red Sox,SS,Julio Lugo,147
+2007,Boston Red Sox,LF,Manny Ramirez,133
+2007,Boston Red Sox,CF,Coco Crisp,105
+2007,Boston Red Sox,RF,JD Drew,140
+2007,Boston Red Sox,DH,David Ortiz,149
+2006,St. Louis Cardinals,C,Jason LaRue,62
+2006,St. Louis Cardinals,1B,Albert Pujols,143
+2006,St. Louis Cardinals,2B,Skip Schumaker,52
+2006,St. Louis Cardinals,3B,Scott Rolen,142
+2006,St. Louis Cardinals,SS,David Eckstein,123
+2006,St. Louis Cardinals,LF,Preston Wilson,108
+2006,St. Louis Cardinals,CF,Jim Edmonds,110
+2006,St. Louis Cardinals,RF,Juan Encarnacion,117
+2005,Chicago White Sox,C,AJ Pierzynski,128
+2005,Chicago White Sox,1B,Paul Konerko,158
+2005,Chicago White Sox,2B,Tadahito Iguchi,135
+2005,Chicago White Sox,3B,Joe Crede,145
+2005,Chicago White Sox,SS,Juan Uribe,146
+2005,Chicago White Sox,LF,Carl Everett,130
+2005,Chicago White Sox,CF,Aaron Rowand,157
+2005,Chicago White Sox,RF,Jermaine Dye,145
+2005,Chicago White Sox,DH,Frank Thomas,108
+2004,Boston Red Sox,C,Jason Varitek,137
+2004,Boston Red Sox,1B,Kevin Millar,142
+2004,Boston Red Sox,2B,Mark Bellhorn,132
+2004,Boston Red Sox,3B,Bill Mueller,109
+2004,Boston Red Sox,SS,Orlando Cabrera,58
+2004,Boston Red Sox,LF,Manny Ramirez,120
+2004,Boston Red Sox,CF,Johnny Damon,150
+2004,Boston Red Sox,RF,Trot Nixon,48
+2004,Boston Red Sox,DH,David Ortiz,150
+2003,Florida Marlins,C,Ivan Rodriguez,144
+2003,Florida Marlins,1B,Derrek Lee,158
+2003,Florida Marlins,2B,Luis Castillo,95
+2003,Florida Marlins,3B,Mike Lowell,130
+2003,Florida Marlins,SS,Alex Gonzalez,137
+2003,Florida Marlins,LF,Jeff Conine,76
+2003,Florida Marlins,CF,Juan Pierre,162
+2003,Florida Marlins,RF,Jeff Conine,76
+2002,Anaheim Angels,C,Bengie Molina,130
+2002,Anaheim Angels,1B,Scott Spiezio,155
+2002,Anaheim Angels,2B,Adam Kennedy,155
+2002,Anaheim Angels,3B,Troy Glaus,159
+2002,Anaheim Angels,SS,David Eckstein,152
+2002,Anaheim Angels,LF,Garret Anderson,158
+2002,Anaheim Angels,CF,Darin Erstad,159
+2002,Anaheim Angels,RF,Tim Salmon,136
+2002,Anaheim Angels,DH,Brad Fullmer,121
+2001,Arizona Diamondbacks,C,Damian Miller,134
+2001,Arizona Diamondbacks,1B,Mark Grace,155
+2001,Arizona Diamondbacks,2B,Jay Bell,141
+2001,Arizona Diamondbacks,3B,Matt Williams,104
+2001,Arizona Diamondbacks,SS,Tony Womack,159
+2001,Arizona Diamondbacks,LF,Luis Gonzalez,162
+2001,Arizona Diamondbacks,CF,Steve Finley,139
+2001,Arizona Diamondbacks,RF,Reggie Sanders,143
+2000,New York Yankees,C,Jorge Posada,151
+2000,New York Yankees,1B,Tino Martinez,155
+2000,New York Yankees,2B,Jose Vizcaino,110
+2000,New York Yankees,3B,Scott Brosius,148
+2000,New York Yankees,SS,Derek Jeter,148
+2000,New York Yankees,LF,David Justice,142
+2000,New York Yankees,CF,Bernie Williams,141
+2000,New York Yankees,RF,Paul O'Neill,142
+2000,New York Yankees,DH,Jose Canseco,111

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baseball Position Guessing Game</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        /* Remove Firefox :valid checkmark and green border */
+        input[type="text"]:valid,
+        input[type="text"]:invalid {
+            box-shadow: none !important;
+            border-color: #222 !important;
+            background-image: none !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <header class="text-center py-4">
+            <h1 class="display-4">Baseball Position Guessing Game</h1>
+            <div class="game-info">
+                <h2 class="h3">{{ year }} {{ team }}</h2>
+                <p class="lead">Guess the starting lineup players for each position!</p>
+            </div>
+        </header>
+
+        <main>
+            <!-- Baseball Diamond -->
+            <div class="baseball-diamond-container">
+                <div class="baseball-diamond">
+                    <svg viewBox="0 0 400 400" class="diamond-svg">
+                        <!-- Diamond outline -->
+                        <polygon points="200,50 350,200 200,350 50,200" 
+                                fill="#8FBC8F" stroke="#654321" stroke-width="3"/>
+                        
+                        <!-- Pitcher's mound -->
+                        <circle cx="200" cy="200" r="15" fill="#8FBC8F" stroke="#654321" stroke-width="2"/>
+                        
+                        <!-- Bases -->
+                        <rect x="195" y="345" width="10" height="10" fill="white" stroke="#000" stroke-width="1"/>
+                        <rect x="345" y="195" width="10" height="10" fill="white" stroke="#000" stroke-width="1"/>
+                        <rect x="195" y="45" width="10" height="10" fill="white" stroke="#000" stroke-width="1"/>
+                        <rect x="45" y="195" width="10" height="10" fill="white" stroke-width="1"/>
+                        
+                        <!-- Home plate -->
+                        <polygon points="200,355 195,350 195,345 205,345 205,350" 
+                                fill="white" stroke="#000" stroke-width="1"/>
+                    </svg>
+                    
+                    <!-- Position Input Fields -->
+                    <!-- Catcher -->
+                    <div class="position-input catcher-pos">
+                        <label for="C" class="position-label">Catcher</label>
+                        <input type="text" id="C" name="C" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- First Base -->
+                    <div class="position-input first-base-pos">
+                        <label for="1B" class="position-label">First Base</label>
+                        <input type="text" id="1B" name="1B" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- Second Base -->
+                    <div class="position-input second-base-pos">
+                        <label for="2B" class="position-label">Second Base</label>
+                        <input type="text" id="2B" name="2B" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- Third Base -->
+                    <div class="position-input third-base-pos">
+                        <label for="3B" class="position-label">Third Base</label>
+                        <input type="text" id="3B" name="3B" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- Shortstop -->
+                    <div class="position-input shortstop-pos">
+                        <label for="SS" class="position-label">Shortstop</label>
+                        <input type="text" id="SS" name="SS" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- Left Field -->
+                    <div class="position-input left-field-pos">
+                        <label for="LF" class="position-label">Left Field</label>
+                        <input type="text" id="LF" name="LF" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- Center Field -->
+                    <div class="position-input center-field-pos">
+                        <label for="CF" class="position-label">Center Field</label>
+                        <input type="text" id="CF" name="CF" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- Right Field -->
+                    <div class="position-input right-field-pos">
+                        <label for="RF" class="position-label">Right Field</label>
+                        <input type="text" id="RF" name="RF" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    
+                    <!-- Designated Hitter (if applicable) -->
+                    {% if has_dh %}
+                    <div class="position-input dh-pos">
+                        <label for="DH" class="position-label">Designated Hitter</label>
+                        <input type="text" id="DH" name="DH" class="form-control position-field" 
+                               placeholder="Enter player name" maxlength="50" 
+                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            
+            <!-- Submit Button -->
+            <div class="text-center mt-4">
+                <button type="button" id="submitGuesses" class="btn btn-primary btn-lg">
+                    Submit Guesses
+                </button>
+                <button type="button" id="newGame" class="btn btn-secondary btn-lg ms-3" style="display: none;">
+                    New Game
+                </button>
+            </div>
+            
+            <!-- Loading Spinner -->
+            <div id="loadingSpinner" class="text-center mt-3" style="display: none;">
+                <div class="spinner-border" aria-label="Loading game results">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+            
+            <!-- Results Section -->
+            <div id="resultsSection" class="mt-5" style="display: none;">
+                <h3 class="text-center mb-4">Game Results</h3>
+                
+                <!-- Score Summary -->
+                <div class="score-summary text-center mb-4">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Correct Guesses</h5>
+                                    <p class="card-text display-6" id="correctCount">0</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Total Players</h5>
+                                    <p class="card-text display-6" id="totalPlayers">0</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">Percentage</h5>
+                                    <p class="card-text display-6" id="percentage">0%</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Detailed Results Table -->
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Position</th>
+                                <th>Your Guess</th>
+                                <th>Correct Answer</th>
+                                <th>Result</th>
+                            </tr>
+                        </thead>
+                        <tbody id="resultsTableBody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <!-- Error Modal -->
+    <div class="modal fade" id="errorModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Error</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body" id="errorMessage">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/game.js') }}"></script>
+</body>
+</html>
