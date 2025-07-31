@@ -122,11 +122,11 @@ class BaseballGame:
         return 'DH' in roster
     
     def sanitize_input(self, name):
-        """Sanitize user input to only allow alphabetic characters and spaces."""
+        """Sanitize user input to only allow alphabetic characters, spaces, apostrophes, and periods."""
         if not name:
             return ""
-        # Remove any non-alphabetic characters except spaces
-        sanitized = re.sub(r'[^a-zA-Z\s]', '', name.strip())
+        # Remove any non-alphabetic characters except spaces, apostrophes, and periods
+        sanitized = re.sub(r"[^a-zA-Z\s'.]", '', name.strip())
         # Remove extra spaces
         sanitized = re.sub(r'\s+', ' ', sanitized)
         return sanitized

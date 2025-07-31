@@ -14,6 +14,12 @@
             border-color: #222 !important;
             background-image: none !important;
         }
+        .submit-btn-pos {
+            position: absolute;
+            left: -60px;
+            bottom: 10px;
+            z-index: 20;
+        }
     </style>
 </head>
 <body>
@@ -55,7 +61,7 @@
                         <label for="C" class="position-label">Catcher</label>
                         <input type="text" id="C" name="C" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- First Base -->
@@ -63,7 +69,7 @@
                         <label for="1B" class="position-label">First Base</label>
                         <input type="text" id="1B" name="1B" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- Second Base -->
@@ -71,7 +77,7 @@
                         <label for="2B" class="position-label">Second Base</label>
                         <input type="text" id="2B" name="2B" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- Third Base -->
@@ -79,7 +85,7 @@
                         <label for="3B" class="position-label">Third Base</label>
                         <input type="text" id="3B" name="3B" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- Shortstop -->
@@ -87,7 +93,7 @@
                         <label for="SS" class="position-label">Shortstop</label>
                         <input type="text" id="SS" name="SS" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- Left Field -->
@@ -95,7 +101,7 @@
                         <label for="LF" class="position-label">Left Field</label>
                         <input type="text" id="LF" name="LF" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- Center Field -->
@@ -103,7 +109,7 @@
                         <label for="CF" class="position-label">Center Field</label>
                         <input type="text" id="CF" name="CF" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- Right Field -->
@@ -111,7 +117,7 @@
                         <label for="RF" class="position-label">Right Field</label>
                         <input type="text" id="RF" name="RF" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     
                     <!-- Designated Hitter (if applicable) -->
@@ -120,17 +126,20 @@
                         <label for="DH" class="position-label">Designated Hitter</label>
                         <input type="text" id="DH" name="DH" class="form-control position-field" 
                                placeholder="Enter player name" maxlength="50" 
-                               pattern="[A-Za-z ]+|^$" title="Only letters and spaces allowed">
+                               pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     {% endif %}
+                    <!-- Submit Button -->
+                    <div class="submit-btn-pos">
+                        <button type="button" id="submitGuesses" class="btn btn-primary btn-lg">
+                            Submit Guesses
+                        </button>
+                    </div>
                 </div>
             </div>
             
-            <!-- Submit Button -->
+            <!-- New Game Button (remains in the same position as before) -->
             <div class="text-center mt-4">
-                <button type="button" id="submitGuesses" class="btn btn-primary btn-lg">
-                    Submit Guesses
-                </button>
                 <button type="button" id="newGame" class="btn btn-secondary btn-lg ms-3" style="display: none;">
                     New Game
                 </button>

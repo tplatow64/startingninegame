@@ -14,13 +14,25 @@ body {
 
 header {
     background: rgba(255, 255, 255, 0.95);
-    border-radius: 15px;
-    margin: 20px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
-.game-info {
-    color: #2c3e50;
+.display-4 {
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.game-info h2.h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+}
+
+.game-info .lead {
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
 }
 
 /* Baseball Diamond Container */
@@ -104,9 +116,8 @@ header {
 }
 
 .second-base-pos {
-    top: 25%;
-    left: 60%;
-    transform: translate(-50%, -50%);
+    top: 120px !important;
+    left: 280px !important;
 }
 
 .third-base-pos {
@@ -116,25 +127,24 @@ header {
 }
 
 .shortstop-pos {
-    left: 40%;
-    top: 35%;
-    transform: translate(-50%, -50%);
+    top: 120px !important;
+    left: 80px !important;
 }
 
 .left-field-pos {
     left: 10px;
-    top: 15%;
+    top: 5%;
 }
 
 .center-field-pos {
-    top: 10px;
+    top: -15px;
     left: 50%;
     transform: translateX(-50%);
 }
 
 .right-field-pos {
     right: 10px;
-    top: 15%;
+    top: 5%;
 }
 
 .dh-pos {
@@ -220,12 +230,12 @@ header {
 }
 
 .result-correct {
-    color: #28a745;
+    color: #28a745 !important;
     font-weight: bold;
 }
 
 .result-incorrect {
-    color: #dc3545;
+    color: #dc3545 !important;
     font-weight: bold;
 }
 
@@ -236,18 +246,18 @@ header {
 
 /* Buttons */
 .btn-primary {
-    background: linear-gradient(45deg, #4a90e2, #357abd);
+    background: #dc3545;
     border: none;
     padding: 12px 30px;
     font-weight: 600;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(74, 144, 226, 0.3);
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 15px rgba(220, 53, 69, 0.3);
 }
 
-.btn-primary:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(74, 144, 226, 0.4);
-    background: linear-gradient(45deg, #357abd, #2867a3);
+.btn-primary:hover, .btn-primary:focus {
+    background: #a71d2a;
+    box-shadow: 0 6px 20px rgba(220, 53, 69, 0.4);
+    transform: none;
 }
 
 .btn-secondary {

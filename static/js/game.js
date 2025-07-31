@@ -54,7 +54,7 @@ class BaseballGame {
             field.addEventListener('keypress', (e) => {
                 const char = e.key;
                 // Allow letters, spaces, backspace, delete, tab, enter, arrow keys
-                if (char.length === 1 && !/[a-zA-Z ]/.test(char)) {
+                if (char.length === 1 && !/[a-zA-Z\s'. ]/.test(char)) {
                     e.preventDefault();
                 }
             });
@@ -99,7 +99,7 @@ class BaseballGame {
         const sanitized = this.sanitizeInput(value);
         
         // Only update if there's a meaningful difference (not just cursor position)
-        if (value !== sanitized && sanitized !== value.replace(/[^a-zA-Z ]/g, '')) {
+        if (value !== sanitized && sanitized !== value.replace(/[^a-zA-Z\s'. ]/g, '')) {
             const cursorPos = field.selectionStart;
             field.value = sanitized;
             // Try to maintain cursor position, but don't interfere with space typing
@@ -121,7 +121,7 @@ class BaseballGame {
         if (!input) return '';
         
         // Remove non-alphabetic characters except spaces
-        let sanitized = input.replace(/[^a-zA-Z ]/g, '');
+        let sanitized = input.replace(/[^a-zA-Z\s'. ]/g, '');
         
         // Remove extra spaces (keep single spaces between words)
         sanitized = sanitized.replace(/\s+/g, ' ');
