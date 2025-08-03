@@ -266,5 +266,5 @@ def new_game():
     """Start a new game with a different team."""
     return index()
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# uncomment this to test locally
+# app.run(host='0.0.0.0', port=5000, debug=True)
