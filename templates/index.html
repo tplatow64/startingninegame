@@ -51,12 +51,10 @@
                         <rect x="45" y="195" width="10" height="10" fill="white" stroke-width="1"/>
                         
                         <!-- Home plate -->
-                        <polygon points="200,355 195,350 195,345 205,345 205,350" 
-                                fill="white" stroke="#000" stroke-width="1"/>
-                    </svg>
-                    
-                    <!-- Position Input Fields -->
-                    <!-- Catcher -->
+                    <!-- Move submit button directly below catcher input field -->
+                    <div class="d-flex justify-content-center mt-2">
+                        <button type="submit" class="btn btn-primary" id="submitGuessesBtn">Submit Guesses</button>
+                    </div>
                     <div class="position-input catcher-pos">
                         <label for="C" class="position-label">Catcher</label>
                         <input type="text" id="C" name="C" class="form-control position-field" 
@@ -129,12 +127,7 @@
                                pattern="[A-Za-z '.]+|^$" title="Only letters, spaces, apostrophes, and periods allowed">
                     </div>
                     {% endif %}
-                    <!-- Submit Button -->
-                    <div class="submit-btn-pos">
-                        <button type="button" id="submitGuesses" class="btn btn-primary btn-lg">
-                            Submit Guesses
-                        </button>
-                    </div>
+                    <!-- ...existing code... -->
                 </div>
             </div>
             

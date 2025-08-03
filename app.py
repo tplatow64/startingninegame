@@ -138,9 +138,11 @@ class BaseballGame:
         
         guess = guess.lower().strip()
         actual = actual.lower().strip()
-        
+        actualWithoutPunctuation = re.sub(r"[^\w\s]", '', actual)  # Remove punctuation for comparison
+        print(actualWithoutPunctuation)
+
         # Exact match
-        if guess == actual:
+        if guess == actual or guess == actualWithoutPunctuation:
             return True, 1.0
         
         # Calculate similarity using SequenceMatcher
