@@ -210,7 +210,7 @@ class BaseballGame {
         });
 
         // Announce results for screen readers
-        this.announceResults(data);
+        //this.announceResults(data);
     }
 
     updateResultsTable(results) {
@@ -279,7 +279,7 @@ class BaseballGame {
         announcement.setAttribute('aria-atomic', 'true');
         announcement.className = 'sr-only';
         announcement.textContent = 
-            `Game complete! You got ${data.correct_count} out of ${data.total_guesses} correct, ` +
+            `Game complete! You got ${data.correct_count} out of ${data.num_players} correct, ` +
             `which is ${data.percentage}% accuracy.`;
         
         document.body.appendChild(announcement);

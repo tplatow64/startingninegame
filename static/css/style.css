@@ -1,19 +1,30 @@
 /* Baseball Position Guessing Game Styles */
 
 /* Global Styles */
+html, body {
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
 body {
     background: linear-gradient(135deg, #4a90e2 0%, #7db7f0 100%);
-    min-height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100%;
 }
 
 .container-fluid {
     max-width: 1200px;
     margin: 0 auto;
+    margin-top: 20px; /* Less space below header */
+    padding-left: 6px;
+    padding-right: 6px;
 }
 
 header {
-    background: rgba(255, 255, 255, 0.95);
+    background: #415949;;
     border-radius: 8px;
     margin: 6px;
     padding: 6px 0;
@@ -44,8 +55,8 @@ header {
 .baseball-diamond-container {
     display: flex;
     justify-content: center;
-    margin: 30px 0;
-    padding: 20px;
+    margin: 10px 0;
+    padding: 6px;
 }
 
 .baseball-diamond {
@@ -208,8 +219,8 @@ header {
     padding: 30px;
     margin: 30px 20px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-}
-
+    font-family: inherit;
+    font-weight: normal;
 .score-summary .card {
     border: none;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -337,4 +348,5 @@ header {
         box-shadow: none;
         border: 2px solid black;
     }
+}
 }
