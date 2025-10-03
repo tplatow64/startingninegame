@@ -11,6 +11,7 @@ class BaseballGame {
         this.bindEvents();
         this.setupInputValidation();
         this.setupAccessibility();
+        this.setupResponsivePlaceholders();
     }
 
     bindEvents() {
@@ -92,6 +93,44 @@ class BaseballGame {
                 // Arrow keys should move cursor within the text field, not between fields
             });
         });
+    }
+
+    // Swap placeholder text depending on viewport width
+    setupResponsivePlaceholders() {
+        const inputsSelector = '.position-field';
+        const shortPlaceholder = 'Enter name';
+        const longPlaceholder = 'Enter player name';
+
+        const mq = window.matchMedia('(max-width: 576px)');
+
+        const updatePlaceholders = (isSmall) => {
+            const fields = document.querySelectorAll(inputsSelector);
+            fields.forEach(f => {
+                // Only replace placeholders that match expected default or short text
+                // This avoids overriding any custom placeholder set elsewhere.
+                const current = f.getAttribute('placeholder') || '';
+                if (isSmall) {
+                    f.setAttribute('placeholder', shortPlaceholder);
+                } else {
+                    // If current is the short placeholder, restore the long one;
+                    // otherwise leave custom placeholders alone.
+                    if (current === shortPlaceholder || current === '') {
+                        f.setAttribute('placeholder', longPlaceholder);
+                    }
+                }
+            });
+        };
+
+        // Initial set
+        updatePlaceholders(mq.matches);
+
+        // Listen for changes; support both modern and legacy APIs
+        const listener = (e) => updatePlaceholders(e.matches === undefined ? e : e.matches);
+        if (typeof mq.addEventListener === 'function') {
+            mq.addEventListener('change', listener);
+        } else if (typeof mq.addListener === 'function') {
+            mq.addListener(listener);
+        }
     }
 
     validateInput(field) {

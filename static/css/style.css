@@ -98,7 +98,10 @@ header {
 }
 
 .position-field {
-    width: 140px !important;
+    /* Use a responsive width so fields scale down on narrow viewports
+       `min()` keeps a sensible maximum on large screens while allowing
+       the inputs to use viewport-relative sizing on mobile. */
+    width: min(140px, 26vw) !important;
     font-size: 0.8rem !important;
     padding: 6px !important;
     border: 2px solid #ccc !important;
