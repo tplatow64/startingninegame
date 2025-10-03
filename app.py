@@ -25,6 +25,9 @@ class BaseballGame:
         'RF': 'Right Field',
         'DH': 'Designated Hitter'
     }
+
+    MIN_YEAR = 2000
+    MAX_YEAR = 2024 # Update this when adding new data!
     
     def __init__(self, csv_file='baseball_data.csv'):
         self.csv_file = csv_file
@@ -84,9 +87,21 @@ class BaseballGame:
             writer.writeheader()
             writer.writerows(data)
     
+    def get_year_for_team(self, team):
+        if team in set(row['team'] for row in self.data):
+            return random.choice(list(set(row['year'] for row in self.data if row['team'] == team)))
+        else:
+            raise ValueError('Invalid team!')
+
+    def get_team_for_year(self, year):
+        if(year >= self.MIN_YEAR and year <= self.MAX_YEAR):
+            return random.choice(list(set(row['team'] for row in self.data if row['year'] == year)))
+        else:
+            raise ValueError('Invalid year!')
+
     def get_random_team(self):
         """Get a random team from a random year between 2000-2024."""
-        year = random.randint(2000, 2024)
+        year = random.randint(self.MIN_YEAR, self.MAX_YEAR)
         teams_for_year = list(set([row['team'] for row in self.data if row['year'] == year]))
         
         if not teams_for_year:
@@ -96,7 +111,7 @@ class BaseballGame:
         
         team = random.choice(teams_for_year)
         return year, team
-    
+
     def get_team_roster(self, year, team):
         """Get the roster for a specific team and year."""
         roster = {}
@@ -210,8 +225,24 @@ game = BaseballGame()
 def index():
     """Main game page."""
     # Get a new random team for this session
-    year, team = game.get_random_team()
-    roster = game.get_team_roster(year, team)
+    year = request.args.get('year', type=int)
+    team = request.args.get('team', type=str)
+
+    try:
+        if year and team:
+            roster = game.get_team_roster(year, team)
+        elif year:
+            team = game.get_team_for_year(year)
+            roster = game.get_team_roster(year, team)
+        elif team:
+            year = game.get_year_for_team(team)
+            roster = game.get_team_roster(year, team)
+        else:
+            year, team = game.get_random_team()
+            roster = game.get_team_roster(year, team)
+    except:
+        year, team = game.get_random_team()
+        roster = game.get_team_roster(year, team)
     
     # Store game data in session
     session['year'] = year
