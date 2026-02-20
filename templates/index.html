@@ -24,6 +24,54 @@
     </style>
 </head>
 <body>
+    
+    <!-- new game modal -->
+    <div id="filterModal" style="
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,0.4);
+    z-index:9999;
+    align-items:center;
+    justify-content:center;
+    ">
+        <div style="
+            background:white;
+            padding:20px;
+            border-radius:8px;
+            min-width:300px;
+        ">
+            <div class="modal-header">
+                <h3 class="modal-title">Start New Game?</h3>
+            </div>
+
+            <br>
+            
+            <div class="modal-body">
+                <label>
+                Team:
+                <select id="teamSelect"></select>
+                </label>
+
+                <br><br>
+
+                <label>
+                Year:
+                <select id="yearSelect"></select>
+                </label>
+            </div>
+
+            <br>
+
+            <div class="modal-footer">
+                <button class="btn btn-primary" data-bs-dismiss="modal" id="applyFilters" style="background:#3540dc;border:none;">New Game</button>
+                <button class="btn btn-primary" data-bs-dismiss="modal" id="closeFilterModal" style="background:#dc3545;border:none;">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- <script src="../static/js/select.js"></script> -->
+    
     <!-- Welcome Modal -->
     <div class="modal fade" id="welcomeModal" tabindex="-1" aria-labelledby="welcomeModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -189,6 +237,8 @@
                     New Game
                 </button>
             </div>
+
+            <script src="../static/js/select.js"></script>
             
             <!-- Loading Spinner -->
             <div id="loadingSpinner" class="text-center mt-3" style="display: none;">

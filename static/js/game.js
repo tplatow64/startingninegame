@@ -22,10 +22,10 @@ class BaseballGame {
         }
 
         // New game button event
-        const newGameButton = document.getElementById('newGame');
-        if (newGameButton) {
-            newGameButton.addEventListener('click', () => this.startNewGame());
-        }
+        // const newGameButton = document.getElementById('newGame');
+        // if (newGameButton) {
+        //     newGameButton.addEventListener('click', () => this.startNewGame());
+        // }
 
         // Enter key submission
         document.addEventListener('keydown', (e) => {
