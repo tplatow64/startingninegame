@@ -30206,3 +30206,846 @@
 2024,Washington Nationals,DH,Stone Garrett,2
 2024,Washington Nationals,P,Derek Law,1
 2024,Washington Nationals,P,Kyle Finnegan,1
+2025,New York Yankees,C,Austin Wells,126
+2025,New York Yankees,"1B",Paul Goldschmidt,146
+2025,New York Yankees,"2B",Jazz Chisholm Jr.,130
+2025,New York Yankees,SS,Anthony Volpe,153
+2025,New York Yankees,"3B",Ryan McMahon,54
+2025,New York Yankees,LF,Jasson Dominguez,123
+2025,New York Yankees,CF,Trent Grisham,143
+2025,New York Yankees,RF,Aaron Judge,152
+2025,New York Yankees,DH,Ben Rice,138
+2025,New York Yankees,OF,Cody Bellinger,152
+2025,New York Yankees,DH,Giancarlo Stanton,77
+2025,New York Yankees,"3B",Oswald Peraza,71
+2025,New York Yankees,"2B",DJ LeMahieu,45
+2025,New York Yankees,"3B",Oswaldo Cabrera,34
+2025,New York Yankees,C,J.C. Escarra,40
+2025,New York Yankees,UT,Jose Caballero,40
+2025,New York Yankees,IF,Jorbit Vivas,29
+2025,New York Yankees,UT,Pablo Reyes,24
+2025,New York Yankees,UT,Amed Rosario,16
+2025,New York Yankees,OF,Austin Slater,14
+2025,New York Yankees,P,Tyler Matzek,2
+2025,New York Yankees,P,Yerry de los Santos,1
+2025,Toronto Blue Jays,C,Alejandro Kirk,130
+2025,Toronto Blue Jays,"1B",Vladimir Guerrero Jr.,156
+2025,Toronto Blue Jays,"2B",Andres Gimenez,101
+2025,Toronto Blue Jays,SS,Bo Bichette,139
+2025,Toronto Blue Jays,"3B",Addison Barger,135
+2025,Toronto Blue Jays,LF,Davis Schneider,82
+2025,Toronto Blue Jays,CF,Daulton Varsho,71
+2025,Toronto Blue Jays,RF,Nathan Lukes,135
+2025,Toronto Blue Jays,DH,George Springer,140
+2025,Toronto Blue Jays,IF,Ernie Clement,157
+2025,Toronto Blue Jays,OF,Myles Straw,137
+2025,Toronto Blue Jays,DH,Anthony Santander,54
+2025,Toronto Blue Jays,C,Tyler Heineman,61
+2025,Toronto Blue Jays,"3B",Will Wagner,40
+2025,Toronto Blue Jays,LF,Alan Roden,43
+2025,Toronto Blue Jays,LF,Jonatan Clase,34
+2025,Toronto Blue Jays,LF,Joey Loperfido,41
+2025,Toronto Blue Jays,"1B",Ty France,37
+2025,Toronto Blue Jays,MI,Leo Jimenez,18
+2025,Toronto Blue Jays,IF,Isiah Kiner-Falefa,19
+2025,Toronto Blue Jays,"2B",Michael Stefanic,9
+2025,Toronto Blue Jays,C,Ali Sanchez,8
+2025,Toronto Blue Jays,OF,Will Robertson,3
+2025,Toronto Blue Jays,IF,Buddy Kennedy,2
+2025,Toronto Blue Jays,P,Nick Sandlin,1
+2025,Toronto Blue Jays,P,Jeff Hoffman,2
+2025,Toronto Blue Jays,P,Yimi Garcia,1
+2025,Boston Red Sox,C,Carlos Narvaez,118
+2025,Boston Red Sox,"1B",Abraham Toro,77
+2025,Boston Red Sox,"2B",Kristian Campbell,67
+2025,Boston Red Sox,SS,Trevor Story,157
+2025,Boston Red Sox,"3B",Alex Bregman,114
+2025,Boston Red Sox,LF,Jarren Duran,157
+2025,Boston Red Sox,CF,Ceddanne Rafaela,156
+2025,Boston Red Sox,RF,Wilyer Abreu,115
+2025,Boston Red Sox,DH,Rafael Devers,73
+2025,Boston Red Sox,IF,Romy Gonzalez,96
+2025,Boston Red Sox,OF,Roman Anthony,71
+2025,Boston Red Sox,RF,Rob Refsnyder,70
+2025,Boston Red Sox,DH,Masataka Yoshida,55
+2025,Boston Red Sox,"2B",David Hamilton,91
+2025,Boston Red Sox,C,Connor Wong,63
+2025,Boston Red Sox,"3B",Marcelo Mayer,44
+2025,Boston Red Sox,"1B",Nathaniel Lowe,34
+2025,Boston Red Sox,"1B",Triston Casas,29
+2025,Boston Red Sox,UT,Nick Sogard,30
+2025,Boston Red Sox,UT,Nate Eaton,41
+2025,Boston Red Sox,C,Blake Sabol,8
+2025,Boston Red Sox,OF,Jhostynxon Garcia,5
+2025,Boston Red Sox,C,Ali Sanchez,4
+2025,Boston Red Sox,P,Aroldis Chapman,2
+2025,Boston Red Sox,P,Garrett Whitlock,1
+2025,Boston Red Sox,P,Brennan Bernardino,1
+2025,Tampa Bay Rays,C,Danny Jansen,73
+2025,Tampa Bay Rays,"1B",Jonathan Aranda,106
+2025,Tampa Bay Rays,"2B",Brandon Lowe,134
+2025,Tampa Bay Rays,SS,Taylor Walls,101
+2025,Tampa Bay Rays,"3B",Junior Caminero,154
+2025,Tampa Bay Rays,LF,Christopher Morel,105
+2025,Tampa Bay Rays,CF,Chandler Simpson,109
+2025,Tampa Bay Rays,RF,Josh Lowe,108
+2025,Tampa Bay Rays,DH,Yandy Diaz,150
+2025,Tampa Bay Rays,OF,Jake Mangum,118
+2025,Tampa Bay Rays,UT,Jose Caballero,86
+2025,Tampa Bay Rays,CF,Kameron Misner,71
+2025,Tampa Bay Rays,IF,Curtis Mead,49
+2025,Tampa Bay Rays,SS,Carson Williams,32
+2025,Tampa Bay Rays,C,Hunter Feduccia,36
+2025,Tampa Bay Rays,C,Nick Fortes,38
+2025,Tampa Bay Rays,SS,Ha-Seong Kim,24
+2025,Tampa Bay Rays,IF,Tristan Gray,30
+2025,Tampa Bay Rays,"1B",Bob Seymour,26
+2025,Tampa Bay Rays,C,Matt Thaiss,25
+2025,Tampa Bay Rays,CF,Everson Pereira,23
+2025,Tampa Bay Rays,C,Ben Rortvedt,26
+2025,Tampa Bay Rays,CF,Jonny DeLuca,20
+2025,Tampa Bay Rays,UT,Richie Palacios,17
+2025,Tampa Bay Rays,OF,Travis Jankowski,14
+2025,Tampa Bay Rays,CF,Tristan Peters,4
+2025,Tampa Bay Rays,UT,Coco Montes,5
+2025,Tampa Bay Rays,P,Connor Seabold,1
+2025,Tampa Bay Rays,P,Kevin Kelly,1
+2025,Baltimore Orioles,C,Adley Rutschman,90
+2025,Baltimore Orioles,"1B",Coby Mayo,85
+2025,Baltimore Orioles,"2B",Jackson Holliday,149
+2025,Baltimore Orioles,SS,Gunnar Henderson,154
+2025,Baltimore Orioles,"3B",Ramon Urias,77
+2025,Baltimore Orioles,LF,Dylan Carlson,83
+2025,Baltimore Orioles,CF,Cedric Mullins,91
+2025,Baltimore Orioles,RF,Ramon Laureano,82
+2025,Baltimore Orioles,DH,Ryan Mountcastle,89
+2025,Baltimore Orioles,"1B",Ryan O'Hearn,94
+2025,Baltimore Orioles,OF,Colton Cowser,92
+2025,Baltimore Orioles,IF,Jordan Westburg,85
+2025,Baltimore Orioles,RF,Tyler O'Neill,54
+2025,Baltimore Orioles,RF,Jeremiah Jackson,48
+2025,Baltimore Orioles,OF,Heston Kjerstad,54
+2025,Baltimore Orioles,OF,Dylan Beavers,35
+2025,Baltimore Orioles,"3B",Emmanuel Rivera,42
+2025,Baltimore Orioles,C,Samuel Basallo,31
+2025,Baltimore Orioles,C,Gary Sanchez,29
+2025,Baltimore Orioles,C,Alex Jackson,36
+2025,Baltimore Orioles,UT,Jorge Mateo,42
+2025,Baltimore Orioles,IF,Luis Vazquez,32
+2025,Baltimore Orioles,C,Maverick Handley,16
+2025,Baltimore Orioles,C,Jacob Stallings,14
+2025,Baltimore Orioles,OF,Daniel Johnson,17
+2025,Baltimore Orioles,C,Chadwick Tromp,6
+2025,Baltimore Orioles,OF,Greg Allen,7
+2025,Baltimore Orioles,RF,Ryan Noda,7
+2025,Baltimore Orioles,"3B",Vimael Machin,4
+2025,Baltimore Orioles,OF,Jordyn Adams,10
+2025,Baltimore Orioles,DH,David Banuelos,1
+2025,Baltimore Orioles,RF,Cooper Hummel,1
+2025,Baltimore Orioles,CF,Vidal Brujan,1
+2025,Baltimore Orioles,"2B",Terrin Vavra,1
+2025,Baltimore Orioles,P,Trevor Rogers,1
+2025,Baltimore Orioles,P,Andrew Kittredge,2
+2025,Baltimore Orioles,P,Cionel Perez,1
+2025,Baltimore Orioles,P,Dietrich Enns,1
+2025,Baltimore Orioles,P,Seranthony Dominguez,2
+2025,Baltimore Orioles,P,Yennier Cano,1
+2025,Baltimore Orioles,P,Matt Bowman,1
+2025,Baltimore Orioles,P,Felix Bautista,1
+2025,Baltimore Orioles,P,Bryan Baker,1
+2025,Baltimore Orioles,P,Keegan Akin,2
+2025,Cleveland Guardians,C,Bo Naylor,123
+2025,Cleveland Guardians,"1B",Carlos Santana,116
+2025,Cleveland Guardians,"2B",Daniel Schneemann,131
+2025,Cleveland Guardians,SS,Gabriel Arias,129
+2025,Cleveland Guardians,"3B",Jose Ramirez,158
+2025,Cleveland Guardians,LF,Steven Kwan,156
+2025,Cleveland Guardians,CF,Angel Martinez,139
+2025,Cleveland Guardians,RF,Nolan Jones,136
+2025,Cleveland Guardians,DH,Kyle Manzardo,142
+2025,Cleveland Guardians,MI,Brayan Rocchio,115
+2025,Cleveland Guardians,C,Austin Hedges,68
+2025,Cleveland Guardians,DH,David Fry,66
+2025,Cleveland Guardians,RF,Jhonkensy Noel,69
+2025,Cleveland Guardians,CF,Lane Thomas,39
+2025,Cleveland Guardians,UT,CJ Kayfus,44
+2025,Cleveland Guardians,IF,Will Wilson,34
+2025,Cleveland Guardians,RF,Johnathan Rodriguez,31
+2025,Cleveland Guardians,DH,George Valera,16
+2025,Cleveland Guardians,OF,Will Brennan,6
+2025,Cleveland Guardians,OF,Petey Halpin,6
+2025,Cleveland Guardians,C,Dom Nunez,2
+2025,Cleveland Guardians,P,Tim Herrin,1
+2025,Cleveland Guardians,P,Matt Festa,1
+2025,Cleveland Guardians,P,Emmanuel Clase,1
+2025,Detroit Tigers,C,Dillon Dingler,126
+2025,Detroit Tigers,"1B",Spencer Torkelson,155
+2025,Detroit Tigers,"2B",Gleyber Torres,145
+2025,Detroit Tigers,SS,Trey Sweeney,118
+2025,Detroit Tigers,"3B",Zach McKinstry,144
+2025,Detroit Tigers,LF,Riley Greene,157
+2025,Detroit Tigers,CF,Parker Meadows,58
+2025,Detroit Tigers,RF,Wenceel Perez,100
+2025,Detroit Tigers,DH,Colt Keith,137
+2025,Detroit Tigers,OF,Kerry Carpenter,130
+2025,Detroit Tigers,UT,Javier Baez,126
+2025,Detroit Tigers,"3B",Andy Ibanez,91
+2025,Detroit Tigers,DH,Jahmai Jones,72
+2025,Detroit Tigers,C,Jake Rogers,46
+2025,Detroit Tigers,DH,Justyn-Henry Malloy,52
+2025,Detroit Tigers,CF,Matt Vierling,31
+2025,Detroit Tigers,"3B",Jace Jung,21
+2025,Detroit Tigers,CF,Ryan Kreidler,17
+2025,Detroit Tigers,C,Tomas Nido,10
+2025,Detroit Tigers,RF,Manuel Margot,6
+2025,Detroit Tigers,OF,Akil Baddoo,7
+2025,Detroit Tigers,CF,Brewer Hicklen,1
+2025,Detroit Tigers,P,Tyler Owens,1
+2025,Detroit Tigers,P,Tommy Kahnle,1
+2025,Detroit Tigers,P,John Brebbia,1
+2025,Kansas City Royals,C,Salvador Perez,155
+2025,Kansas City Royals,"1B",Vinnie Pasquantino,160
+2025,Kansas City Royals,"2B",Jonathan India,136
+2025,Kansas City Royals,SS,Bobby Witt Jr.,157
+2025,Kansas City Royals,"3B",Maikel Garcia,160
+2025,Kansas City Royals,LF,Drew Waters,71
+2025,Kansas City Royals,CF,Kyle Isbel,135
+2025,Kansas City Royals,RF,Jac Caglianone,62
+2025,Kansas City Royals,DH,Carter Jensen,20
+2025,Kansas City Royals,"2B",Michael Massey,77
+2025,Kansas City Royals,C,Freddy Fermin,67
+2025,Kansas City Royals,UT,Adam Frazier,56
+2025,Kansas City Royals,LF,Nick Loftin,67
+2025,Kansas City Royals,RF,Mike Yastrzemski,50
+2025,Kansas City Royals,OF,John Rave,72
+2025,Kansas City Royals,OF,Mark Canha,46
+2025,Kansas City Royals,RF,Hunter Renfroe,35
+2025,Kansas City Royals,OF,Randal Grichuk,43
+2025,Kansas City Royals,UT,Cavan Biggio,37
+2025,Kansas City Royals,OF,MJ Melendez,23
+2025,Kansas City Royals,UT,Tyler Tolbert,64
+2025,Kansas City Royals,C,Luke Maile,25
+2025,Kansas City Royals,OF,Dairon Blanco,9
+2025,Kansas City Royals,P,Taylor Clarke,3
+2025,Kansas City Royals,P,Luinder Avila,1
+2025,Kansas City Royals,P,John Schreiber,1
+2025,Kansas City Royals,P,Trevor Richards,1
+2025,Kansas City Royals,P,Steven Cruz,1
+2025,Kansas City Royals,P,Daniel Lynch IV,3
+2025,Kansas City Royals,P,Sam Long,1
+2025,Kansas City Royals,P,Lucas Erceg,2
+2025,Kansas City Royals,P,Carlos Estevez,5
+2025,Minnesota Twins,C,Ryan Jeffers,119
+2025,Minnesota Twins,"1B",Ty France,101
+2025,Minnesota Twins,"2B",Luke Keaschall,49
+2025,Minnesota Twins,SS,Carlos Correa,93
+2025,Minnesota Twins,"3B",Royce Lewis,106
+2025,Minnesota Twins,LF,Harrison Bader,96
+2025,Minnesota Twins,CF,Byron Buxton,126
+2025,Minnesota Twins,RF,Matt Wallner,104
+2025,Minnesota Twins,DH,Trevor Larnach,142
+2025,Minnesota Twins,IF,Brooks Lee,139
+2025,Minnesota Twins,IF,Kody Clemens,112
+2025,Minnesota Twins,UT,Willi Castro,86
+2025,Minnesota Twins,C,Christian Vazquez,65
+2025,Minnesota Twins,IF,Edouard Julien,64
+2025,Minnesota Twins,LF,Austin Martin,50
+2025,Minnesota Twins,C,Mickey Gasper,45
+2025,Minnesota Twins,OF,James Outman,37
+2025,Minnesota Twins,OF,DaShawn Keirsey Jr.,74
+2025,Minnesota Twins,"3B",Jonah Bride,33
+2025,Minnesota Twins,IF,Ryan Fitzgerald,24
+2025,Minnesota Twins,OF,Alan Roden,12
+2025,Minnesota Twins,"3B",Jose Miranda,12
+2025,Minnesota Twins,C,Jhonny Pereda,11
+2025,Minnesota Twins,RF,Carson McCusker,16
+2025,Minnesota Twins,P,Griffin Jax,1
+2025,Minnesota Twins,P,Kody Funderburk,1
+2025,Minnesota Twins,P,Jhoan Duran,3
+2025,Chicago White Sox,C,Edgar Quero,111
+2025,Chicago White Sox,"1B",Andrew Vaughn,48
+2025,Chicago White Sox,"2B",Lenyn Sosa,140
+2025,Chicago White Sox,SS,Chase Meidroth,122
+2025,Chicago White Sox,"3B",Miguel Vargas,138
+2025,Chicago White Sox,LF,Andrew Benintendi,116
+2025,Chicago White Sox,CF,Luis Robert Jr.,110
+2025,Chicago White Sox,RF,Mike Tauchman,93
+2025,Chicago White Sox,DH,Kyle Teel,78
+2025,Chicago White Sox,OF,Brooks Baldwin,103
+2025,Chicago White Sox,OF,Michael A. Taylor,134
+2025,Chicago White Sox,SS,Colson Montgomery,71
+2025,Chicago White Sox,IF,Josh Rojas,69
+2025,Chicago White Sox,RF,Joshua Palacios,51
+2025,Chicago White Sox,OF,Austin Slater,51
+2025,Chicago White Sox,CI,Curtis Mead,41
+2025,Chicago White Sox,C,Matt Thaiss,35
+2025,Chicago White Sox,SS,Jacob Amaya,36
+2025,Chicago White Sox,"1B",Tim Elko,23
+2025,Chicago White Sox,DH,Nick Maton,25
+2025,Chicago White Sox,LF,Will Robertson,24
+2025,Chicago White Sox,IF,Vinny Capra,23
+2025,Chicago White Sox,UT,Ryan Noda,16
+2025,Chicago White Sox,C,Korey Lee,25
+2025,Chicago White Sox,OF,Dominic Fletcher,12
+2025,Chicago White Sox,IF,Bobby Dalbec,7
+2025,Chicago White Sox,OF,Travis Jankowski,7
+2025,Chicago White Sox,LF,Corey Julks,6
+2025,Chicago White Sox,"3B",Bryan Ramos,4
+2025,Chicago White Sox,C,Omar Narvaez,4
+2025,Chicago White Sox,CF,Derek Hill,4
+2025,Chicago White Sox,RF,Greg Jones,3
+2025,Chicago White Sox,IF,Gage Workman,3
+2025,Chicago White Sox,P,Tyler Alexander,1
+2025,Chicago White Sox,P,Jordan Leasure,1
+2025,Chicago White Sox,P,Bryse Wilson,1
+2025,Seattle Mariners,C,Cal Raleigh,159
+2025,Seattle Mariners,"1B",Josh Naylor,54
+2025,Seattle Mariners,"2B",Cole Young,77
+2025,Seattle Mariners,SS,J.P. Crawford,157
+2025,Seattle Mariners,"3B",Ben Williamson,85
+2025,Seattle Mariners,LF,Randy Arozarena,160
+2025,Seattle Mariners,CF,Julio Rodriguez,160
+2025,Seattle Mariners,RF,Dominic Canzone,82
+2025,Seattle Mariners,DH,Jorge Polanco,138
+2025,Seattle Mariners,C,Mitch Garver,87
+2025,Seattle Mariners,"3B",Eugenio Suarez,53
+2025,Seattle Mariners,UT,Luke Raley,73
+2025,Seattle Mariners,UT,Dylan Moore,88
+2025,Seattle Mariners,"1B",Rowdy Tellez,62
+2025,Seattle Mariners,"1B",Donovan Solano,69
+2025,Seattle Mariners,UT,Miles Mastrobuoni,76
+2025,Seattle Mariners,RF,Victor Robles,32
+2025,Seattle Mariners,"2B",Leo Rivas,48
+2025,Seattle Mariners,RF,Leody Taveras,28
+2025,Seattle Mariners,"2B",Ryan Bliss,11
+2025,Seattle Mariners,OF,Rhylan Thomas,3
+2025,Seattle Mariners,OF,Samad Taylor,4
+2025,Seattle Mariners,C,Harry Ford,8
+2025,Seattle Mariners,P,Emerson Hancock,1
+2025,Seattle Mariners,P,Zach Pop,1
+2025,Seattle Mariners,P,Trent Thornton,1
+2025,Seattle Mariners,P,Jose Castillo,1
+2025,Seattle Mariners,P,Casey Legumina,1
+2025,Houston Astros,C,Yainer Diaz,143
+2025,Houston Astros,"1B",Christian Walker,154
+2025,Houston Astros,"2B",Jose Altuve,155
+2025,Houston Astros,SS,Jeremy Pena,125
+2025,Houston Astros,"3B",Isaac Paredes,102
+2025,Houston Astros,LF,Cooper Hummel,36
+2025,Houston Astros,CF,Jake Meyers,104
+2025,Houston Astros,RF,Cam Smith,134
+2025,Houston Astros,DH,Yordan Alvarez,48
+2025,Houston Astros,UT,Mauricio Dubon,133
+2025,Houston Astros,C,Victor Caratini,114
+2025,Houston Astros,"3B",Carlos Correa,51
+2025,Houston Astros,OF,Jesus Sanchez,48
+2025,Houston Astros,OF,Taylor Trammell,52
+2025,Houston Astros,"2B",Brendan Rodgers,43
+2025,Houston Astros,CF,Chas McCormick,64
+2025,Houston Astros,OF,Zach Dezenzo,34
+2025,Houston Astros,"2B",Ramon Urias,35
+2025,Houston Astros,OF,Jacob Melton,32
+2025,Houston Astros,SS,Zack Short,22
+2025,Houston Astros,OF,Zach Cole,15
+2025,Houston Astros,"2B",Brice Matthews,13
+2025,Houston Astros,UT,Shay Whitcomb,20
+2025,Houston Astros,IF,Luis Guillorme,12
+2025,Houston Astros,C,Cesar Salazar,11
+2025,Houston Astros,DH,Jon Singleton,3
+2025,Houston Astros,CF,Kenedy Corona,3
+2025,Houston Astros,P,Kaleb Ort,2
+2025,Houston Astros,P,Bryan Abreu,1
+2025,Houston Astros,P,Josh Hader,1
+2025,Houston Astros,P,Bennett Sousa,1
+2025,Houston Astros,P,Enyel De Los Santos,1
+2025,Texas Rangers,C,Jonah Heim,124
+2025,Texas Rangers,"1B",Jake Burger,103
+2025,Texas Rangers,"2B",Marcus Semien,127
+2025,Texas Rangers,SS,Corey Seager,102
+2025,Texas Rangers,"3B",Josh Jung,131
+2025,Texas Rangers,LF,Wyatt Langford,134
+2025,Texas Rangers,CF,Evan Carter,63
+2025,Texas Rangers,RF,Adolis Garcia,135
+2025,Texas Rangers,DH,Joc Pederson,96
+2025,Texas Rangers,IF,Josh Smith,144
+2025,Texas Rangers,C,Kyle Higashioka,94
+2025,Texas Rangers,IF,Ezequiel Duran,90
+2025,Texas Rangers,OF,Sam Haggerty,64
+2025,Texas Rangers,LF,Alejandro Osuna,63
+2025,Texas Rangers,"1B",Rowdy Tellez,50
+2025,Texas Rangers,"2B",Cody Freeman,36
+2025,Texas Rangers,CF,Michael Helman,38
+2025,Texas Rangers,CF,Leody Taveras,30
+2025,Texas Rangers,OF,Dustin Harris,19
+2025,Texas Rangers,OF,Kevin Pillar,20
+2025,Texas Rangers,UT,Dylan Moore,18
+2025,Texas Rangers,OF,Billy McKinney,6
+2025,Texas Rangers,C,Tucker Barnhart,8
+2025,Texas Rangers,"1B",Blaine Crim,5
+2025,Texas Rangers,SS,Nick Ahmed,5
+2025,Texas Rangers,"1B",Justin Foscue,4
+2025,Texas Rangers,MI,Jonathan Ornelas,4
+2025,Texas Rangers,"2B",Donovan Solano,2
+2025,Texas Rangers,P,Jack Leiter,1
+2025,Texas Rangers,P,Luis Curvelo,1
+2025,Texas Rangers,P,Hoby Milner,2
+2025,Texas Rangers,P,Shawn Armstrong,1
+2025,Texas Rangers,P,Robert Garcia,1
+2025,Athletics,C,Shea Langeliers,123
+2025,Athletics,"1B",Nick Kurtz,117
+2025,Athletics,"2B",Luis Urias,96
+2025,Athletics,SS,Jacob Wilson,125
+2025,Athletics,"3B",Gio Urshela,59
+2025,Athletics,LF,Tyler Soderstrom,158
+2025,Athletics,CF,JJ Bleday,98
+2025,Athletics,RF,Lawrence Butler,152
+2025,Athletics,DH,Brent Rooker,162
+2025,Athletics,UT,Miguel Andujar,60
+2025,Athletics,IF,Max Muncy,63
+2025,Athletics,IF,Max Schuemann,101
+2025,Athletics,IF,Darell Hernaiz,51
+2025,Athletics,CF,Denzel Clarke,47
+2025,Athletics,OF,Colby Thomas,49
+2025,Athletics,C,Willie MacIver,32
+2025,Athletics,"2B",Zack Gelof,30
+2025,Athletics,OF,Carlos Cortes,42
+2025,Athletics,"3B",Brett Harris,32
+2025,Athletics,OF,Seth Brown,38
+2025,Athletics,C,Austin Wynns,22
+2025,Athletics,C,Jhonny Pereda,17
+2025,Athletics,IF,Logan Davidson,9
+2025,Athletics,UT,CJ Alexander,6
+2025,Athletics,OF,Drew Avans,7
+2025,Athletics,P,Michael Kelly,1
+2025,Athletics,P,Tyler Ferguson,1
+2025,Athletics,P,Elvis Alvarado,1
+2025,Los Angeles Angels,C,Logan O'Hoppe,119
+2025,Los Angeles Angels,"1B",Nolan Schanuel,132
+2025,Los Angeles Angels,"2B",Luis Rengifo,147
+2025,Los Angeles Angels,SS,Zach Neto,128
+2025,Los Angeles Angels,"3B",Yoan Moncada,84
+2025,Los Angeles Angels,LF,Taylor Ward,157
+2025,Los Angeles Angels,CF,Jo Adell,152
+2025,Los Angeles Angels,RF,Jorge Soler,82
+2025,Los Angeles Angels,DH,Mike Trout,130
+2025,Los Angeles Angels,C,Travis d'Arnaud,69
+2025,Los Angeles Angels,"2B",Christian Moore,53
+2025,Los Angeles Angels,CF,Bryce Teodosio,50
+2025,Los Angeles Angels,UT,Kyren Paris,44
+2025,Los Angeles Angels,IF,Kevin Newman,56
+2025,Los Angeles Angels,IF,Oswald Peraza,35
+2025,Los Angeles Angels,MI,Tim Anderson,31
+2025,Los Angeles Angels,UT,Chris Taylor,30
+2025,Los Angeles Angels,RF,LaMonte Wade Jr.,30
+2025,Los Angeles Angels,OF,Matthew Lugo,31
+2025,Los Angeles Angels,RF,Gustavo Campero,28
+2025,Los Angeles Angels,SS,Denzer Guzman,13
+2025,Los Angeles Angels,C,Sebastian Rivero,11
+2025,Los Angeles Angels,UT,Scott Kingery,19
+2025,Los Angeles Angels,"1B",Logan Davidson,10
+2025,Los Angeles Angels,"1B",Niko Kavadas,10
+2025,Los Angeles Angels,IF,Chad Stevens,5
+2025,Los Angeles Angels,CI,J.D. Davis,5
+2025,Los Angeles Angels,"1B",Carter Kieboom,3
+2025,Los Angeles Angels,UT,Nicky Lopez,4
+2025,Los Angeles Angels,C,Chad Wallach,1
+2025,Los Angeles Angels,P,Kenley Jansen,1
+2025,Philadelphia Phillies,C,J.T. Realmuto,134
+2025,Philadelphia Phillies,"1B",Bryce Harper,132
+2025,Philadelphia Phillies,"2B",Bryson Stott,147
+2025,Philadelphia Phillies,SS,Trea Turner,141
+2025,Philadelphia Phillies,"3B",Alec Bohm,120
+2025,Philadelphia Phillies,LF,Max Kepler,127
+2025,Philadelphia Phillies,CF,Brandon Marsh,133
+2025,Philadelphia Phillies,RF,Nick Castellanos,147
+2025,Philadelphia Phillies,DH,Kyle Schwarber,162
+2025,Philadelphia Phillies,IF,Edmundo Sosa,89
+2025,Philadelphia Phillies,CI,Otto Kemp,62
+2025,Philadelphia Phillies,CF,Harrison Bader,50
+2025,Philadelphia Phillies,CF,Johan Rojas,71
+2025,Philadelphia Phillies,LF,Weston Wilson,52
+2025,Philadelphia Phillies,C,Rafael Marchan,42
+2025,Philadelphia Phillies,"2B",Donovan Walton,2
+2025,Philadelphia Phillies,CI,Buddy Kennedy,4
+2025,Philadelphia Phillies,CF,Cal Stevenson,5
+2025,Philadelphia Phillies,UT,Kody Clemens,7
+2025,Philadelphia Phillies,DH,Garrett Stubbs,5
+2025,New York Mets,C,Luis Torrens,92
+2025,New York Mets,"1B",Pete Alonso,162
+2025,New York Mets,"2B",Jeff McNeil,122
+2025,New York Mets,SS,Francisco Lindor,160
+2025,New York Mets,"3B",Brett Baty,130
+2025,New York Mets,LF,Brandon Nimmo,155
+2025,New York Mets,CF,Tyrone Taylor,113
+2025,New York Mets,RF,Juan Soto,160
+2025,New York Mets,DH,Starling Marte,98
+2025,New York Mets,"3B",Mark Vientos,121
+2025,New York Mets,C,Francisco Alvarez,76
+2025,New York Mets,"2B",Luisangel Acuna,95
+2025,New York Mets,"3B",Ronny Mauricio,61
+2025,New York Mets,CF,Cedric Mullins,42
+2025,New York Mets,DH,Jesse Winker,26
+2025,New York Mets,C,Hayden Senger,33
+2025,New York Mets,DH,Jared Young,22
+2025,New York Mets,CF,Jose Siri,16
+2025,New York Mets,OF,Jose Azocar,12
+2025,New York Mets,OF,Travis Jankowski,4
+2025,New York Mets,P,Ryne Stanek,1
+2025,New York Mets,P,Edwin Diaz,1
+2025,Miami Marlins,C,Agustin Ramirez,136
+2025,Miami Marlins,"1B",Eric Wagaman,140
+2025,Miami Marlins,"2B",Xavier Edwards,139
+2025,Miami Marlins,SS,Otto Lopez,143
+2025,Miami Marlins,"3B",Connor Norby,88
+2025,Miami Marlins,LF,Kyle Stowers,117
+2025,Miami Marlins,CF,Dane Myers,106
+2025,Miami Marlins,RF,Jesus Sanchez,86
+2025,Miami Marlins,DH,Heriberto Hernandez,87
+2025,Miami Marlins,UT,Liam Hicks,119
+2025,Miami Marlins,UT,Javier Sanoja,118
+2025,Miami Marlins,CF,Jakob Marsee,55
+2025,Miami Marlins,"3B",Graham Pauley,62
+2025,Miami Marlins,C,Nick Fortes,59
+2025,Miami Marlins,CF,Derek Hill,53
+2025,Miami Marlins,"1B",Matt Mervis,42
+2025,Miami Marlins,UT,Troy Johnston,44
+2025,Miami Marlins,OF,Griffin Conine,24
+2025,Miami Marlins,RF,Joey Wiemer,27
+2025,Miami Marlins,IF,Maximo Acosta,19
+2025,Miami Marlins,UT,Ronny Simon,19
+2025,Miami Marlins,CI,Jonah Bride,12
+2025,Miami Marlins,OF,Victor Mesa Jr.,16
+2025,Miami Marlins,IF,Jack Winkler,14
+2025,Miami Marlins,C,Brian Navarreto,8
+2025,Miami Marlins,C,Rob Brantly,3
+2025,Atlanta Braves,C,Drake Baldwin,124
+2025,Atlanta Braves,"1B",Matt Olson,162
+2025,Atlanta Braves,"2B",Ozzie Albies,157
+2025,Atlanta Braves,SS,Nick Allen,135
+2025,Atlanta Braves,"3B",Austin Riley,102
+2025,Atlanta Braves,LF,Jurickson Profar,80
+2025,Atlanta Braves,CF,Michael Harris II,160
+2025,Atlanta Braves,RF,Ronald Acuna Jr.,95
+2025,Atlanta Braves,DH,Marcell Ozuna,145
+2025,Atlanta Braves,C,Sean Murphy,94
+2025,Atlanta Braves,OF,Eli White,105
+2025,Atlanta Braves,LF,Alex Verdugo,56
+2025,Atlanta Braves,"3B",Nacho Alvarez Jr.,58
+2025,Atlanta Braves,SS,Ha-Seong Kim,24
+2025,Atlanta Braves,RF,Jarred Kelenic,24
+2025,Atlanta Braves,OF,Stuart Fairchild,28
+2025,Atlanta Braves,LF,Bryan De La Cruz,16
+2025,Atlanta Braves,UT,Vidal Brujan,23
+2025,Atlanta Braves,IF,Luke Williams,39
+2025,Atlanta Braves,SS,Orlando Arcia,14
+2025,Atlanta Braves,OF,Jake Fraley,9
+2025,Atlanta Braves,C,Sandy Leon,5
+2025,Atlanta Braves,"2B",Brett Wisely,4
+2025,Atlanta Braves,C,Chadwick Tromp,2
+2025,Atlanta Braves,IF,Jonathan Ornelas,2
+2025,Atlanta Braves,RF,Eddie Rosario,3
+2025,Atlanta Braves,DH,Jose Azocar,2
+2025,Washington Nationals,C,Riley Adams,83
+2025,Washington Nationals,"1B",Nathaniel Lowe,119
+2025,Washington Nationals,"2B",Luis Garcia Jr.,139
+2025,Washington Nationals,SS,CJ Abrams,144
+2025,Washington Nationals,"3B",Brady House,73
+2025,Washington Nationals,LF,James Wood,157
+2025,Washington Nationals,CF,Jacob Young,120
+2025,Washington Nationals,RF,Dylan Crews,85
+2025,Washington Nationals,DH,Josh Bell,140
+2025,Washington Nationals,OF,Daylen Lile,91
+2025,Washington Nationals,C,Keibert Ruiz,68
+2025,Washington Nationals,OF,Alex Call,72
+2025,Washington Nationals,"3B",Paul DeJong,57
+2025,Washington Nationals,CF,Robert Hassell III,70
+2025,Washington Nationals,"3B",Jose Tena,50
+2025,Washington Nationals,IF,Amed Rosario,46
+2025,Washington Nationals,MI,Nasim Nunez,39
+2025,Washington Nationals,"1B",Andres Chaparro,34
+2025,Washington Nationals,C,Drew Millas,18
+2025,Washington Nationals,C,Jorge Alfaro,14
+2025,Washington Nationals,IF,Trey Lipscomb,3
+2025,Washington Nationals,C,CJ Stubbs,1
+2025,Washington Nationals,P,Shinnosuke Ogasawara,1
+2025,Washington Nationals,P,PJ Poulin,1
+2025,Washington Nationals,P,Konnor Pilkington,1
+2025,Washington Nationals,P,Jackson Rutledge,1
+2025,Washington Nationals,P,Cade Cavalli,1
+2025,Washington Nationals,P,Jose A. Ferrer,1
+2025,Milwaukee Brewers,C,William Contreras,150
+2025,Milwaukee Brewers,"1B",Rhys Hoskins,90
+2025,Milwaukee Brewers,"2B",Brice Turang,156
+2025,Milwaukee Brewers,SS,Joey Ortiz,149
+2025,Milwaukee Brewers,"3B",Caleb Durbin,136
+2025,Milwaukee Brewers,LF,Isaac Collins,130
+2025,Milwaukee Brewers,CF,Jackson Chourio,131
+2025,Milwaukee Brewers,RF,Sal Frelick,142
+2025,Milwaukee Brewers,DH,Christian Yelich,150
+2025,Milwaukee Brewers,"1B",Andrew Vaughn,64
+2025,Milwaukee Brewers,UT,Jake Bauers,85
+2025,Milwaukee Brewers,CF,Blake Perkins,54
+2025,Milwaukee Brewers,SS,Andruw Monasterio,68
+2025,Milwaukee Brewers,C,Danny Jansen,25
+2025,Milwaukee Brewers,CF,Garrett Mitchell,25
+2025,Milwaukee Brewers,C,Eric Haase,30
+2025,Milwaukee Brewers,"3B",Anthony Seigler,34
+2025,Milwaukee Brewers,"3B",Vinny Capra,24
+2025,Milwaukee Brewers,OF,Brandon Lockridge,20
+2025,Milwaukee Brewers,OF,Daz Cameron,21
+2025,Milwaukee Brewers,"3B",Oliver Dunn,14
+2025,Milwaukee Brewers,UT,Tyler Black,5
+2025,Milwaukee Brewers,CF,Steward Berroa,2
+2025,Milwaukee Brewers,LF,Drew Avans,1
+2025,Chicago Cubs,C,Carson Kelly,111
+2025,Chicago Cubs,"1B",Michael Busch,155
+2025,Chicago Cubs,"2B",Nico Hoerner,156
+2025,Chicago Cubs,SS,Dansby Swanson,159
+2025,Chicago Cubs,"3B",Matt Shaw,126
+2025,Chicago Cubs,LF,Ian Happ,150
+2025,Chicago Cubs,CF,Pete Crow-Armstrong,157
+2025,Chicago Cubs,RF,Kyle Tucker,136
+2025,Chicago Cubs,DH,Seiya Suzuki,151
+2025,Chicago Cubs,"1B",Justin Turner,80
+2025,Chicago Cubs,C,Reese McGuire,44
+2025,Chicago Cubs,UT,Willi Castro,34
+2025,Chicago Cubs,"3B",Jon Berti,51
+2025,Chicago Cubs,C,Miguel Amaya,28
+2025,Chicago Cubs,DH,Moises Ballesteros,20
+2025,Chicago Cubs,UT,Vidal Brujan,36
+2025,Chicago Cubs,OF,Owen Caissie,12
+2025,Chicago Cubs,IF,Nicky Lopez,14
+2025,Chicago Cubs,"1B",Carlos Santana,8
+2025,Chicago Cubs,IF,Gage Workman,9
+2025,Chicago Cubs,OF,Kevin Alcantara,10
+2025,Chicago Cubs,P,Colin Rea,1
+2025,Cincinnati Reds,C,Jose Trevino,93
+2025,Cincinnati Reds,"1B",Spencer Steer,146
+2025,Cincinnati Reds,"2B",Matt McLain,147
+2025,Cincinnati Reds,SS,Elly De La Cruz,162
+2025,Cincinnati Reds,"3B",Santiago Espinal,114
+2025,Cincinnati Reds,LF,Austin Hays,103
+2025,Cincinnati Reds,CF,TJ Friedl,152
+2025,Cincinnati Reds,RF,Noelvi Marte,90
+2025,Cincinnati Reds,DH,Gavin Lux,140
+2025,Cincinnati Reds,C,Tyler Stephenson,88
+2025,Cincinnati Reds,OF,Will Benson,90
+2025,Cincinnati Reds,RF,Jake Fraley,67
+2025,Cincinnati Reds,"3B",Ke'Bryan Hayes,52
+2025,Cincinnati Reds,"1B",Christian Encarnacion-Strand,36
+2025,Cincinnati Reds,DH,Miguel Andujar,34
+2025,Cincinnati Reds,CI,Jeimer Candelario,22
+2025,Cincinnati Reds,OF,Blake Dunn,30
+2025,Cincinnati Reds,UT,Connor Joe,35
+2025,Cincinnati Reds,CI,Sal Stewart,18
+2025,Cincinnati Reds,RF,Rece Hinds,15
+2025,Cincinnati Reds,C,Austin Wynns,18
+2025,Cincinnati Reds,UT,Garrett Hampson,9
+2025,Cincinnati Reds,LF,Jacob Hurtubise,12
+2025,Cincinnati Reds,C,Will Banfield,7
+2025,Cincinnati Reds,UT,Tyler Callihan,4
+2025,Cincinnati Reds,LF,Ryan Vilade,1
+2025,St. Louis Cardinals,C,Pedro Pages,112
+2025,St. Louis Cardinals,"1B",Willson Contreras,135
+2025,St. Louis Cardinals,"2B",Brendan Donovan,118
+2025,St. Louis Cardinals,SS,Masyn Winn,129
+2025,St. Louis Cardinals,"3B",Nolan Arenado,107
+2025,St. Louis Cardinals,LF,Lars Nootbaar,135
+2025,St. Louis Cardinals,CF,Victor Scott II,138
+2025,St. Louis Cardinals,RF,Jordan Walker,111
+2025,St. Louis Cardinals,DH,Ivan Herrera,107
+2025,St. Louis Cardinals,UT,Alec Burleson,139
+2025,St. Louis Cardinals,IF,Nolan Gorman,111
+2025,St. Louis Cardinals,MI,Thomas Saggese,82
+2025,St. Louis Cardinals,C,Yohel Pozo,67
+2025,St. Louis Cardinals,UT,Jose Fermin,30
+2025,St. Louis Cardinals,CF,Nathan Church,27
+2025,St. Louis Cardinals,C,Jimmy Crooks,15
+2025,St. Louis Cardinals,DH,Luken Baker,19
+2025,St. Louis Cardinals,UT,Jose Barrero,22
+2025,St. Louis Cardinals,UT,Garrett Hampson,35
+2025,St. Louis Cardinals,CF,Michael Siani,19
+2025,St. Louis Cardinals,OF,Ryan Vilade,7
+2025,St. Louis Cardinals,"2B",Cesar Prieto,3
+2025,St. Louis Cardinals,P,Andre Pallante,1
+2025,St. Louis Cardinals,P,Phil Maton,1
+2025,St. Louis Cardinals,P,Ryan Helsley,1
+2025,Pittsburgh Pirates,C,Henry Davis,87
+2025,Pittsburgh Pirates,"1B",Spencer Horwitz,108
+2025,Pittsburgh Pirates,"2B",Nick Gonzales,96
+2025,Pittsburgh Pirates,SS,Isiah Kiner-Falefa,119
+2025,Pittsburgh Pirates,"3B",Ke'Bryan Hayes,100
+2025,Pittsburgh Pirates,LF,Tommy Pham,120
+2025,Pittsburgh Pirates,CF,Oneil Cruz,135
+2025,Pittsburgh Pirates,RF,Bryan Reynolds,154
+2025,Pittsburgh Pirates,DH,Andrew McCutchen,135
+2025,Pittsburgh Pirates,IF,Jared Triolo,107
+2025,Pittsburgh Pirates,C,Joey Bart,93
+2025,Pittsburgh Pirates,"2B",Adam Frazier,78
+2025,Pittsburgh Pirates,OF,Alexander Canario,87
+2025,Pittsburgh Pirates,OF,Jack Suwinski,59
+2025,Pittsburgh Pirates,"1B",Enmanuel Valdez,31
+2025,Pittsburgh Pirates,IF,Liover Peguero,33
+2025,Pittsburgh Pirates,UT,Nick Yorke,22
+2025,Pittsburgh Pirates,UT,Endy Rodriguez,18
+2025,Pittsburgh Pirates,UT,Matt Gorski,15
+2025,Pittsburgh Pirates,"3B",Cam Devanney,14
+2025,Pittsburgh Pirates,OF,Ronny Simon,8
+2025,Pittsburgh Pirates,OF,Jihwan Bae,13
+2025,Pittsburgh Pirates,UT,Rafael Flores,7
+2025,Pittsburgh Pirates,UT,Nick Solak,4
+2025,Pittsburgh Pirates,C,Brett Sullivan,3
+2025,Pittsburgh Pirates,MI,Tsung-Che Cheng,3
+2025,Pittsburgh Pirates,UT,Billy Cook,3
+2025,Los Angeles Dodgers,C,Will Smith,110
+2025,Los Angeles Dodgers,"1B",Freddie Freeman,147
+2025,Los Angeles Dodgers,"2B",Tommy Edman,97
+2025,Los Angeles Dodgers,SS,Mookie Betts,150
+2025,Los Angeles Dodgers,"3B",Max Muncy,100
+2025,Los Angeles Dodgers,LF,Michael Conforto,138
+2025,Los Angeles Dodgers,CF,Andy Pages,156
+2025,Los Angeles Dodgers,RF,Teoscar Hernandez,134
+2025,Los Angeles Dodgers,DH,Shohei Ohtani,158
+2025,Los Angeles Dodgers,IF,Miguel Rojas,114
+2025,Los Angeles Dodgers,UT,Kike Hernandez,92
+2025,Los Angeles Dodgers,"2B",Hyeseong Kim,71
+2025,Los Angeles Dodgers,C,Dalton Rushing,53
+2025,Los Angeles Dodgers,IF,Alex Freeland,29
+2025,Los Angeles Dodgers,OF,Alex Call,38
+2025,Los Angeles Dodgers,C,Ben Rortvedt,18
+2025,Los Angeles Dodgers,C,Austin Barnes,13
+2025,Los Angeles Dodgers,CF,James Outman,22
+2025,Los Angeles Dodgers,UT,Chris Taylor,28
+2025,Los Angeles Dodgers,OF,Esteury Ruiz,19
+2025,Los Angeles Dodgers,"3B",Buddy Kennedy,7
+2025,Los Angeles Dodgers,DH,Eddie Rosario,2
+2025,Los Angeles Dodgers,"1B",Hunter Feduccia,2
+2025,Los Angeles Dodgers,C,Chuckie Robinson,1
+2025,Los Angeles Dodgers,CF,Justin Dean,18
+2025,Los Angeles Dodgers,P,Tanner Scott,1
+2025,Los Angeles Dodgers,P,Anthony Banda,1
+2025,San Diego Padres,C,Elias Diaz,106
+2025,San Diego Padres,"1B",Luis Arraez,154
+2025,San Diego Padres,"2B",Jake Cronenworth,135
+2025,San Diego Padres,SS,Xander Bogaerts,136
+2025,San Diego Padres,"3B",Manny Machado,159
+2025,San Diego Padres,LF,Gavin Sheets,145
+2025,San Diego Padres,CF,Jackson Merrill,115
+2025,San Diego Padres,RF,Fernando Tatis Jr.,155
+2025,San Diego Padres,DH,Ryan O'Hearn,50
+2025,San Diego Padres,IF,Jose Iglesias,112
+2025,San Diego Padres,LF,Ramon Laureano,50
+2025,San Diego Padres,C,Martin Maldonado,64
+2025,San Diego Padres,C,Freddy Fermin,42
+2025,San Diego Padres,OF,Tyler Wade,59
+2025,San Diego Padres,LF,Jason Heyward,34
+2025,San Diego Padres,OF,Brandon Lockridge,47
+2025,San Diego Padres,OF,Bryce Johnson,55
+2025,San Diego Padres,OF,Oscar Gonzalez,21
+2025,San Diego Padres,DH,Trenton Brooks,25
+2025,San Diego Padres,DH,Yuli Gurriel,16
+2025,San Diego Padres,DH,Luis Campusano,10
+2025,San Diego Padres,MI,Mason McCoy,18
+2025,San Diego Padres,IF,Will Wagner,15
+2025,San Diego Padres,OF,Tirso Ornelas,7
+2025,San Diego Padres,UT,Connor Joe,7
+2025,San Francisco Giants,C,Patrick Bailey,135
+2025,San Francisco Giants,"1B",Dominic Smith,63
+2025,San Francisco Giants,"2B",Tyler Fitzgerald,72
+2025,San Francisco Giants,SS,Willy Adames,160
+2025,San Francisco Giants,"3B",Matt Chapman,128
+2025,San Francisco Giants,LF,Heliot Ramos,157
+2025,San Francisco Giants,CF,Jung Hoo Lee,150
+2025,San Francisco Giants,RF,Mike Yastrzemski,96
+2025,San Francisco Giants,DH,Wilmer Flores,125
+2025,San Francisco Giants,DH,Rafael Devers,90
+2025,San Francisco Giants,IF,Casey Schmitt,95
+2025,San Francisco Giants,"2B",Christian Koss,74
+2025,San Francisco Giants,RF,Luis Matos,57
+2025,San Francisco Giants,"1B",LaMonte Wade Jr.,50
+2025,San Francisco Giants,RF,Drew Gilbert,39
+2025,San Francisco Giants,C,Andrew Knizner,33
+2025,San Francisco Giants,C,Sam Huff,20
+2025,San Francisco Giants,UT,Jerar Encarnacion,19
+2025,San Francisco Giants,IF,Brett Wisely,22
+2025,San Francisco Giants,DH,Bryce Eldridge,10
+2025,San Francisco Giants,OF,Daniel Johnson,14
+2025,San Francisco Giants,OF,Grant McCray,22
+2025,San Francisco Giants,"1B",David Villar,9
+2025,San Francisco Giants,C,Logan Porter,4
+2025,San Francisco Giants,IF,Sergio Alcantara,1
+2025,San Francisco Giants,P,Tyler Rogers,1
+2025,San Francisco Giants,P,Hayden Birdsong,1
+2025,San Francisco Giants,P,Ryan Walker,1
+2025,Arizona Diamondbacks,C,Gabriel Moreno,83
+2025,Arizona Diamondbacks,"1B",Josh Naylor,93
+2025,Arizona Diamondbacks,"2B",Ketel Marte,126
+2025,Arizona Diamondbacks,SS,Geraldo Perdomo,161
+2025,Arizona Diamondbacks,"3B",Eugenio Suarez,106
+2025,Arizona Diamondbacks,LF,Lourdes Gurriel Jr.,129
+2025,Arizona Diamondbacks,CF,Alek Thomas,143
+2025,Arizona Diamondbacks,RF,Corbin Carroll,143
+2025,Arizona Diamondbacks,DH,Pavin Smith,87
+2025,Arizona Diamondbacks,"3B",Blaze Alexander,74
+2025,Arizona Diamondbacks,UT,Tim Tawa,74
+2025,Arizona Diamondbacks,LF,Jake McCarthy,67
+2025,Arizona Diamondbacks,C,Jose Herrera,57
+2025,Arizona Diamondbacks,DH,Randal Grichuk,70
+2025,Arizona Diamondbacks,C,James McCann,42
+2025,Arizona Diamondbacks,DH,Adrian Del Castillo,44
+2025,Arizona Diamondbacks,IF,Ildemaro Vargas,38
+2025,Arizona Diamondbacks,"1B",Tyler Locklear,31
+2025,Arizona Diamondbacks,OF,Jorge Barrosa,33
+2025,Arizona Diamondbacks,IF,Jordan Lawlar,28
+2025,Arizona Diamondbacks,UT,Garrett Hampson,18
+2025,Arizona Diamondbacks,"1B",Tristin English,7
+2025,Arizona Diamondbacks,"2B",Connor Kaiser,11
+2025,Arizona Diamondbacks,C,Aramis Garcia,2
+2025,Arizona Diamondbacks,P,Ryne Nelson,1
+2025,Arizona Diamondbacks,P,Juan Morillo,2
+2025,Arizona Diamondbacks,P,Joe Mantiply,1
+2025,Arizona Diamondbacks,P,Brandyn Garcia,1
+2025,Arizona Diamondbacks,P,A.J. Puk,2
+2025,Arizona Diamondbacks,P,Andrew Saalfrank,1
+2025,Arizona Diamondbacks,P,Drey Jameson,1
+2025,Arizona Diamondbacks,P,Shelby Miller,2
+2025,Arizona Diamondbacks,P,John Curtiss,1
+2025,Arizona Diamondbacks,P,Justin Martinez,2
+2025,Arizona Diamondbacks,P,Ryan Thompson,1
+2025,Arizona Diamondbacks,P,Kyle Backhus,1
+2025,Colorado Rockies,C,Hunter Goodman,144
+2025,Colorado Rockies,"1B",Michael Toglia,88
+2025,Colorado Rockies,"2B",Thairo Estrada,39
+2025,Colorado Rockies,SS,Ezequiel Tovar,95
+2025,Colorado Rockies,"3B",Ryan McMahon,100
+2025,Colorado Rockies,LF,Jordan Beck,148
+2025,Colorado Rockies,CF,Brenton Doyle,138
+2025,Colorado Rockies,RF,Mickey Moniak,135
+2025,Colorado Rockies,DH,Tyler Freeman,110
+2025,Colorado Rockies,IF,Kyle Farmer,97
+2025,Colorado Rockies,MI,Ryan Ritter,60
+2025,Colorado Rockies,IF,Orlando Arcia,62
+2025,Colorado Rockies,"3B",Kyle Karros,43
+2025,Colorado Rockies,DH,Yanquiel Fernandez,52
+2025,Colorado Rockies,"1B",Warming Bernabel,40
+2025,Colorado Rockies,"2B",Adael Amador,41
+2025,Colorado Rockies,C,Braxton Fulford,38
+2025,Colorado Rockies,DH,Nick Martini,43
+2025,Colorado Rockies,C,Jacob Stallings,28
+2025,Colorado Rockies,UT,Sean Bouchard,32
+2025,Colorado Rockies,OF,Sam Hilliard,20
+2025,Colorado Rockies,"1B",Blaine Crim,15
+2025,Colorado Rockies,SS,Alan Trejo,13
+2025,Colorado Rockies,C,Austin Nola,14
+2025,Colorado Rockies,DH,Kris Bryant,11
+2025,Colorado Rockies,OF,Zac Veen,12
+2025,Colorado Rockies,IF,Aaron Schunk,16
+2025,Colorado Rockies,"1B",Keston Hiura,8
+2025,Colorado Rockies,IF,Owen Miller,9
+2025,Colorado Rockies,DH,Drew Romo,3
+2025,Colorado Rockies,P,Zach Agnos,1
+2025,Colorado Rockies,P,Juan Mejia,2
+2025,Colorado Rockies,P,Seth Halvorsen,1
+2025,Colorado Rockies,P,Angel Chivilli,1
+2025,Colorado Rockies,P,Jake Bird,1
+2025,Colorado Rockies,P,Victor Vodnik,1

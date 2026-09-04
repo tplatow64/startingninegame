@@ -27,7 +27,7 @@ class BaseballGame:
     }
 
     MIN_YEAR = 2000
-    MAX_YEAR = 2024 # Update this when adding new data!
+    MAX_YEAR = 2025 # Update this when adding new data!
     
     def __init__(self, csv_file='baseball_data.csv'):
         self.csv_file = csv_file

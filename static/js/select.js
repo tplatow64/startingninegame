@@ -3,6 +3,7 @@
   const teamDict = {
     "Anaheim Angels": "Anaheim Angels",
     "Arizona Diamondbacks": "Arizona Diamondbacks",
+    "Athletics": "Athletics",
     "Atlanta Braves": "Atlanta Braves",
     "Baltimore Orioles": "Baltimore Orioles",
     "Boston Red Sox": "Boston Red Sox",
@@ -41,7 +42,7 @@
 
   // create year boundaries
   const minYear = 2000;
-  const maxYear = 2024;
+  const maxYear = 2025;
 
   // some teams have special year ranges, so we can filter the year dropdown based on the team selection
   const teamYearRanges = {
@@ -56,6 +57,8 @@
     "Tampa Bay Rays": [2008, maxYear],
     "Cleveland Indians": [minYear, 2021],
     "Cleveland Guardians": [2022, maxYear],
+    "Oakland Athletics": [minYear, 2024],
+    "Athletics": [2025, maxYear],
     "": [minYear, maxYear] // default for "Any" option
   };
 
